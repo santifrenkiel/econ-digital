@@ -90,7 +90,7 @@ async function buscarFuncionesPorTitulo(titulo, apiKey, ubicacionReferencia = ''
     if (response.data.showtimes && Array.isArray(response.data.showtimes)) {
       console.log('✅ Se encontraron horarios reales de cines en showtimes');
       
-      const funciones = [];
+      let funciones = [];  // Cambiado de const a let para permitir reasignación
       const diasSemana = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
       const fechaActual = new Date();
       
