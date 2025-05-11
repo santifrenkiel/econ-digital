@@ -52,16 +52,44 @@ const CarteleraCard = ({ evento, icon }) => {
       if (isNaN(fecha.getTime())) return '';
       
       const hoy = new Date();
-      const esHoy = fecha.toDateString() === hoy.toDateString();
-      const esMañana = new Date(hoy.setDate(hoy.getDate() + 1)).toDateString() === fecha.toDateString();
+      hoy.setHours(0, 0, 0, 0); // Normalizar a medianoche para mejor comparación
+      
+      const manana = new Date(hoy);
+      manana.setDate(hoy.getDate() + 1);
+      
+      // Comparar sólo las fechas sin hora
+      const fechaSinHora = new Date(fecha);
+      fechaSinHora.setHours(0, 0, 0, 0);
+      
+      const esHoy = fechaSinHora.getTime() === hoy.getTime();
+      const esMañana = fechaSinHora.getTime() === manana.getTime();
       
       if (esHoy) return 'Hoy';
       if (esMañana) return 'Mañana';
       
+      // Obtener el nombre del día según el día de la semana (0: domingo, 1: lunes, etc.)
       const nombresDias = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
       return `${nombresDias[fecha.getDay()]} ${fecha.getDate()}`;
     } catch (error) {
+      console.error('Error al formatear fecha corta:', error);
       return '';
+    }
+  };
+  
+  // Obtener nombre del día correcto a partir de una fecha
+  const obtenerNombreDiaCorrecto = (funcion) => {
+    if (!funcion || !funcion.fecha) return '';
+    
+    // Si tiene una fecha válida, calcular el nombre del día correcto
+    try {
+      const fecha = new Date(funcion.fecha);
+      if (isNaN(fecha.getTime())) return funcion.nombreDia || '';
+      
+      const nombresDias = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+      return nombresDias[fecha.getDay()];
+    } catch (error) {
+      console.error('Error al obtener nombre del día:', error);
+      return funcion.nombreDia || '';
     }
   };
   
@@ -137,7 +165,12 @@ const CarteleraCard = ({ evento, icon }) => {
     
     // Convertir el mapa a un array y ordenar por fecha
     return Object.entries(funcionesPorFecha)
-      .map(([fecha, funciones]) => ({ fecha, funciones }))
+      .map(([fecha, funciones]) => ({ 
+        fecha, 
+        // Usar obtenerNombreDiaCorrecto para garantizar nombres correctos
+        nombreDia: obtenerNombreDiaCorrecto({ fecha }) || formatearFechaCorta(fecha),
+        funciones
+      }))
       .sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
   };
   
@@ -176,7 +209,8 @@ const CarteleraCard = ({ evento, icon }) => {
               .sort((a, b) => new Date(a) - new Date(b))
               .map(fecha => ({
                 fecha,
-                nombreDia: funcionesPorDia[fecha][0].nombreDia || formatearFechaCorta(fecha),
+                // Usar la función para obtener el nombre del día correcto
+                nombreDia: obtenerNombreDiaCorrecto({ fecha }) || formatearFechaCorta(fecha),
                 funciones: funcionesPorDia[fecha]
               }));
             

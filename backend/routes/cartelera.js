@@ -6,9 +6,10 @@ const router = express.Router();
 /**
  * Función auxiliar para filtrar funciones pasadas
  * @param {Array} cartelera - Lista de eventos de la cartelera
+ * @param {Boolean} mostrarOcultas - Indica si se deben incluir las funciones pasadas
  * @returns {Array} - Lista de eventos con funciones actualizadas
  */
-function filtrarFuncionesPasadas(cartelera) {
+function filtrarFuncionesPasadas(cartelera, mostrarOcultas = false) {
   const fechaHoy = new Date();
   fechaHoy.setHours(0, 0, 0, 0);
   
@@ -23,25 +24,43 @@ function filtrarFuncionesPasadas(cartelera) {
       return evento;
     }
     
-    // Para eventos de cine, filtrar funciones pasadas
-    const cinesFiltrados = evento.cines.map(cine => {
+    // Para eventos de cine, procesar funciones pasadas
+    const cinesProcesados = evento.cines.map(cine => {
       if (!cine.funciones || !Array.isArray(cine.funciones)) {
         return cine;
       }
       
       const funcionesOriginales = cine.funciones.length;
+      let funcionesActuales = [];
       
-      // Filtrar sólo funciones con fecha actual o futura
-      const funcionesActuales = cine.funciones.filter(funcion => {
-        if (!funcion.fecha) return true; // Si no tiene fecha, la mantenemos
-        
-        const fechaFuncion = new Date(funcion.fecha);
-        return fechaFuncion >= fechaHoy;
-      });
-      
-      // Registrar cuántas funciones se filtraron
-      const funcionesFiltradas = funcionesOriginales - funcionesActuales.length;
-      contadorFuncionesFiltradas += funcionesFiltradas;
+      // Marcar funciones pasadas como ocultas o filtrarlas según el parámetro
+      if (mostrarOcultas) {
+        // Si se piden todas, incluir todas pero marcar las pasadas
+        funcionesActuales = cine.funciones.map(funcion => {
+          if (!funcion.fecha) return funcion; // Si no tiene fecha, la dejamos igual
+          
+          const fechaFuncion = new Date(funcion.fecha);
+          const esPasada = fechaFuncion < fechaHoy;
+          
+          if (esPasada && !funcion.oculta) {
+            contadorFuncionesFiltradas++;
+            return { ...funcion, oculta: true };
+          }
+          
+          return funcion;
+        });
+      } else {
+        // Si no se piden todas, filtrar las que están ocultas o son de fechas pasadas
+        funcionesActuales = cine.funciones.filter(funcion => {
+          if (funcion.oculta) return false; // No mostrar las ya marcadas como ocultas
+          if (!funcion.fecha) return true; // Si no tiene fecha, la mantenemos
+          
+          const fechaFuncion = new Date(funcion.fecha);
+          const mantener = fechaFuncion >= fechaHoy;
+          if (!mantener) contadorFuncionesFiltradas++;
+          return mantener;
+        });
+      }
       
       // Devolver cine con funciones actualizadas
       return {
@@ -50,12 +69,17 @@ function filtrarFuncionesPasadas(cartelera) {
       };
     });
     
-    // Filtrar cines que ya no tienen funciones
-    const cinesConFunciones = cinesFiltrados.filter(cine => 
+    // Si se piden mostrar todas, devolver todos los cines
+    if (mostrarOcultas) {
+      return { ...evento, cines: cinesProcesados };
+    }
+    
+    // De lo contrario, filtrar cines sin funciones
+    const cinesConFunciones = cinesProcesados.filter(cine => 
       cine.funciones && cine.funciones.length > 0
     );
     
-    contadorCinesFiltrados += (cinesFiltrados.length - cinesConFunciones.length);
+    contadorCinesFiltrados += (cinesProcesados.length - cinesConFunciones.length);
     
     // Si después de filtrar no quedan cines con funciones, este evento se eliminará
     const eventoFiltrado = {
@@ -64,40 +88,41 @@ function filtrarFuncionesPasadas(cartelera) {
     };
     
     return eventoFiltrado;
-  }).filter(evento => {
-    // Mantener eventos que no son cine o que siendo cine aún tienen cines con funciones
-    const mantener = evento.tipo !== 'cine' || (evento.cines && evento.cines.length > 0);
-    
-    if (!mantener) {
-      contadorEventosFiltrados++;
-    }
-    
-    return mantener;
   });
   
-  // Mostrar estadísticas de lo que se ha filtrado
-  if (contadorFuncionesFiltradas > 0 || contadorCinesFiltrados > 0 || contadorEventosFiltrados > 0) {
-    console.log(`🧹 Filtrado de funciones pasadas:
-- Funciones eliminadas: ${contadorFuncionesFiltradas}
-- Cines eliminados: ${contadorCinesFiltrados}
-- Eventos eliminados: ${contadorEventosFiltrados}`);
-    
-    // Si hubo cambios, devolver un objeto con los datos y un flag indicando cambios
-    return {
-      cartelera: carteleraFiltrada,
-      cambios: true,
-      estadisticas: {
-        funcionesEliminadas: contadorFuncionesFiltradas,
-        cinesEliminados: contadorCinesFiltrados,
-        eventosEliminados: contadorEventosFiltrados
+  let resultadoFiltrado = carteleraFiltrada;
+  
+  // Si no estamos mostrando ocultas, filtrar eventos sin cines/funciones
+  if (!mostrarOcultas) {
+    resultadoFiltrado = carteleraFiltrada.filter(evento => {
+      // Mantener eventos que no son cine o que siendo cine aún tienen cines con funciones
+      const mantener = evento.tipo !== 'cine' || (evento.cines && evento.cines.length > 0);
+      
+      if (!mantener) {
+        contadorEventosFiltrados++;
       }
-    };
+      
+      return mantener;
+    });
   }
   
-  // Si no hubo cambios, devolver solo la cartelera
+  // Mostrar estadísticas si hay cambios
+  if (contadorFuncionesFiltradas > 0 || contadorCinesFiltrados > 0 || contadorEventosFiltrados > 0) {
+    console.log(`🧹 Procesamiento de funciones pasadas:
+- Funciones ${mostrarOcultas ? 'marcadas' : 'filtradas'}: ${contadorFuncionesFiltradas}
+- Cines ${mostrarOcultas ? 'actualizados' : 'filtrados'}: ${contadorCinesFiltrados}
+- Eventos ${mostrarOcultas ? 'actualizados' : 'filtrados'}: ${contadorEventosFiltrados}`);
+  }
+  
+  // Devolver el resultado con cambios aplicados
   return {
-    cartelera: carteleraFiltrada,
-    cambios: false
+    cartelera: resultadoFiltrado,
+    cambios: contadorFuncionesFiltradas > 0,
+    estadisticas: {
+      funcionesProcesadas: contadorFuncionesFiltradas,
+      cinesProcesados: contadorCinesFiltrados,
+      eventosProcesados: contadorEventosFiltrados
+    }
   };
 }
 
@@ -142,30 +167,41 @@ router.get('/', async (req, res) => {
     const carteleraRaw = await fs.readFile(carteleraPath, 'utf8');
     let cartelera = JSON.parse(carteleraRaw);
     
-    // Filtrar funciones pasadas antes de enviar
-    const resultado = filtrarFuncionesPasadas(cartelera);
-    cartelera = resultado.cartelera;
+    // Determinar si se mostrarán funciones ocultas
+    const mostrarOcultas = req.query.incluirPasadas === 'true';
+    
+    // Para actualizar la BD, siempre procesamos con mostrarOcultas=true
+    // para marcar las funciones pasadas sin eliminarlas
+    const resultadoActualizacion = filtrarFuncionesPasadas(cartelera, true);
     
     // Si hubo cambios, actualizar el archivo
-    if (resultado.cambios) {
+    if (resultadoActualizacion.cambios) {
       // Actualizar archivo en segundo plano sin esperar
-      actualizarArchivoCartelera(cartelera).then(exito => {
+      actualizarArchivoCartelera(resultadoActualizacion.cartelera).then(exito => {
         if (exito) {
-          console.log('🔄 Base de datos actualizada eliminando funciones pasadas');
+          console.log('🔄 Base de datos actualizada marcando funciones pasadas');
         }
       });
     }
     
+    // Para la respuesta, filtramos según el parámetro mostrarOcultas
+    // Si mostrarOcultas es false, se filtrarán las funciones pasadas
+    const resultado = mostrarOcultas ? 
+      resultadoActualizacion : 
+      filtrarFuncionesPasadas(resultadoActualizacion.cartelera, false);
+    
+    let carteleraFinal = resultado.cartelera;
+    
     // Opcionalmente filtrar por tipo si se proporciona un parámetro en la query
     const { tipo } = req.query;
     if (tipo) {
-      const eventosFiltrados = cartelera.filter(
+      const eventosFiltrados = carteleraFinal.filter(
         evento => evento.tipo.toLowerCase() === tipo.toLowerCase()
       );
       return res.json(eventosFiltrados);
     }
     
-    res.json(cartelera);
+    res.json(carteleraFinal);
   } catch (error) {
     console.error('Error al obtener la cartelera:', error.message);
     res.status(500).json({ 
@@ -195,21 +231,32 @@ router.get('/:tipo', async (req, res) => {
     const carteleraRaw = await fs.readFile(carteleraPath, 'utf8');
     let cartelera = JSON.parse(carteleraRaw);
     
-    // Filtrar funciones pasadas antes de filtrar por tipo
-    const resultado = filtrarFuncionesPasadas(cartelera);
-    cartelera = resultado.cartelera;
+    // Determinar si se mostrarán funciones ocultas
+    const mostrarOcultas = req.query.incluirPasadas === 'true';
+    
+    // Para actualizar la BD, siempre procesamos con mostrarOcultas=true
+    // para marcar las funciones pasadas sin eliminarlas
+    const resultadoActualizacion = filtrarFuncionesPasadas(cartelera, true);
     
     // Si hubo cambios, actualizar el archivo
-    if (resultado.cambios) {
+    if (resultadoActualizacion.cambios) {
       // Actualizar archivo en segundo plano sin esperar
-      actualizarArchivoCartelera(cartelera).then(exito => {
+      actualizarArchivoCartelera(resultadoActualizacion.cartelera).then(exito => {
         if (exito) {
-          console.log('🔄 Base de datos actualizada eliminando funciones pasadas');
+          console.log('🔄 Base de datos actualizada marcando funciones pasadas');
         }
       });
     }
     
-    const eventosFiltrados = cartelera.filter(
+    // Para la respuesta, filtramos según el parámetro mostrarOcultas
+    const resultado = mostrarOcultas ? 
+      resultadoActualizacion : 
+      filtrarFuncionesPasadas(resultadoActualizacion.cartelera, false);
+    
+    let carteleraFinal = resultado.cartelera;
+    
+    // Filtrar por tipo
+    const eventosFiltrados = carteleraFinal.filter(
       evento => evento.tipo.toLowerCase() === tipo.toLowerCase()
     );
     

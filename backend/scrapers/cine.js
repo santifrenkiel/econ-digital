@@ -129,9 +129,13 @@ async function buscarFuncionesPorTitulo(titulo, apiKey, ubicacionReferencia = ''
           return;
         }
         
-        // Obtener el nombre del día de la semana
-        const nombreDia = diasSemana[fechaShow.getDay()];
+        // Obtener el nombre del día de la semana basado en la fecha
+        // Usamos getDay() que devuelve 0 para domingo, 1 para lunes, etc.
+        const diaSemana = fechaShow.getDay();
+        const nombreDia = diasSemana[diaSemana];
+        
         const fechaStr = fechaShow.toISOString().split('T')[0];
+        console.log(`📅 Procesando funciones para: ${nombreDia} ${fechaShow.getDate()} (${fechaStr})`);
         
         // Procesar cada cine para este día
         dayData.theaters.forEach(theater => {
@@ -325,11 +329,37 @@ async function obtenerPeliculas(ubicacionReferencia = '') {
         const fechaHoy = new Date();
         fechaHoy.setHours(0, 0, 0, 0);
         
-        // Para cada cine, eliminar las funciones de días pasados
+        // Arrays para calcular nombres de días correctos
+        const diasSemana = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+        
+        // Para cada cine, procesar las funciones para corregir nombres de días
         funcion.cines = funcion.cines.map(cine => {
-          const funcionesActuales = cine.funciones.filter(f => {
+          // Procesar cada función para asegurar que el nombreDia sea correcto según la fecha
+          const funcionesCorregidas = cine.funciones.map(f => {
+            if (!f.fecha) return f;
+            
+            // Crear objeto Date para obtener el día de la semana correcto
             const fechaFuncion = new Date(f.fecha);
-            return fechaFuncion >= fechaHoy;
+            if (isNaN(fechaFuncion.getTime())) return f;
+            
+            // Actualizar el nombreDia basado en el día de la semana real
+            const nombreDiaCorrecto = diasSemana[fechaFuncion.getDay()];
+            
+            // Solo mostrar un log si hay discrepancia
+            if (f.nombreDia && f.nombreDia !== nombreDiaCorrecto) {
+              console.log(`🔄 Corrigiendo nombre de día para ${f.fecha}: "${f.nombreDia}" -> "${nombreDiaCorrecto}"`);
+            }
+            
+            return {
+              ...f,
+              nombreDia: nombreDiaCorrecto
+            };
+          });
+          
+          // Filtrar funciones pasadas si es necesario
+          const funcionesActuales = funcionesCorregidas.filter(f => {
+            const fechaFuncion = new Date(f.fecha);
+            return !isNaN(fechaFuncion.getTime()) && fechaFuncion >= fechaHoy;
           });
           
           // Si se eliminaron funciones, mostrar mensaje
