@@ -193,6 +193,22 @@ async function buscarFuncionesPorTitulo(titulo, apiKey, ubicacionReferencia = ''
       
       // Si encontramos funciones, organizarlas por cine
       if (funciones.length > 0) {
+        // Filtrar funciones de días pasados
+        const hoy = new Date();
+        hoy.setHours(0, 0, 0, 0); // Establecer a las 00:00:00 para comparar solo la fecha
+        
+        const funcionesActuales = funciones.filter(funcion => {
+          const fechaFuncion = new Date(funcion.fecha);
+          return fechaFuncion >= hoy;
+        });
+        
+        if (funcionesActuales.length < funciones.length) {
+          console.log(`🧹 Se eliminaron ${funciones.length - funcionesActuales.length} funciones de días pasados`);
+        }
+        
+        // Usar solo las funciones actuales a partir de ahora
+        funciones = funcionesActuales;
+        
         // Agrupar funciones por cine
         const funcionesPorCine = {};
         
@@ -304,7 +320,39 @@ async function obtenerPeliculas(ubicacionReferencia = '') {
       // Solo incluir películas que tengan funciones en cines
       if (funcion && funcion.cines && funcion.cines.length > 0) {
         console.log(`✅ Se encontraron ${funcion.cines.length} cines con funciones para "${funcion.nombre}"`);
-        funciones.push(funcion);
+        
+        // Verificar y limpiar funciones pasadas de cada cine
+        const fechaHoy = new Date();
+        fechaHoy.setHours(0, 0, 0, 0);
+        
+        // Para cada cine, eliminar las funciones de días pasados
+        funcion.cines = funcion.cines.map(cine => {
+          const funcionesActuales = cine.funciones.filter(f => {
+            const fechaFuncion = new Date(f.fecha);
+            return fechaFuncion >= fechaHoy;
+          });
+          
+          // Si se eliminaron funciones, mostrar mensaje
+          if (funcionesActuales.length < cine.funciones.length) {
+            console.log(`🧹 Se eliminaron ${cine.funciones.length - funcionesActuales.length} funciones pasadas de "${cine.nombre}" para "${funcion.nombre}"`);
+          }
+          
+          // Actualizar las funciones del cine
+          return {
+            ...cine,
+            funciones: funcionesActuales
+          };
+        });
+        
+        // Eliminar cines que no tengan funciones después de la limpieza
+        funcion.cines = funcion.cines.filter(cine => cine.funciones.length > 0);
+        
+        // Solo incluir la película si todavía tiene cines con funciones
+        if (funcion.cines.length > 0) {
+          funciones.push(funcion);
+        } else {
+          console.log(`⚠️ Se descartó "${titulo}" porque todas sus funciones eran de días pasados`);
+        }
       } else {
         console.log(`⚠️ Se descartó "${titulo}" porque no tiene funciones en cines`);
       }
