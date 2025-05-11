@@ -9,7 +9,7 @@ export default defineConfig({
     // Proxy para el desarrollo local, apuntando al backend
     proxy: {
       '/api': {
-        target: 'http://localhost:3000',
+        target: 'https://econ-digital-production.up.railway.app',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, '')
       }

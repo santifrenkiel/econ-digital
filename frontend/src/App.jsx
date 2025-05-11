@@ -13,7 +13,7 @@ import Footer from './components/Footer';
 import RestaurantesList from './components/RestaurantesList';
 
 // Configuración de Axios
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://econ-digital-production.up.railway.app';
 axios.defaults.baseURL = API_BASE_URL;
 
 function App() {
