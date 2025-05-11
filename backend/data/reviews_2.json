@@ -1,0 +1,126 @@
+[
+  {
+    "name": "El Preferido",
+    "categories": ["Bodegón", "Argentino", "Tradicional"],
+    "rating": 4.7,
+    "address": "Jorge Luis Borges 2108, Palermo, CABA",
+    "featured_image": "https://example.com/preferido.jpg",
+    "reviews": ["Comida casera increíble", "Ambiente auténtico"],
+    "review_keywords": ["tradicional", "casero", "histórico"],
+    "about": {
+      "atmósfera": "casera y nostálgica",
+      "servicios": ["almuerzo", "cena", "delivery"]
+    },
+    "featured_reviews": [
+      {
+        "text": "Un clásico porteño que nunca falla. Platos abundantes y sabrosos.",
+        "rating": 5
+      }
+    ],
+    "detailed_reviews": [
+      {
+        "author": "Jorge M.",
+        "rating": 5,
+        "text": "Las milanesas son espectaculares y las pastas caseras merecen una visita."
+      },
+      {
+        "author": "Silvia R.",
+        "rating": 4,
+        "text": "Ambiente tradicional y acogedor. Ideal para conocer la comida argentina auténtica."
+      }
+    ]
+  },
+  {
+    "name": "Casa Felix",
+    "categories": ["Contemporáneo", "Orgánico", "Chef privado"],
+    "rating": 4.8,
+    "address": "Chacarita, CABA",
+    "featured_image": "https://example.com/casafelix.jpg",
+    "reviews": ["Experiencia gastronómica única", "Cocina de autor"],
+    "review_keywords": ["exclusivo", "orgánico", "experiencia"],
+    "about": {
+      "atmósfera": "íntima y exclusiva",
+      "servicios": ["menú degustación", "vinos orgánicos", "huerta propia"]
+    },
+    "featured_reviews": [
+      {
+        "text": "Una experiencia gastronómica diferente. El chef explica cada plato y su origen.",
+        "rating": 5
+      }
+    ],
+    "detailed_reviews": [
+      {
+        "author": "Marcela F.",
+        "rating": 5,
+        "text": "Cocina con productos frescos de temporada. Perfecto para una ocasión especial."
+      },
+      {
+        "author": "Gustavo L.",
+        "rating": 5,
+        "text": "Ambiente único en un patio con vegetación. Una cena memorable."
+      }
+    ]
+  },
+  {
+    "name": "La Cabrera",
+    "categories": ["Parrilla", "Argentino", "Steakhouse"],
+    "rating": 4.6,
+    "address": "Cabrera 5099, Palermo, CABA",
+    "featured_image": "https://example.com/lacabrera.jpg",
+    "reviews": ["Mejor parrilla de Buenos Aires", "Cortes de carne excepcionales"],
+    "review_keywords": ["carne", "turístico", "gourmet"],
+    "about": {
+      "atmósfera": "animada y sofisticada",
+      "servicios": ["valet parking", "happy hour", "reservas"]
+    },
+    "featured_reviews": [
+      {
+        "text": "La mejor experiencia de parrilla en Buenos Aires. Los cortes son enormes y deliciosos.",
+        "rating": 5
+      }
+    ],
+    "detailed_reviews": [
+      {
+        "author": "Pedro T.",
+        "rating": 5,
+        "text": "El ojo de bife es espectacular y las guarniciones son muy originales."
+      },
+      {
+        "author": "Sarah J.",
+        "rating": 4,
+        "text": "Experiencia obligada si visitas Buenos Aires. Ambiente enérgico y buena selección de vinos."
+      }
+    ]
+  },
+  {
+    "name": "Club Eros",
+    "categories": ["Bar", "Coctelería", "Música en vivo"],
+    "rating": 4.4,
+    "address": "Uriarte 1609, Palermo, CABA",
+    "featured_image": "https://example.com/cluberos.jpg",
+    "reviews": ["Cócteles creativos", "Buena música"],
+    "review_keywords": ["noche", "música", "bohemio"],
+    "about": {
+      "atmósfera": "bohemia y artística",
+      "servicios": ["música en vivo", "cócteles artesanales", "tapas"]
+    },
+    "featured_reviews": [
+      {
+        "text": "Un lugar con personalidad. Los bartenders preparan cócteles únicos y la música es genial.",
+        "rating": 5
+      }
+    ],
+    "detailed_reviews": [
+      {
+        "author": "Lucía D.",
+        "rating": 5,
+        "text": "Ambiente relajado y creativo. Buenos tragos y bandas locales interesantes."
+      },
+      {
+        "author": "Martín S.",
+        "rating": 4,
+        "text": "Lugar con onda para terminar la noche. Los jueves tienen jazz en vivo."
+      }
+    ]
+  }
+] 

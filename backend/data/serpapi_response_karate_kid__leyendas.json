@@ -1,0 +1,294 @@
+{
+  "search_metadata": {
+    "id": "682012006561a627db657133",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/db8e5d2c474aca85/682012006561a627db657133.json",
+    "created_at": "2025-05-11 02:57:05 UTC",
+    "processed_at": "2025-05-11 02:57:05 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/db8e5d2c474aca85/682012006561a627db657133.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Karate Kid: Leyendas horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Karate Kid: Leyendas horarios cines Buenos Aires",
+    "total_results": 16900,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "¿Cuándo se estrena Karate Kid Leyendas en Argentina?",
+      "snippet": null,
+      "title": "Visión general creada por IA",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=es-AR",
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0N1w6FuZG8gc2UgZXN0cmVuYSBLYXJhdGUgS2lkIExleWVuZGFzIGVuIEFyZ2VudGluYT8iLCJsayI6ImN3WEJ3UW5BTUF3RHdEMzYwZ3pkU05RaWhBUVZiT2ZSN1h0MzNjLWg0MFVKcWs2WldFeTJzR1pnNjVPREJSbk1JZmMwZnciLCJicyI6ImMtTXE1REk3dE4tNTlQREN2SlI4aGVKVWhkVGlrcUxVdkVRRjc4U2l4SkpVQmVfTUZBV2YxTXJVdkpURVlvWFVQQVhIb3ZUVXZKTE12RVI3aVFrR1JpWlNSc21saVdnNnN5RTZzNEU2YzVCMEpzSjBja1Z4YVIzYTczSjRjMTRLV05QaGhRbzVpUW9GcVRtSDF5YVhBbGxBVVlUbDloSlBpNDAwcGRSVDhDbEgyTWhWd1dXSjVKM0VuRlNRNHJ6UzFES2NOc0M5Wnk4eHU5cklRc29zbWJCdUxGN2tLdWV5d0JLUS1TQVREdV9LS2NuTXhlUEhNMWtvRnNNMEg5Nk1VemZDQlFLTUFBIiwiaWQiOiJmY19BUklnYUtqRUc0YTdrUElQNU5UdjZBWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0N1w6FuZG8gc2UgZXN0cmVuYSBLYXJhdGUgS2lkIExleWVuZGFzIGVuIEFyZ2VudGluYT8iLCJsayI6ImN3WEJ3UW5BTUF3RHdEMzYwZ3pkU05RaWhBUVZiT2ZSN1h0MzNjLWg0MFVKcWs2WldFeTJzR1pnNjVPREJSbk1JZmMwZnciLCJicyI6ImMtTXE1REk3dE4tNTlQREN2SlI4aGVKVWhkVGlrcUxVdkVRRjc4U2l4SkpVQmVfTUZBV2YxTXJVdkpURVlvWFVQQVhIb3ZUVXZKTE12RVI3aVFrR1JpWlNSc21saVdnNnN5RTZzNEU2YzVCMEpzSjBja1Z4YVIzYTczSjRjMTRLV05QaGhRbzVpUW9GcVRtSDF5YVhBbGxBVVlUbDloSlBpNDAwcGRSVDhDbEgyTWhWd1dXSjVKM0VuRlNRNHJ6UzFES2NOc0M5Wnk4eHU5cklRc29zbWJCdUxGN2tLdWV5d0JLUS1TQVREdV9LS2NuTXhlUEhNMWtvRnNNMEg5Nk1VemZDQlFLTUFBIiwiaWQiOiJmY19BUklnYUtqRUc0YTdrUElQNU5UdjZBWV8xIn0%3D"
+    },
+    {
+      "question": "¿Dónde está la película de Karate Kid?",
+      "snippet": "The Karate Kid | Netflix.",
+      "title": "The Karate Kid | Netflix",
+      "link": "https://www.netflix.com/es/title/70125931#:~:text=The%20Karate%20Kid%20%7C%20Netflix",
+      "displayed_link": "https://www.netflix.com › title",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7F8xonnyGDYycKzQwCUkkVstc0mx9hJ7d0Q4S_CRE8g&s",
+      "source_logo": "https://serpapi.com/searches/682012006561a627db657133/images/1d9a08f65b3a334e9bd9e149ba4c77c43f85e659f98b66fb7de29930290a39fd.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0TDs25kZSBlc3TDoSBsYSBwZWzDrWN1bGEgZGUgS2FyYXRlIEtpZD8iLCJsayI6ImM1TlNUem04T1M4bFZTRzF1T1R3UW9XY1JJV0MxSnpEYTVOTGdTeWdhSFppVVdJSmtNcE1BUUEiLCJicyI6ImMtTXE1REk3dE4tNTlQREN2SlI4aGVKVWhkVGlrcUxVdkVRRjc4U2l4SkpVQmVfTUZBV2YxTXJVdkpURVlvWFVQQVhIb3ZUVXZKTE12RVI3aVFrR1JpWlNSc21saVdnNnN5RTZzNEU2YzVCMEpzSjBja1Z4YVIzYTczSjRjMTRLV05QaGhRbzVpUW9GcVRtSDF5YVhBbGxBVVlUbDloSlBpNDAwcGRSVDhDbEgyTWhWd1dXSjVKM0VuRlNRNHJ6UzFES2NOc0M5Wnk4eHU5cklRc29zbWJCdUxGN2tLdWV5d0JLUS1TQVREdV9LS2NuTXhlUEhNMWtvRnNNMEg5Nk1VemZDQlFLTUFBIiwiaWQiOiJmY19BUklnYUtqRUc0YTdrUElQNU5UdjZBWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0TDs25kZSBlc3TDoSBsYSBwZWzDrWN1bGEgZGUgS2FyYXRlIEtpZD8iLCJsayI6ImM1TlNUem04T1M4bFZTRzF1T1R3UW9XY1JJV0MxSnpEYTVOTGdTeWdhSFppVVdJSmtNcE1BUUEiLCJicyI6ImMtTXE1REk3dE4tNTlQREN2SlI4aGVKVWhkVGlrcUxVdkVRRjc4U2l4SkpVQmVfTUZBV2YxTXJVdkpURVlvWFVQQVhIb3ZUVXZKTE12RVI3aVFrR1JpWlNSc21saVdnNnN5RTZzNEU2YzVCMEpzSjBja1Z4YVIzYTczSjRjMTRLV05QaGhRbzVpUW9GcVRtSDF5YVhBbGxBVVlUbDloSlBpNDAwcGRSVDhDbEgyTWhWd1dXSjVKM0VuRlNRNHJ6UzFES2NOc0M5Wnk4eHU5cklRc29zbWJCdUxGN2tLdWV5d0JLUS1TQVREdV9LS2NuTXhlUEhNMWtvRnNNMEg5Nk1VemZDQlFLTUFBIiwiaWQiOiJmY19BUklnYUtqRUc0YTdrUElQNU5UdjZBWV8xIn0%3D"
+    },
+    {
+      "question": "¿Cuándo sale la nueva película de Karate Kid Leyendas?",
+      "snippet": "La esperada película tiene previsto su estreno para el 8 de mayo de 2025 en nuestro país, marcando el regreso oficial de una de las franquicias más queridas del cine de artes marciales a la pantalla grande. Esta fecha no solo representa el reencuentro de personajes icónicos como Daniel LaRusso y el Sr.",
+      "title": "“Karate Kid: Leyendas”: todo lo que tienes que saber de la nueva ...",
+      "date": "hace 2 días",
+      "link": "https://elcomercio.pe/saltar-intro/noticias/karate-kid-leyendas-todo-lo-que-tienes-que-saber-de-la-nueva-pelicula-de-la-saga-noticia/#:~:text=La%20esperada%20pel%C3%ADcula%20tiene%20previsto,Daniel%20LaRusso%20y%20el%20Sr.",
+      "displayed_link": "https://elcomercio.pe › saltar-intro › noticias › karate-kid...",
+      "source_logo": "https://serpapi.com/searches/682012006561a627db657133/images/1d9a08f65b3a334e9bd9e149ba4c77c484d32abb81876e805456e504178e433b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0N1w6FuZG8gc2FsZSBsYSBudWV2YSBwZWzDrWN1bGEgZGUgS2FyYXRlIEtpZCBMZXllbmRhcz8iLCJsayI6IkdqWmpkY09oYm1SdklITmhiR1VnYkdFZ2JuVmxkbUVnY0dWc3c2MWpkV3hoSUdSbElHdGhjbUYwWlNCcmFXUWdiR1Y1Wlc1a1lYTSIsImJzIjoiYy1NcTVESTd0Ti01OVBEQ3ZKUjhoZUpVaGRUaWtxTFV2RVFGNzhTaXhKSlVCZV9NRkFXZjFNclV2SlRFWW9YVVBBWEhvdlRVdkpMTXZFUjdpUWtHUmlaU1JzbWxpV2c2c3lFNnM0RTZjNUIwSnNKMGNrVnhhUjNhNzNKNGMxNEtXTlBoaFFvNWlRb0ZxVG1IMXlhWEFsbEFVWVRsOWhKUGk0MDBwZFJUOENsSDJNaFZ3V1dKNUozRW5GU1E0cnpTMURLY05zQzlaeTh4dTlySVFzb3NtYkJ1TEY3a0t1ZXl3QktRLVNBVER1X0tLY25NeGVQSE0xa29Gc00wSDk2TVV6ZkNCUUtNQUEiLCJpZCI6ImZjX0FSSWdhS2pFRzRhN2tQSVA1TlR2NkFZXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0N1w6FuZG8gc2FsZSBsYSBudWV2YSBwZWzDrWN1bGEgZGUgS2FyYXRlIEtpZCBMZXllbmRhcz8iLCJsayI6IkdqWmpkY09oYm1SdklITmhiR1VnYkdFZ2JuVmxkbUVnY0dWc3c2MWpkV3hoSUdSbElHdGhjbUYwWlNCcmFXUWdiR1Y1Wlc1a1lYTSIsImJzIjoiYy1NcTVESTd0Ti01OVBEQ3ZKUjhoZUpVaGRUaWtxTFV2RVFGNzhTaXhKSlVCZV9NRkFXZjFNclV2SlRFWW9YVVBBWEhvdlRVdkpMTXZFUjdpUWtHUmlaU1JzbWxpV2c2c3lFNnM0RTZjNUIwSnNKMGNrVnhhUjNhNzNKNGMxNEtXTlBoaFFvNWlRb0ZxVG1IMXlhWEFsbEFVWVRsOWhKUGk0MDBwZFJUOENsSDJNaFZ3V1dKNUozRW5GU1E0cnpTMURLY05zQzlaeTh4dTlySVFzb3NtYkJ1TEY3a0t1ZXl3QktRLVNBVER1X0tLY25NeGVQSE0xa29Gc00wSDk2TVV6ZkNCUUtNQUEiLCJpZCI6ImZjX0FSSWdhS2pFRzRhN2tQSVA1TlR2NkFZXzEifQ%3D%3D"
+    },
+    {
+      "question": "¿Cuándo se estreno la última película de Karate Kid?",
+      "snippet": "Películas",
+      "table": [
+        [
+          "Película",
+          "Fecha de estreno",
+          "Guionista"
+        ],
+        [
+          "The Karate Kid Part III",
+          "30 de junio de 1989",
+          "Robert Mark Kamen"
+        ],
+        [
+          "The Next Karate Kid",
+          "12 de agosto de 1994",
+          "Mark Lee"
+        ],
+        [
+          "The Karate Kid",
+          "11 de junio de 2010",
+          "Christopher Murphey"
+        ],
+        [
+          "Karate Kid: Legends",
+          "30 de mayo del 2025",
+          "Rob Lieber"
+        ]
+      ],
+      "formatted": [
+        {
+          "película": "The Karate Kid Part III",
+          "fecha_de_estreno": "30 de junio de 1989",
+          "guionista": "Robert Mark Kamen"
+        },
+        {
+          "película": "The Next Karate Kid",
+          "fecha_de_estreno": "12 de agosto de 1994",
+          "guionista": "Mark Lee"
+        },
+        {
+          "película": "The Karate Kid",
+          "fecha_de_estreno": "11 de junio de 2010",
+          "guionista": "Christopher Murphey"
+        },
+        {
+          "película": "Karate Kid: Legends",
+          "fecha_de_estreno": "30 de mayo del 2025",
+          "guionista": "Rob Lieber"
+        }
+      ],
+      "title": "The Karate Kid (franquicia) - Wikipedia, la enciclopedia libre",
+      "link": "https://es.wikipedia.org/wiki/The_Karate_Kid_(franquicia)",
+      "displayed_link": "https://es.wikipedia.org › wiki › The_Karate_Kid_(franq...",
+      "source_logo": "https://serpapi.com/searches/682012006561a627db657133/images/1d9a08f65b3a334e9bd9e149ba4c77c42f41ec9404c0213a10904ce8b75535cf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0N1w6FuZG8gc2UgZXN0cmVubyBsYSDDumx0aW1hIHBlbMOtY3VsYSBkZSBLYXJhdGUgS2lkPyIsImxrIjoiR2paamRjT2hibVJ2SUhObElHVnpkSEpsYnNPeklHeGhJTU82YkhScGJXRWdjR1ZzdzYxamRXeGhJR1JsSUd0aGNtRjBaU0JyYVdRIiwiYnMiOiJjLU1xNURJN3ROLTU5UERDdkpSOGhlSlVoZFRpa3FMVXZFUUY3OFNpeEpKVUJlX01GQVdmMU1yVXZKVEVZb1hVUEFYSG92VFV2SkxNdkVSN2lRa0dSaVpTUnNtbGlXZzZzeUU2czRFNmM1QjBKc0owY2tWeGFSM2E3M0o0YzE0S1dOUGhoUW81aVFvRnFUbUgxeWFYQWxsQVVZVGw5aEpQaTQwMHBkUlQ4Q2xIMk1oVndXV0o1SjNFbkZTUTRyelMxREtjTnNDOVp5OHh1OXJJUXNvc21iQnVMRjdrS3VleXdCS1EtU0FURHVfS0tjbk14ZVBITTFrb0ZzTTBIOTZNVXpmQ0JRS01BQSIsImlkIjoiZmNfQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWEzRlNhRkJVZFV4MFdYbFZkMUZsVVUxTVZqUlhTSFpHVW1OdGVXWnZPRGxVT1ZKRWVuRmxhMjVVYmxWSGMyRjRWRk5ZVW1OcFIwcFRjMFpLVFZaVU5XNUdkVWxvTVhoNGNuUkdUV2MyTkZKdmNUWlJjREZDTFVwd2R4SVhRVkpKWjJGTGFrVkhOR0UzYTFCSlVEVk9WSFkyUVZrYUlrRkRSRmhNTkd0M00xWmxUalZ0Um1wQ1RXRm1ZVm94WTFWdGREWktNa055UTFFIiwiZmN2IjoiMyIsImVpIjoiQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVkiLCJxYyI6IkNqbHdaV3pEcldOMWJHRWdhMkZ5WVhSbElHdHBaQ0JzWlhsbGJtUmhjeUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0N1w6FuZG8gc2UgZXN0cmVubyBsYSDDumx0aW1hIHBlbMOtY3VsYSBkZSBLYXJhdGUgS2lkPyIsImxrIjoiR2paamRjT2hibVJ2SUhObElHVnpkSEpsYnNPeklHeGhJTU82YkhScGJXRWdjR1ZzdzYxamRXeGhJR1JsSUd0aGNtRjBaU0JyYVdRIiwiYnMiOiJjLU1xNURJN3ROLTU5UERDdkpSOGhlSlVoZFRpa3FMVXZFUUY3OFNpeEpKVUJlX01GQVdmMU1yVXZKVEVZb1hVUEFYSG92VFV2SkxNdkVSN2lRa0dSaVpTUnNtbGlXZzZzeUU2czRFNmM1QjBKc0owY2tWeGFSM2E3M0o0YzE0S1dOUGhoUW81aVFvRnFUbUgxeWFYQWxsQVVZVGw5aEpQaTQwMHBkUlQ4Q2xIMk1oVndXV0o1SjNFbkZTUTRyelMxREtjTnNDOVp5OHh1OXJJUXNvc21iQnVMRjdrS3VleXdCS1EtU0FURHVfS0tjbk14ZVBITTFrb0ZzTTBIOTZNVXpmQ0JRS01BQSIsImlkIjoiZmNfQVJJZ2FLakVHNGE3a1BJUDVOVHY2QVlfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Karate Kid: Leyendas",
+      "link": "https://www.multiplex.com.ar/peliculas/karate-kid-leyendas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/karate-kid-leyendas/&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECA4QAQ",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › karate-kid-ley...",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28bc60240399930482b7ca5d636c04a622.png",
+      "snippet": "En Karate Kid: Leyendas,tras una tragedia familiar,el prodigio del kung fu Li Fong (Ben Wang) deja su hogar en Pekín y es obligado a mudarse a Nueva York con su ...",
+      "snippet_highlighted_words": [
+        "Karate Kid",
+        "Leyendas"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 2,
+      "title": "Karate Kid: Leyendas. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/karate-kid-leyendas-pe19520",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/karate-kid-leyendas-pe19520&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECBAQAQ",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
+      "thumbnail": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28d6dbc4e1825cff9f653e5e03142ab059.jpeg",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f2828c2dbe0cf72b3676cd0f2cdcd1f64e0.png",
+      "snippet": "FUNCIONES DE KARATE KID: LEYENDAS ; Alfa · castellano: 17:00, 19:30, 22:00 ; Annuar Shopping · castellano: 20:30, 22:40 ; Atlas Monteagudo.",
+      "snippet_highlighted_words": [
+        "FUNCIONES DE KARATE KID: LEYENDAS"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 3,
+      "title": "Karate Kid: Leyendas - Horarios",
+      "link": "https://m.cinesargentinos.com.ar/horarios/?zona=&cine=&pelicula=9778-karate-kid-leyendas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/horarios/%3Fzona%3D%26cine%3D%26pelicula%3D9778-karate-kid-leyendas/&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECBYQAQ",
+      "displayed_link": "https://m.cinesargentinos.com.ar › horarios › pelicula=97...",
+      "thumbnail": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28d53d5f1175d4a6fcc12f589d5ff28adc.jpeg",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28b9c1d60646bb3488aa888b1ee7ed4d6e.png",
+      "snippet": "Momentáneamente no hay una empresa que reúna los horarios de los cines. Pronto esperamos poder tener nuevamente el servicio de horarios.",
+      "snippet_highlighted_words": [
+        "Momentáneamente no hay una empresa que reúna los horarios de los cines"
+      ],
+      "source": "Cines Argentinos"
+    },
+    {
+      "position": 4,
+      "title": "Karate Kid: Leyendas - Horarios y entradas",
+      "link": "https://www.imdb.com/es/showtimes/title/tt1674782/AR/C1428/?ref_=shci_i",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/es/showtimes/title/tt1674782/AR/C1428/%3Fref_%3Dshci_i&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECBEQAQ",
+      "displayed_link": "https://www.imdb.com › showtimes › title",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28dc2268c8ef8e468f448f21e7e95cd8e1.png",
+      "snippet": "Cine Hoyts Abasto. Avenida Corrientes 3247, Buenos Aires DF 1193 1 kilometer · 1:30 PM1:30 PM ; Cinemark Caballito. Avenida La Plata 96, Buenos Aires DF C1184AAN ...",
+      "snippet_highlighted_words": [
+        "1:30 PM"
+      ],
+      "source": "IMDb"
+    },
+    {
+      "position": 5,
+      "title": "KARATE KID: LEYENDAS",
+      "link": "https://www.multiplex.com.ar/karate-kid-leyendas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/karate-kid-leyendas/&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECB4QAQ",
+      "displayed_link": "https://www.multiplex.com.ar › karate-kid-leyendas",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f289c74e7f654d0947d174b0810496539d5.png",
+      "date": "14 ago 2024",
+      "snippet": "Tres secuelas, una remake en 2010 con Jaden Smith en el rol titular y Jackie Chan como su entrenador, y la exitosa serie Cobra Kai (2018-2025) ...",
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 6,
+      "title": "Cartelera de Cines Showcase | IMAX - Consultá Entradas 2x1",
+      "link": "https://www.todoshowcase.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECDoQAQ",
+      "displayed_link": "https://www.todoshowcase.com",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f289104eefa76963f3d864615e169af6d7f.png",
+      "snippet": "Showcase Belgrano. Monroe 1655 (C1428BKS)Buenos Aires. (011) 4780 3334 ... Karate kid: leyendas. ESTRENO. Encerrado. ESTRENO. La carga más preciada. ESTRENO ...",
+      "snippet_highlighted_words": [
+        "Buenos Aires",
+        "Karate kid",
+        "leyendas"
+      ],
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 7,
+      "title": "Cinemark",
+      "link": "https://www.cinemarkhoyts.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECDkQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28c2e79a6ae44a306623f9df9ef3dd1f96.png",
+      "snippet": "Películas en cartelera · THUNDERBOLTS · KARATE KID LEYENDAS · UNA PELICULA DE MINECRAFT · MAZEL TOV · ENCERRADO · BJÖRK CORNUCOPIA · EL CLAN (2015) · ESPERANDO LA ...",
+      "snippet_highlighted_words": [
+        "Películas",
+        "cartelera",
+        "KARATE KID LEYENDAS",
+        "PELICULA"
+      ],
+      "source": "Cinemark"
+    },
+    {
+      "position": 8,
+      "title": "CINES SHOWCASE | Cartelera belgrano",
+      "link": "https://www.todoshowcase.com/cartelera/belgrano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/cartelera/belgrano&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECDwQAQ",
+      "displayed_link": "https://www.todoshowcase.com › cartelera › belgrano",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28d4f5072022d6daeae779c4b779c11e5e.png",
+      "snippet": "Karate kid: leyendas. Duración: 93 minutos. Calificación: SM13S · -2D-Doblada 19:25 -2D-Subtitulado 19:50 22:10 ; Mars express. Duración: 88 minutos. Calificación ...",
+      "snippet_highlighted_words": [
+        "2D-Doblada 19:25 -2D-Subtitulado 19:50 22:10"
+      ],
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 9,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECDsQAQ",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f28bc6dedb79a1c449eb912cd3252593fa2.png",
+      "snippet": "EN CARTELERA. pel2. 2D - 2D PREMIER. KARATE KID: LEYENDAS. 94 min | SAM13. Acción. KARATE KID: LEYENDAS. EN CARTELERA. pel2. 4D - 3D - 2D - 2D PREMIER. UNA ...",
+      "snippet_highlighted_words": [
+        "CARTELERA",
+        "KARATE KID",
+        "LEYENDAS",
+        "KARATE KID",
+        "LEYENDAS",
+        "CARTELERA"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 10,
+      "title": "Cartelera del Cine Arenas",
+      "link": "https://cineslacosta.com.ar/salas.php?sala=AR",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cineslacosta.com.ar/salas.php%3Fsala%3DAR&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20QFnoECD8QAQ",
+      "displayed_link": "https://cineslacosta.com.ar › salas",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCXor9wPDKOTvQXoEQQS3NvVss249LYlZRGS9xndFOUrExlyBODQ6Xpk&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/682012006561a627db657133/images/4028b41e8c23c4edfc70651ec1e27f286ecef01232011e275cb95ac755648fe3.png",
+      "snippet": "1h 35m. [ ver otras funciones de la película ]. 20:00. 2D - CASTELLANO $ 6.000. Comprar Entrada 2D. Karate Kid Leyendas ESTRENO. Sala, Sala 1. Género, Acción ...",
+      "snippet_highlighted_words": [
+        "película",
+        "Karate Kid Leyendas"
+      ],
+      "source": "cineslacosta.com.ar"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=10&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=10&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=20&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=30&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=40&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=50&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=60&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=70&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=80&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Karate+Kid:+Leyendas+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=ARIgaKjEG4a7kPIP5NTv6AY&start=90&sa=N&sstk=Af40H4UhesO53yK4EzsGnHOq6-dxf1eFPRt90kTXd8gt55WDwfd5IboXgHzDXj4RBiglVTSQQyfSBna112XMVDIvm8AI6JXv9T_HJA&ved=2ahUKEwjoyPrVtZqNAxWGHUQIHWTqG20Q8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Karate+Kid%3A+Leyendas+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}

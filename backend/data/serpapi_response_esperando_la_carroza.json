@@ -1,0 +1,345 @@
+{
+  "search_metadata": {
+    "id": "6820155b6372f3fb4cd6f6d5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/41a74624b8d006cd/6820155b6372f3fb4cd6f6d5.json",
+    "created_at": "2025-05-11 03:11:23 UTC",
+    "processed_at": "2025-05-11 03:11:23 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/41a74624b8d006cd/6820155b6372f3fb4cd6f6d5.html",
+    "total_time_taken": 3.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Esperando la carroza horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Esperando la carroza horarios cines Buenos Aires",
+    "total_results": 5800,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "¿Cuánto está la entrada para ver Esperando la carroza en Buenos Aires?",
+      "snippet": "Precios y ubicaciones",
+      "table": [
+        [
+          "Ubicación",
+          "Precio"
+        ],
+        [
+          "Platea",
+          "$100.00 + $20.00*"
+        ],
+        [
+          "Palco",
+          "$100.00 + $20.00*"
+        ],
+        [
+          "Tertulia",
+          "$100.00 + $20.00*"
+        ],
+        [
+          "Paraiso s/nº",
+          "$100.00 + $20.00*"
+        ]
+      ],
+      "formatted": [
+        {
+          "ubicación": "Platea",
+          "precio": "$100.00 + $20.00*"
+        },
+        {
+          "ubicación": "Palco",
+          "precio": "$100.00 + $20.00*"
+        },
+        {
+          "ubicación": "Tertulia",
+          "precio": "$100.00 + $20.00*"
+        },
+        {
+          "ubicación": "Paraiso s/nº",
+          "precio": "$100.00 + $20.00*"
+        }
+      ],
+      "title": "ESPERANDO LA CARROZA - Plateaunotickets",
+      "link": "https://plateaunotickets.com/obradetail.php?ID=1702&utm_source=Interna&utm_medium=link&utm_term=cartelera&utm_campaign=ESPERANDO%20LA%20CARROZA",
+      "displayed_link": "https://plateaunotickets.com › obradetail › utm_campaig...",
+      "source_logo": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/6e2a3f24e06e2e0d924ae64c6313c5413740d8afde3d07f8c72592c7914d2ace.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIGVzdMOhIGxhIGVudHJhZGEgcGFyYSB2ZXIgRXNwZXJhbmRvIGxhIGNhcnJvemEgZW4gQnVlbm9zIEFpcmVzPyIsImxrIjoiY3hYS3NRMkFNQXdFd0Qyb2ZoZ1dlUklYU01pTzNrNEtwb2ZVZDhmWkpyMENsa1U4aEhtSm5SZ1VzVXdfREJPOXg5WkdLZDY5Y0UzelNQQ1c1UWMiLCJicyI6ImMtT2F4c2psZVdpX2MtbmhoWGtsLVFxcHhTV0hGeXJrSkNxazVwVVVKYVlrS2hRa0ZpVXFsS1VXS2JnV0Y2UVdKZWFsNUlOa2t4T0xpdktyUUtvVW5FcFQ4X0tMRlJ3emkxS0w3U1VPS0JxNVNia2tseVpDRFV2RWFsWXFEck9TSUdZbGdzemlTdUxTUDdUZjVmRG12SlJVaFpURVBKRFNndFNjdzJ1VFM0RXNiSzZ4bDNpU1k2UWpwWldTajZvbEU2d0RtNTFjRVZ5YWNEdHdlcklrTmJHa0tOOWVZb2FQa1lhVVdncENOVlp2UUZSelpYQVpIdG9mV0hwNEpaS2p3WUdiQjNJWlVFdGlSbjRSMk5NNVFCOG5aLWFCUW0temhaR0JsRjRoU2JvRUdBRSIsImlkIjoiZmNfWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIGVzdMOhIGxhIGVudHJhZGEgcGFyYSB2ZXIgRXNwZXJhbmRvIGxhIGNhcnJvemEgZW4gQnVlbm9zIEFpcmVzPyIsImxrIjoiY3hYS3NRMkFNQXdFd0Qyb2ZoZ1dlUklYU01pTzNrNEtwb2ZVZDhmWkpyMENsa1U4aEhtSm5SZ1VzVXdfREJPOXg5WkdLZDY5Y0UzelNQQ1c1UWMiLCJicyI6ImMtT2F4c2psZVdpX2MtbmhoWGtsLVFxcHhTV0hGeXJrSkNxazVwVVVKYVlrS2hRa0ZpVXFsS1VXS2JnV0Y2UVdKZWFsNUlOa2t4T0xpdktyUUtvVW5FcFQ4X0tMRlJ3emkxS0w3U1VPS0JxNVNia2tseVpDRFV2RWFsWXFEck9TSUdZbGdzemlTdUxTUDdUZjVmRG12SlJVaFpURVBKRFNndFNjdzJ1VFM0RXNiSzZ4bDNpU1k2UWpwWldTajZvbEU2d0RtNTFjRVZ5YWNEdHdlcklrTmJHa0tOOWVZb2FQa1lhVVdncENOVlp2UUZSelpYQVpIdG9mV0hwNEpaS2p3WUdiQjNJWlVFdGlSbjRSMk5NNVFCOG5aLWFCUW0temhaR0JsRjRoU2JvRUdBRSIsImlkIjoiZmNfWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXdfMSJ9"
+    },
+    {
+      "question": "¿Dónde dan la película Esperando la carroza?",
+      "snippet": "Esperando la carroza se puede ver gratis hoy. Si estás en México, puedes: Míralo en Prime Video con una prueba gratuita.",
+      "title": "Esperando la carroza - película: Ver online en español - JustWatch",
+      "link": "https://www.justwatch.com/mx/pelicula/esperando-la-carroza#:~:text=Esperando%20la%20carroza%20se%20puede,Video%20con%20una%20prueba%20gratuita",
+      "displayed_link": "https://www.justwatch.com › pelicula › esperando-la-carr...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrh7T7A7jbCY4s7P6fUw0JBhnv-vnhxrycMvWJueYt&s",
+      "source_logo": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/6e2a3f24e06e2e0d924ae64c6313c541da237dd473f9f48d20c9f5eeb20d557d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9Ew7NuZGUgZGFuIGxhIHBlbMOtY3VsYSBFc3BlcmFuZG8gbGEgY2Fycm96YT8iLCJsayI6ImM1UFNTc25QUzBsVlNFbk1VOGhKVkNoSXpjbE1MZ1V5VW9zTFVvc1M4MUx5UWFMSmlVVkYtVldKQUEiLCJicyI6ImMtT2F4c2psZVdpX2MtbmhoWGtsLVFxcHhTV0hGeXJrSkNxazVwVVVKYVlrS2hRa0ZpVXFsS1VXS2JnV0Y2UVdKZWFsNUlOa2t4T0xpdktyUUtvVW5FcFQ4X0tMRlJ3emkxS0w3U1VPS0JxNVNia2tseVpDRFV2RWFsWXFEck9TSUdZbGdzemlTdUxTUDdUZjVmRG12SlJVaFpURVBKRFNndFNjdzJ1VFM0RXNiSzZ4bDNpU1k2UWpwWldTajZvbEU2d0RtNTFjRVZ5YWNEdHdlcklrTmJHa0tOOWVZb2FQa1lhVVdncENOVlp2UUZSelpYQVpIdG9mV0hwNEpaS2p3WUdiQjNJWlVFdGlSbjRSMk5NNVFCOG5aLWFCUW0temhaR0JsRjRoU2JvRUdBRSIsImlkIjoiZmNfWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9Ew7NuZGUgZGFuIGxhIHBlbMOtY3VsYSBFc3BlcmFuZG8gbGEgY2Fycm96YT8iLCJsayI6ImM1UFNTc25QUzBsVlNFbk1VOGhKVkNoSXpjbE1MZ1V5VW9zTFVvc1M4MUx5UWFMSmlVVkYtVldKQUEiLCJicyI6ImMtT2F4c2psZVdpX2MtbmhoWGtsLVFxcHhTV0hGeXJrSkNxazVwVVVKYVlrS2hRa0ZpVXFsS1VXS2JnV0Y2UVdKZWFsNUlOa2t4T0xpdktyUUtvVW5FcFQ4X0tMRlJ3emkxS0w3U1VPS0JxNVNia2tseVpDRFV2RWFsWXFEck9TSUdZbGdzemlTdUxTUDdUZjVmRG12SlJVaFpURVBKRFNndFNjdzJ1VFM0RXNiSzZ4bDNpU1k2UWpwWldTajZvbEU2d0RtNTFjRVZ5YWNEdHdlcklrTmJHa0tOOWVZb2FQa1lhVVdncENOVlp2UUZSelpYQVpIdG9mV0hwNEpaS2p3WUdiQjNJWlVFdGlSbjRSMk5NNVFCOG5aLWFCUW0temhaR0JsRjRoU2JvRUdBRSIsImlkIjoiZmNfWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXdfMSJ9"
+    },
+    {
+      "question": "¿Dónde ver Esperando la carroza teatro?",
+      "snippet": "Prime Video: Esperando la Carroza.",
+      "title": "Esperando la Carroza - Prime Video",
+      "link": "https://www.primevideo.com/-/es/detail/Esperando-la-Carroza/0QS0ZT8D71CE9JO4JG4ENIQNYO#:~:text=Prime%20Video%3A%20Esperando%20la%20Carroza",
+      "displayed_link": "https://www.primevideo.com › detail › Esperando-la-Car...",
+      "source_logo": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/6e2a3f24e06e2e0d924ae64c6313c54165e6070894fc6c7ad1e020c720258a53.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9Ew7NuZGUgdmVyIEVzcGVyYW5kbyBsYSBjYXJyb3phIHRlYXRybz8iLCJsayI6IkdpWmt3N051WkdVZ2RtVnlJR1Z6Y0dWeVlXNWtieUJzWVNCallYSnliM3BoSUhSbFlYUnlidyIsImJzIjoiYy1PYXhzamxlV2lfYy1uaGhYa2wtUXFweFNXSEZ5cmtKQ3FrNXBVVUphWWtLaFFrRmlVcWxLVVdLYmdXRjZRV0plYWw1SU5ra3hPTGl2S3JRS29VbkVwVDhfS0xGUnd6aTFLTDdTVU9LQnE1U2Jra2x5WkNEVXZFYWxZcURyT1NJR1lsZ3N6aVN1TFNQN1RmNWZEbXZKUlVoWlRFUEpEU2d0U2N3MnVUUzRFc2JLNnhsM2lTWTZRanBaV1NqNm9sRTZ3RG01MWNFVnlhY0R0d2VySWtOYkdrS045ZVlvYVBrWWFVV2dwQ05WWnZRRlJ6WlhBWkh0b2ZXSHA0SlpLandZR2JCM0laVUV0aVJuNFIyTk01UUI4blotYUJRbS16aFpHQmxGNGhTYm9FR0FFIiwiaWQiOiJmY19YUlVnYVBMZU9JNnE1Tm9Qd0xHNTRRd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9Ew7NuZGUgdmVyIEVzcGVyYW5kbyBsYSBjYXJyb3phIHRlYXRybz8iLCJsayI6IkdpWmt3N051WkdVZ2RtVnlJR1Z6Y0dWeVlXNWtieUJzWVNCallYSnliM3BoSUhSbFlYUnlidyIsImJzIjoiYy1PYXhzamxlV2lfYy1uaGhYa2wtUXFweFNXSEZ5cmtKQ3FrNXBVVUphWWtLaFFrRmlVcWxLVVdLYmdXRjZRV0plYWw1SU5ra3hPTGl2S3JRS29VbkVwVDhfS0xGUnd6aTFLTDdTVU9LQnE1U2Jra2x5WkNEVXZFYWxZcURyT1NJR1lsZ3N6aVN1TFNQN1RmNWZEbXZKUlVoWlRFUEpEU2d0U2N3MnVUUzRFc2JLNnhsM2lTWTZRanBaV1NqNm9sRTZ3RG01MWNFVnlhY0R0d2VySWtOYkdrS045ZVlvYVBrWWFVV2dwQ05WWnZRRlJ6WlhBWkh0b2ZXSHA0SlpLandZR2JCM0laVUV0aVJuNFIyTk01UUI4blotYUJRbS16aFpHQmxGNGhTYm9FR0FFIiwiaWQiOiJmY19YUlVnYVBMZU9JNnE1Tm9Qd0xHNTRRd18xIn0%3D"
+    },
+    {
+      "question": "¿Qué película están dando ahora en los cines?",
+      "snippet": null,
+      "title": "Te esperamos en nuestros complejos de CABA y GBA",
+      "link": "https://www.multiplex.com.ar/",
+      "list": [
+        "anticipada. Lilo & Stitch.",
+        "Thunderbolts*",
+        "anticipada. Destino Final: Lazos De Sangre.",
+        "anticipada. Mision Imposible: La Sentencia Final.",
+        "Una Pelicula De Minecraft.",
+        "estreno. Karate Kid: Leyendas.",
+        "Mazel Tov.",
+        "estreno. Encerrado."
+      ],
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/6e2a3f24e06e2e0d924ae64c6313c54185592e73b9e7c4a5b8cc6b61a5286aaf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoW4gZGFuZG8gYWhvcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiR2k1eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9XNGdaR0Z1Wkc4Z1lXaHZjbUVnWlc0Z2JHOXpJR05wYm1WeiIsImJzIjoiYy1PYXhzamxlV2lfYy1uaGhYa2wtUXFweFNXSEZ5cmtKQ3FrNXBVVUphWWtLaFFrRmlVcWxLVVdLYmdXRjZRV0plYWw1SU5ra3hPTGl2S3JRS29VbkVwVDhfS0xGUnd6aTFLTDdTVU9LQnE1U2Jra2x5WkNEVXZFYWxZcURyT1NJR1lsZ3N6aVN1TFNQN1RmNWZEbXZKUlVoWlRFUEpEU2d0U2N3MnVUUzRFc2JLNnhsM2lTWTZRanBaV1NqNm9sRTZ3RG01MWNFVnlhY0R0d2VySWtOYkdrS045ZVlvYVBrWWFVV2dwQ05WWnZRRlJ6WlhBWkh0b2ZXSHA0SlpLandZR2JCM0laVUV0aVJuNFIyTk01UUI4blotYUJRbS16aFpHQmxGNGhTYm9FR0FFIiwiaWQiOiJmY19YUlVnYVBMZU9JNnE1Tm9Qd0xHNTRRd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFlqUjNjVlJzTUhkS2FVZGFRWFYzV1hWeGJYY3lZVlJRWTB0elQwSlFTVGhPV0dwcGMyc3plR1Z2V1doUk5FOWlhRlY1T0RSUWFYQnhPVjg0V0hab2FHOUlibmRaVFc1a04xQk5ZVFkwZFZVdGQxcFNlSEJHVlV0VVFSSVhXRkpWWjJGUVRHVlBTVFp4TlU1dlVIZE1SelUwVVhjYUlrRkRSRmhNTkc1d2QyRkRkRVZRVWxFNFREZEpVbXhTUVU5YVlUZFdZVWQwV21jIiwiZmN2IjoiMyIsImVpIjoiWFJVZ2FQTGVPSTZxNU5vUHdMRzU0UXciLCJxYyI6IkNqcHdaV3pEcldOMWJHRWdaWE53WlhKaGJtUnZJR3hoSUdOaGNuSnZlbUVnYUc5eVlYSnBiM01nWTJsdVpYTWdZblZsYm05eklHRnBjbVZ6RUE1OUw0NGlQNklCQW1WeiIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoW4gZGFuZG8gYWhvcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiR2k1eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9XNGdaR0Z1Wkc4Z1lXaHZjbUVnWlc0Z2JHOXpJR05wYm1WeiIsImJzIjoiYy1PYXhzamxlV2lfYy1uaGhYa2wtUXFweFNXSEZ5cmtKQ3FrNXBVVUphWWtLaFFrRmlVcWxLVVdLYmdXRjZRV0plYWw1SU5ra3hPTGl2S3JRS29VbkVwVDhfS0xGUnd6aTFLTDdTVU9LQnE1U2Jra2x5WkNEVXZFYWxZcURyT1NJR1lsZ3N6aVN1TFNQN1RmNWZEbXZKUlVoWlRFUEpEU2d0U2N3MnVUUzRFc2JLNnhsM2lTWTZRanBaV1NqNm9sRTZ3RG01MWNFVnlhY0R0d2VySWtOYkdrS045ZVlvYVBrWWFVV2dwQ05WWnZRRlJ6WlhBWkh0b2ZXSHA0SlpLandZR2JCM0laVUV0aVJuNFIyTk01UUI4blotYUJRbS16aFpHQmxGNGhTYm9FR0FFIiwiaWQiOiJmY19YUlVnYVBMZU9JNnE1Tm9Qd0xHNTRRd18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Esperando La Carroza 40° Aniversario",
+      "link": "https://www.multiplex.com.ar/peliculas/esperando-la-carroza-40-aniversario/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/esperando-la-carroza-40-aniversario/&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECBgQAQ",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › esperando-la-...",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965a3bd323fd6b652edb3ef2972f1d2df282.png",
+      "date": "hace 3 días",
+      "snippet": "ESPERANDO LA CARROZA es una adaptación que Alejandro Doria realizó de ese texto tan perverso, tan divertido y sabroso que Jacobo Langsner creó ...",
+      "snippet_highlighted_words": [
+        "ESPERANDO LA CARROZA"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 2,
+      "title": "esperando la carroza (1985)",
+      "link": "https://www.cinemarkhoyts.com.ar/pelicula/esperando-la-carroza-1985",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/esperando-la-carroza-1985&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECBwQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar › pelicula › esperand...",
+      "thumbnail": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965aade1c91bb18cedac762571786d092f48.jpeg",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965acc6f2599e201de0703645859bba2e30c.png",
+      "date": "hace 3 días",
+      "snippet": "ESPERANDO LA CARROZA (1985) ; Formatos disponibles. 2D ; Duración. 1h 34m ; Fecha de estreno. 08 May, 2025 ; Distribuidor. MOVING PICS ...",
+      "snippet_highlighted_words": [
+        "ESPERANDO LA CARROZA (1985"
+      ],
+      "missing": [
+        "Buenos",
+        "Aires"
+      ],
+      "source": "Cinemark"
+    },
+    {
+      "position": 3,
+      "title": "Esperando la carroza vuelve a los cines argentinos",
+      "link": "https://www.lanacion.com.ar/espectaculos/esperando-la-carroza-vuelve-a-los-cines-argentinos-cuando-y-donde-verla-nid29042025/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/espectaculos/esperando-la-carroza-vuelve-a-los-cines-argentinos-cuando-y-donde-verla-nid29042025/&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECBcQAQ",
+      "displayed_link": "https://www.lanacion.com.ar › Espectáculos",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965aaca46f83d88b894332bf4fd5f2da17f8.png",
+      "date": "30 abr 2025",
+      "snippet": "Así las cosas, Esperando la carroza volverá a todos los cines, por lo que los espectadores deberán consultar las carteleras para conocer los ...",
+      "snippet_highlighted_words": [
+        "Esperando la carroza volverá a todos los cines"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 4,
+      "title": "Cinemark",
+      "link": "https://www.cinemarkhoyts.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECBUQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965a17a434ac3f46b3788e6b60aab0625b3f.png",
+      "snippet": "Películas en cartelera. Destacado. Formatos. Idioma. Otras opciones ... ESPERANDO LA CARROZA (1985). 2D. Estreno. Ver más. Películas en Preventa. 3h ...",
+      "snippet_highlighted_words": [
+        "Películas",
+        "cartelera",
+        "ESPERANDO LA CARROZA",
+        "Películas"
+      ],
+      "source": "Cinemark"
+    },
+    {
+      "position": 5,
+      "title": "Esperando la carroza. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/esperando-la-carroza-pe10844",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/esperando-la-carroza-pe10844&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECBkQAQ",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965a12ef4249a3e1cccd892e863fd580cda3.png",
+      "date": "20 jun 2024",
+      "snippet": "Cines Del Centro · COMPRAR ENTRADAS. castellano: 15:10. Hoyts Abasto de Buenos Aires · COMPRAR ENTRADAS. castellano: 20:10. Hoyts Dot · COMPRAR ...",
+      "snippet_highlighted_words": [
+        "Cines Del Centro"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 6,
+      "title": "Cines Multiplex: Películas en Cartelera",
+      "link": "https://www.multiplex.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECEYQAQ",
+      "displayed_link": "https://www.multiplex.com.ar",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965a44117e761825572d8e6e0c5baabe69c5.png",
+      "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
+      "snippet_highlighted_words": [
+        "horarios",
+        "películas"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 7,
+      "title": "Esperando la carroza",
+      "link": "https://m.cinesargentinos.com.ar/pelicula/4373-esperando-la-carroza/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/pelicula/4373-esperando-la-carroza/&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECE4QAQ",
+      "displayed_link": "https://m.cinesargentinos.com.ar › pelicula › 4373-espera...",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965aa7756db792127b7b388506eed91ec2fa.png",
+      "snippet": "Un clásico del cine argentino. Una familia cree que \"Mamá Cora\" ha muerto y se moviliza para organizar el velorio. En el medio irán apareciendo viejas rencillas ...",
+      "source": "Cines Argentinos"
+    },
+    {
+      "position": 8,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/Peliculas?codPelicula=107",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/Peliculas%3FcodPelicula%3D107&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECEUQAQ",
+      "displayed_link": "https://www.atlascines.com › Peliculas",
+      "thumbnail": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965a1a2430676f6967030b55a5c23f1b9c4e.jpeg",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965a1b2afc41c3a23815fbae296aaba4d253.png",
+      "snippet": "Esperando la carroza (40° aniversario). DETALLES. Mamá Cora,muy cerca ya de ... Autónoma de Buenos Aires. Esta función no es para hoy. HORARIOS DISPONIBLES.",
+      "snippet_highlighted_words": [
+        "Esperando la carroza",
+        "Buenos Aires",
+        "HORARIOS"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 9,
+      "title": "Cine Gaumont on Instagram: \"🎬 \"Esperando la carroza\" ...",
+      "link": "https://www.instagram.com/cine.gaumont/p/DE7vdXRM5DJ/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/cine.gaumont/p/DE7vdXRM5DJ/&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQFnoECEMQAQ",
+      "displayed_link": "Más de 2,7 K \"me gusta\" · hace 3 meses",
+      "thumbnail": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965ac17dd1fb6323bc3df8a53fd8cd9feefa.jpeg",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965ab5a28e96e760f74a5e987f6f304a3e28.png",
+      "snippet": "Cine Gaumont | 🎬 \"Esperando la carroza\" (1985), dirigida por Alejandro Doria 📽️ Del jueves 16 al miércoles 22: 22:30 | 40° 𝐚𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐢𝐨 🕐 90 min ...",
+      "snippet_highlighted_words": [
+        "Esperando la carroza\" (1985"
+      ],
+      "source": "Instagram · cine.gaumont"
+    },
+    {
+      "position": 10,
+      "title": "Cine Gaumont on Instagram: \" \"Esperando la carroza\" (1985 ...",
+      "link": "https://www.instagram.com/cine.gaumont/reel/DEm-21kKhuj/",
+      "displayed_link": "Más de 1,6 K \"me gusta\" · hace 4 meses",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ73-bJZqP5ldZMKXywcXFH522XDPufr4hJE-j6PDIb2aR&s",
+      "favicon": "https://serpapi.com/searches/6820155b6372f3fb4cd6f6d5/images/a4e61a438ac7be9b7125b3797afe965aa3aa49293323c3ada123c24b4e6432ea.png",
+      "snippet": "📽️ Del jueves 9 al miércoles 15: 20:40 | Reestreno 40° aniversario 90 min (ATP) La confusión invade a una familia luego de que Mamá Cora, una ...",
+      "duration": "0:37",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQceV7cDTKXeemP1nHw45luJyKh_oCaiFq04g",
+      "source": "Instagram · cine.gaumont"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Esperando la carroza teatro 2024",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Esperando+la+carroza+teatro+2024&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Esperando+la+carroza+teatro+2024"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+cine&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine"
+    },
+    {
+      "block_position": 1,
+      "query": "Jockey película horarios",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Jockey+pel%C3%ADcula+horarios&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Jockey+pel%C3%ADcula+horarios"
+    },
+    {
+      "block_position": 1,
+      "query": "Esperando la carroza reparto",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Esperando+la+carroza+reparto&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Esperando+la+carroza+reparto"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Buenos Aires cartelera",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Buenos+Aires+cartelera&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Buenos+Aires+cartelera"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de Cine Gaumont",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+Cine+Gaumont&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+Cine+Gaumont"
+    },
+    {
+      "block_position": 1,
+      "query": "Esperando la carroza 2",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Esperando+la+carroza+2&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Esperando+la+carroza+2"
+    },
+    {
+      "block_position": 1,
+      "query": "Mejores películas en cartelera hoy",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy&sa=X&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=10&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=10&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=20&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=30&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=40&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=50&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=60&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=70&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=80&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XRUgaPLeOI6q5NoPwLG54Qw&start=90&sa=N&sstk=Af40H4VahKBEkRZ-d0lo5kB5tq_hU73aAS1etuZrqyaHOOUHnPyX2CFmeQIWwbNYYBISRhLA5WDl1Q9dhRwMwMq0C9kyMfcSDTqa_g&ved=2ahUKEwiygaLwuJqNAxUOFVkFHcBYLswQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Esperando+la+carroza+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}

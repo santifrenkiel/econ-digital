@@ -1,0 +1,48 @@
+[
+    {
+      "tipo": "cine",
+      "nombre": "El Contador 2",
+      "fecha": "2025-05-10",
+      "hora": "20:00",
+      "lugar": "Cinemark Hoyts DOT",
+      "ubicacion": "Vedia 3626, Saavedra, Buenos Aires",
+      "descripcion": "Acción / Suspenso"
+    },
+    {
+      "tipo": "cine",
+      "nombre": "Encerrado",
+      "fecha": "2025-05-10",
+      "hora": "19:30",
+      "lugar": "Cinépolis Caballito",
+      "ubicacion": "Av. Rivadavia 5108, Caballito, Buenos Aires",
+      "descripcion": "Terror psicológico"
+    },
+    {
+      "tipo": "cine",
+      "nombre": "Garfield: fuera de casa",
+      "fecha": "2025-05-10",
+      "hora": "17:45",
+      "lugar": "Village Recoleta",
+      "ubicacion": "Vicente López 2050, Recoleta, Buenos Aires",
+      "descripcion": "Animación / Comedia"
+    },
+    {
+      "tipo": "cine",
+      "nombre": "Furiosa",
+      "fecha": "2025-05-10",
+      "hora": "21:00",
+      "lugar": "Cinemark Palermo",
+      "ubicacion": "Av. La Plata 96, CABA",
+      "descripcion": "Acción / Ciencia Ficción"
+    },
+    {
+      "tipo": "cine",
+      "nombre": "El planeta de los simios: nuevo reino",
+      "fecha": "2025-05-10",
+      "hora": "22:00",
+      "lugar": "Multiplex Belgrano",
+      "ubicacion": "Vuelta de Obligado 2199, CABA",
+      "descripcion": "Ciencia Ficción / Aventura"
+    }
+  ]
+  

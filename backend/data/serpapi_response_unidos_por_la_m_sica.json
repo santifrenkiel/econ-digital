@@ -1,0 +1,815 @@
+{
+  "search_metadata": {
+    "id": "6820155f3186601a19534b20",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9dfab938393d5d24/6820155f3186601a19534b20.json",
+    "created_at": "2025-05-11 03:11:27 UTC",
+    "processed_at": "2025-05-11 03:11:27 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9dfab938393d5d24/6820155f3186601a19534b20.html",
+    "total_time_taken": 1.32
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Unidos por la música horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Unidos por la música horarios cines Buenos Aires",
+    "total_results": 73600,
+    "time_taken_displayed": 0.58,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "showtimes": [
+    {
+      "day": "Hoy11 may",
+      "theaters": [
+        {
+          "name": "Cine Arte Cacodelphia",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Arte+Cacodelphia&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzPptWOSofGYzi96gyk7kKqYBw_yaL1AcovanKqQqlI1-BTAz4V8pDGuX5HSpvpqt5HN4BLbo_zvbd9mNLCuqD8P8itSEHVzvTMHkRh8lHO5bZ08JaaQc3j5OxQvz7XtMTavJgKEpiGViPH603-6rXB80o6dy2XvEDnZ_LVQ3jzze6y3bt1KwLsbV20yTXiKr_9LEbVAEuR-8zBXDsGrztBcyqGM8IkSsRgG1yOmJXqmJ2EZFVeZxQQzvn-SsJ3nh_liyZA%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQySZ6BAhmEAs",
+          "distance": "84 metros",
+          "address": "Roque Saenz Peña 1150, C1049 Ciudad Autónoma de Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "4:40p. m.",
+                "6:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinepolis Plaza Houssay",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNwfztpSJXfPu2mY6b1relX-J4xd07irHDabEz-ieNvnF2Q5-pYDBD3d0pSM01EVj_-YPwtZBeX5odSJxkW6BvDdDSFYfUPusfePB1QHJ3nisYfKUOY%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQySZ6BAhmEBA",
+          "distance": "1,6 km",
+          "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Recoleta",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSzJX7M5myzH0kEES0xv7qasRid6ROkZ463QR_mHwBWt1Hdy9hleoB8rIIt-Onj4k3_5C8_eH-UvaDD7ZId7pcMex3-DKIAp5IATPtBC_eR7A14ozo8%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQySZ6BAhmEBQ",
+          "distance": "2,0 km",
+          "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "2:15p. m.",
+                "7:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Multiplex Belgrano",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY44rg2QxxLYm5BwA34s-HvKN6RmA52Qtay1zAzI7BKUyrnXTwlLfjbZW4n_bsM5MSvC5KudliPB7a2rA9mQ8wuBAbNL2FMYB54mo6ll3VgtqspNETE%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQySZ6BAhmEBk",
+          "distance": "8,4 km",
+          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "4:50p. m.",
+                "8:15p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxotO8C9HlE37suQWUlWlzC_tl_-knkwbc-tfw_efTrDO3K3xBBchpzTjK6cnOFKvDCuWn8scw9t_KUI5xEKiL-8AADrAbogmboFlwe7ha7C5gMNpNpg%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQySZ6BAhmEB4",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "2:35p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Pilar",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHG5MxQsM9O_v5ZipVKXjY29mAievG00xnFbGJM-nD59K0JAiMbQ9obwcjyHttZK_XbnmV21bgZwyO4smcm2nTgFeCZz1gxX2xU9VDl1jAwenKPNjV0%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQySZ6BAhmECM",
+          "distance": "48,3 km",
+          "address": "Panamericana Km 50, Pilar, BA",
+          "showing": [
+            {
+              "time": [
+                "7:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Paradiso",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0akjIlBqzYbYuYD3cOxGmC-0JysvQ9kwKwocA-ABRmQNLS11aWbZR7Hbs8ZruMHp0MwHVI8uO5w6n2h_0_PrpGApAsbNZhnFcj25TFU8Aq0T4tHqbg%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQySZ6BAhmECc",
+          "distance": "52,1 km",
+          "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
+          "showing": [
+            {
+              "time": [
+                "8:05p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "lun12 may",
+      "theaters": [
+        {
+          "name": "Cinepolis Plaza Houssay",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNwfztpSJXfPu2mY6b1relX-J4xd07irHDabEz-ieNvnF2Q5-pYDBD3d0pSM01EVj_-YPwtZBeX5odSJxkW6BvDdDSFYfUPusfePB1QHJ3nisYfKUOY%3D",
+          "distance": "1,6 km",
+          "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Recoleta",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSzJX7M5myzH0kEES0xv7qasRid6ROkZ463QR_mHwBWt1Hdy9hleoB8rIIt-Onj4k3_5C8_eH-UvaDD7ZId7pcMex3-DKIAp5IATPtBC_eR7A14ozo8%3D",
+          "distance": "2,0 km",
+          "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "2:15p. m.",
+                "7:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Multiplex Belgrano",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY44rg2QxxLYm5BwA34s-HvKN6RmA52Qtay1zAzI7BKUyrnXTwlLfjbZW4n_bsM5MSvC5KudliPB7a2rA9mQ8wuBAbNL2FMYB54mo6ll3VgtqspNETE%3D",
+          "distance": "8,4 km",
+          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "4:50p. m.",
+                "8:15p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxotO8C9HlE37suQWUlWlzC_tl_-knkwbc-tfw_efTrDO3K3xBBchpzTjK6cnOFKvDCuWn8scw9t_KUI5xEKiL-8AADrAbogmboFlwe7ha7C5gMNpNpg%3D",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "2:35p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Pilar",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHG5MxQsM9O_v5ZipVKXjY29mAievG00xnFbGJM-nD59K0JAiMbQ9obwcjyHttZK_XbnmV21bgZwyO4smcm2nTgFeCZz1gxX2xU9VDl1jAwenKPNjV0%3D",
+          "distance": "48,3 km",
+          "address": "Panamericana Km 50, Pilar, BA",
+          "showing": [
+            {
+              "time": [
+                "7:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Paradiso",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0akjIlBqzYbYuYD3cOxGmC-0JysvQ9kwKwocA-ABRmQNLS11aWbZR7Hbs8ZruMHp0MwHVI8uO5w6n2h_0_PrpGApAsbNZhnFcj25TFU8Aq0T4tHqbg%3D",
+          "distance": "52,1 km",
+          "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
+          "showing": [
+            {
+              "time": [
+                "8:05p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "mar13 may",
+      "theaters": [
+        {
+          "name": "Cine Arte Cacodelphia",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Arte+Cacodelphia&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzPptWOSofGYzi96gyk7kKqYBw_yaL1AcovanKqQqlI1-BTAz4V8pDGuX5HSpvpqt5HN4BLbo_zvbd9mNLCuqD8P8itSEHVzvTMHkRh8lHO5bZ08JaaQc3j5OxQvz7XtMTavJgKEpiGViPH603-6rXB80o6dy2XvEDnZ_LVQ3jzze6y3bt1KwLsbV20yTXiKr_9LEbVAEuR-8zBXDsGrztBcyqGM8IkSsRgG1yOmJXqmJ2EZFVeZxQQzvn-SsJ3nh_liyZA%3D",
+          "distance": "84 metros",
+          "address": "Roque Saenz Peña 1150, C1049 Ciudad Autónoma de Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "4:40p. m.",
+                "6:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinepolis Plaza Houssay",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNwfztpSJXfPu2mY6b1relX-J4xd07irHDabEz-ieNvnF2Q5-pYDBD3d0pSM01EVj_-YPwtZBeX5odSJxkW6BvDdDSFYfUPusfePB1QHJ3nisYfKUOY%3D",
+          "distance": "1,6 km",
+          "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Recoleta",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSzJX7M5myzH0kEES0xv7qasRid6ROkZ463QR_mHwBWt1Hdy9hleoB8rIIt-Onj4k3_5C8_eH-UvaDD7ZId7pcMex3-DKIAp5IATPtBC_eR7A14ozo8%3D",
+          "distance": "2,0 km",
+          "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "2:15p. m.",
+                "7:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Multiplex Belgrano",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY44rg2QxxLYm5BwA34s-HvKN6RmA52Qtay1zAzI7BKUyrnXTwlLfjbZW4n_bsM5MSvC5KudliPB7a2rA9mQ8wuBAbNL2FMYB54mo6ll3VgtqspNETE%3D",
+          "distance": "8,4 km",
+          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "4:50p. m.",
+                "8:15p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxotO8C9HlE37suQWUlWlzC_tl_-knkwbc-tfw_efTrDO3K3xBBchpzTjK6cnOFKvDCuWn8scw9t_KUI5xEKiL-8AADrAbogmboFlwe7ha7C5gMNpNpg%3D",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "2:35p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Pilar",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHG5MxQsM9O_v5ZipVKXjY29mAievG00xnFbGJM-nD59K0JAiMbQ9obwcjyHttZK_XbnmV21bgZwyO4smcm2nTgFeCZz1gxX2xU9VDl1jAwenKPNjV0%3D",
+          "distance": "48,3 km",
+          "address": "Panamericana Km 50, Pilar, BA",
+          "showing": [
+            {
+              "time": [
+                "7:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Paradiso",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0akjIlBqzYbYuYD3cOxGmC-0JysvQ9kwKwocA-ABRmQNLS11aWbZR7Hbs8ZruMHp0MwHVI8uO5w6n2h_0_PrpGApAsbNZhnFcj25TFU8Aq0T4tHqbg%3D",
+          "distance": "52,1 km",
+          "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
+          "showing": [
+            {
+              "time": [
+                "8:05p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "mié14 may",
+      "theaters": [
+        {
+          "name": "Cine Arte Cacodelphia",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Arte+Cacodelphia&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzPptWOSofGYzi96gyk7kKqYBw_yaL1AcovanKqQqlI1-BTAz4V8pDGuX5HSpvpqt5HN4BLbo_zvbd9mNLCuqD8P8itSEHVzvTMHkRh8lHO5bZ08JaaQc3j5OxQvz7XtMTavJgKEpiGViPH603-6rXB80o6dy2XvEDnZ_LVQ3jzze6y3bt1KwLsbV20yTXiKr_9LEbVAEuR-8zBXDsGrztBcyqGM8IkSsRgG1yOmJXqmJ2EZFVeZxQQzvn-SsJ3nh_liyZA%3D",
+          "distance": "84 metros",
+          "address": "Roque Saenz Peña 1150, C1049 Ciudad Autónoma de Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "6:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinepolis Plaza Houssay",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNwfztpSJXfPu2mY6b1relX-J4xd07irHDabEz-ieNvnF2Q5-pYDBD3d0pSM01EVj_-YPwtZBeX5odSJxkW6BvDdDSFYfUPusfePB1QHJ3nisYfKUOY%3D",
+          "distance": "1,6 km",
+          "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Recoleta",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSzJX7M5myzH0kEES0xv7qasRid6ROkZ463QR_mHwBWt1Hdy9hleoB8rIIt-Onj4k3_5C8_eH-UvaDD7ZId7pcMex3-DKIAp5IATPtBC_eR7A14ozo8%3D",
+          "distance": "2,0 km",
+          "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "2:15p. m.",
+                "7:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Multiplex Belgrano",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY44rg2QxxLYm5BwA34s-HvKN6RmA52Qtay1zAzI7BKUyrnXTwlLfjbZW4n_bsM5MSvC5KudliPB7a2rA9mQ8wuBAbNL2FMYB54mo6ll3VgtqspNETE%3D",
+          "distance": "8,4 km",
+          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "4:50p. m.",
+                "8:15p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxotO8C9HlE37suQWUlWlzC_tl_-knkwbc-tfw_efTrDO3K3xBBchpzTjK6cnOFKvDCuWn8scw9t_KUI5xEKiL-8AADrAbogmboFlwe7ha7C5gMNpNpg%3D",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "2:35p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Pilar",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHG5MxQsM9O_v5ZipVKXjY29mAievG00xnFbGJM-nD59K0JAiMbQ9obwcjyHttZK_XbnmV21bgZwyO4smcm2nTgFeCZz1gxX2xU9VDl1jAwenKPNjV0%3D",
+          "distance": "48,3 km",
+          "address": "Panamericana Km 50, Pilar, BA",
+          "showing": [
+            {
+              "time": [
+                "7:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Paradiso",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0akjIlBqzYbYuYD3cOxGmC-0JysvQ9kwKwocA-ABRmQNLS11aWbZR7Hbs8ZruMHp0MwHVI8uO5w6n2h_0_PrpGApAsbNZhnFcj25TFU8Aq0T4tHqbg%3D",
+          "distance": "52,1 km",
+          "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
+          "showing": [
+            {
+              "time": [
+                "8:05p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Por todo lo alto",
+    "type": "2024 ‧ Comedia/Drama ‧ 1h 44m",
+    "entity_type": "film, tvm",
+    "main_tab_text": "Información general",
+    "kgmid": "/g/11kpyvpbhc",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11kpyvpbhc&hl=es-AR&q=Por+todo+lo+alto&shndl=17&shem=vidc&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es-AR&kgmid=%2Fg%2F11kpyvpbhc&q=Por+todo+lo+alto",
+    "tabs": [
+      {
+        "text": "Reparto",
+        "si": "APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6adwl4htM477unhHaYSCeIOtb5PMtqXSkAPEbyaaof532pf-gy3UrLbtBA4WFDX-uRSRf4CDwc4DEXN1qnD70swUVBgbcI7L-x2fp_n9aZt3vIaOIm0=",
+        "link": "https://www.google.com/search?si=APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6adwl4htM477unhHaYSCeIOtb5PMtqXSkAPEbyaaof532pf-gy3UrLbtBA4WFDX-uRSRf4CDwc4DEXN1qnD70swUVBgbcI7L-x2fp_n9aZt3vIaOIm0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&si=APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6adwl4htM477unhHaYSCeIOtb5PMtqXSkAPEbyaaof532pf-gy3UrLbtBA4WFDX-uRSRf4CDwc4DEXN1qnD70swUVBgbcI7L-x2fp_n9aZt3vIaOIm0%3D"
+      },
+      {
+        "text": "Reseñas"
+      },
+      {
+        "text": "Cartelera",
+        "si": "APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxBkjsJeGbi-1bP8Ipau10YCUaTmyjI7goDSkXM8cqkdcoEn8ZnwPXhZ0UPj-Og1QqD26YZ5vJTnblJJbQuQ_-smATQVT2FWDChNOKMkotIx3a5Z2Vg==",
+        "link": "https://www.google.com/search?si=APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxBkjsJeGbi-1bP8Ipau10YCUaTmyjI7goDSkXM8cqkdcoEn8ZnwPXhZ0UPj-Og1QqD26YZ5vJTnblJJbQuQ_-smATQVT2FWDChNOKMkotIx3a5Z2Vg==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&si=APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxBkjsJeGbi-1bP8Ipau10YCUaTmyjI7goDSkXM8cqkdcoEn8ZnwPXhZ0UPj-Og1QqD26YZ5vJTnblJJbQuQ_-smATQVT2FWDChNOKMkotIx3a5Z2Vg%3D%3D"
+      }
+    ],
+    "description": "Por todo lo alto, título original en francés En fanfare, es una película francesa de 2024 dirigida por Emmanuel Courcol. La película es una comedia dramática con guion original escrito por el propio director en colaboración con Irène Muscari, Oriane Bonduel, Marianne Tomersy y Khaled Amara.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://es.wikipedia.org/wiki/Por_todo_lo_alto_(pel%C3%ADcula)"
+    },
+    "fecha_de_estreno": "27 de noviembre de 2024 (Francia)",
+    "fecha_de_estreno_links": [
+      {
+        "text": "Francia",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Francia&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwuqCwrSMpIVuLUz9U3SLPIsUzWMs9OttJPy8zJBRNWJRmpiSVFmcmJOQrJ-aV5JUWVCvlpCvlFmemZeQpFqTmpicWpCimJJamLWNndihLzkjMTd7Ay7mJn4mAAAP_wdo9nAAAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQmxMoAHoECCUQAg"
+      }
+    ],
+    "director": "Emmanuel Courcol",
+    "director_links": [
+      {
+        "text": "Emmanuel Courcol",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Emmanuel+Courcol&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-oa9jFLy0CDbPhbaTkhJHcNOoNkpa-WYCygEBW57ffccJ5OW738mOdHF5Pr6mGPzFve6TrIF7euHOT5WxXyoVnngYPHEuW9Kq2GKwuWnWu440T5cbP0xdA99B5MTnNoBleRQ0eLQtYNsvXulDRcDyQr17FzVOhXIBGVnb3Hyu4lFWfoE9w%3D%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQmxMoAHoECB8QAg"
+      }
+    ],
+    "distribuidor": "Diaphana Distribution",
+    "distribuidor_links": [
+      {
+        "text": "Diaphana Distribution",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=por+todo+lo+alto+diaphana+distribution&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh6faRh50XjZ_-rnpQk6HIpXksi2uFqy3vMuSaaGGSSCB6umYhyCaKnr_cUePwW-dbYSEyub3ZzMVKu6E_TB_6bmZJCxyD81HHE2Omp_2Lg-JIMYf5S_CVE8SYW9WGnEPbM_Zj--Ayc9t8BOrl9Ljb0krQjr1qJagKUI6XmhmsISLCjI05fEH8ESJCQv1skMocruRnP6dcrI5uLkCwqFBr4ItYM_E&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQmxMoAHoECCMQAg"
+      }
+    ],
+    "nominaciones": "Premio César a la Mejor Película",
+    "nominaciones_links": [
+      {
+        "text": "Premio César a la Mejor Película",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Premio+C%C3%A9sar+a+la+Mejor+Pel%C3%ADcula&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRaqwpYbTSLDjxXtoyafzAZ0qUsM8iLOSXf8eC0ucsimiesNarWXl6TPzKwSzBFtOx-QYU_d4dh9e9YthvsngEUMo8HyE1AmKSay24pTIrFdaLF_iou_wpf1pkl41QZ9lDE48u3j_qyCZxaO9cQjXMQQLVDqDuXBIIgr26vX06U9YRkPnIg_7qKtBb8ZKeAWFjMBLs-4plCfIgWJwYPJ70Ze3AKRBg4NYJSLtnQntO8UQ5vNxIFGx9tZJGLSvWUwC1Ma_fL6R0Ne8ELKScy4hHxYIARgY&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQmxMoAHoECCQQAg"
+      },
+      {
+        "text": "Ver más",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=por+todo+lo+alto+pel%C3%ADcula+nominaciones&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwuqCwrSMpI1lLKTrbSTyxPLEqBkPHlmXl5qUVWefm5mXmJJZn5ecWLWNUL8osUSvJT8hVy8hUSc0ryFQpScw6vTS7NSVSAKEwGKkwtBgBuiZW2XwAAAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ44YBKAF6BAgkEAM"
+      }
+    ],
+    "directora_de_casting": "Emmanuelle Prévost",
+    "directora_de_casting_links": [
+      {
+        "text": "Emmanuelle Prévost",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Emmanuelle+Pr%C3%A9vost&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-oyKPiVSAIbrzB2zcnTUVVSYf7kEgd4rI28cGJx7ibb_rcuF6nnTfZMb2NMjaWsGUP14MGsZrEpwZrfh_MlUilqS6CiE_obbA1jyLE7YptgpW6ne-h-udhKMZ0dFn0MutFG6jXr5kevzTEvEESTGPFwYjH_CUw75U_kUVZt8EHZNySVP6Q%3D%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQmxMoAHoECCYQAg"
+      }
+    ],
+    "cinematografía": "Maxence Lemonnier",
+    "cinematografía_links": [
+      {
+        "text": "Maxence Lemonnier",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=por+todo+lo+alto+maxence+lemonnier&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh6ZddU6_tBVAdomdMiDaLp0JTXiroi1-p-PdUV6ntoKE3SyFqvPXyYTzq1lXvDf7CFKQRvyDKntInOmDsbIXqTAPiqMEGq4_qxMbOaDj1NI2Tsc6PT1aZpYGfikeKwOLh8tL1RIrqatDPcV3wL2lC-4-2wDmLoUc1RinoOHaIXPs6Ik9oQCGeEFrGYsmbJ9ffpfEuzY%3D&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQmxMoAHoECCEQAg"
+      }
+    ],
+    "audience_reviews": [
+      {
+        "rating": 5,
+        "summary": "Fantástica, conmovedora tierna con su sentido de ironía francesa, que le da un toque de humor. Dónde la sencillez te llega al corazón.Buena interpretación. Merece la pena."
+      }
+    ],
+    "user_statistics": {
+      "platform": "Usuarios de Google",
+      "statistic": "Al 93% le gustó esta película"
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Unidos Por La Musica",
+      "link": "https://www.multiplex.com.ar/peliculas/unidos-por-la-musica/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/unidos-por-la-musica/&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECEMQAQ&usg=AOvVaw1PUyjNisrLCdYjk36Fqzpx",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › unidos-por-la...",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d8571863e8e04544fe72314fb40fa9013a79d5.png",
+      "date": "hace 3 días",
+      "snippet": "Ver Horarios y Comprar Entradas. Seleccioná el Complejo. Multiplex ... Salas de Cine · Contacto. Cines Multiplex - Buenos Aires, Argentina.",
+      "snippet_highlighted_words": [
+        "Ver Horarios y Comprar Entradas"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 2,
+      "title": "Unidos por la música. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/unidos-por-la-musica-pe19482",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/unidos-por-la-musica-pe19482&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECDsQAQ&usg=AOvVaw1uDmdnfFuVmPEsa6TnoVMd",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d8571867b106ef9c5595635d5e25b63b269450.png",
+      "date": "24 abr 2025",
+      "snippet": "Título original: En fanfare; Estreno: 24.04.2025; Clasificación: Apta para todo público; Actor: Benjamin Lavernhe, Pierre Lottin.",
+      "snippet_highlighted_words": [
+        "En"
+      ],
+      "missing": [
+        "Buenos"
+      ],
+      "must_include": {
+        "word": "Buenos",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+%22Buenos%22+Aires&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ5t4CegQIShAB"
+      },
+      "source": "La Nación"
+    },
+    {
+      "position": 3,
+      "title": "Cines Multiplex: Películas en Cartelera",
+      "link": "https://www.multiplex.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECDwQAQ&usg=AOvVaw38RzQITQDSrNkEmuWBbG5Z",
+      "displayed_link": "https://www.multiplex.com.ar",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d857181c4616b6fdc88a02333357b9df2bf9c7.png",
+      "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
+      "snippet_highlighted_words": [
+        "en",
+        "horarios de",
+        "películas",
+        "con"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 4,
+      "title": "Cine Arte Cacodelphia",
+      "link": "https://cineartecacodelphia.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cineartecacodelphia.com.ar/&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECDcQAQ&usg=AOvVaw0HwWuxr6z9pLrBrWh0JZ3e",
+      "displayed_link": "https://cineartecacodelphia.com.ar",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d857184539a17c1c413c8171b417b96434e774.png",
+      "snippet": "Comprá tu entrada. UNIDOS POR LA MUSICA. Estreno. Subt. 2D · MISERICORDIA. Subt. 2D · DIAMANTI. Subt. 2D · PANDEMONIUM. Subt. 2D · UN PASTEL PARA DOS. Subt.",
+      "snippet_highlighted_words": [
+        "UNIDOS POR LA MUSICA"
+      ],
+      "source": "Cine Arte Cacodelphia"
+    },
+    {
+      "position": 5,
+      "title": "Cartelera de Cines Showcase | IMAX - Consultá Entradas 2x1",
+      "link": "https://www.todoshowcase.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECDoQAQ&usg=AOvVaw0Kj8nP69OgSvekYBTesYub",
+      "displayed_link": "https://www.todoshowcase.com",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d85718e1aeb0ed8578505d2ba237fe0db0df0a.png",
+      "snippet": "Unidos por la música. ESTRENO. La noche de los tres fuegos. ESTRENO. Esperando la carroza · Mensaje en una botella · Sneaks, un par con suerte · Thunderbolts* ...",
+      "snippet_highlighted_words": [
+        "Unidos por la música"
+      ],
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 6,
+      "title": "unidos por la musica",
+      "link": "https://www.cinemarkhoyts.com.ar/pelicula/unidos-por-la-musica",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/unidos-por-la-musica&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECD0QAQ&usg=AOvVaw1fOuNbH51FOXuyLEAm-rwc",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar › pelicula › unidos-p...",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d85718c51a002b2161f0882f2ada599adcde55.png",
+      "snippet": "Cuando se entera de que es adoptado, descubre la existencia de un hermano, Jimmy, un empleado de un comedor escolar que toca el trombón en una banda de música ...",
+      "snippet_highlighted_words": [
+        "de",
+        "de",
+        "de",
+        "en",
+        "de música"
+      ],
+      "missing": [
+        "horarios",
+        "Buenos",
+        "Aires"
+      ],
+      "source": "Cinemark Hoyts"
+    },
+    {
+      "position": 7,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECGkQAQ&usg=AOvVaw34ToVmDNQaaYVuksznuWsQ",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d85718a003cc098ff9df0784c008dd1ea93533.png",
+      "snippet": "LA NOCHE DE LOS TRES FUEGOS. EN CARTELERA. pel2. 2D. UNIDOS POR LA MUSICA. 103 min | SAM13. Comedia Dramatica. UNIDOS POR LA MUSICA. EN CARTELERA. pel2. 2D.",
+      "snippet_highlighted_words": [
+        "UNIDOS POR LA MUSICA"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 8,
+      "title": "Agenda de Cine – Cartelera y próximos estrenos en Argentina.",
+      "link": "https://agendadecine.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agendadecine.ar/&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECGwQAQ&usg=AOvVaw3-fx9N5xaA2slKPLf32APH",
+      "displayed_link": "https://agendadecine.ar",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d857188473f680026088300b91a6ab41135a0d.png",
+      "snippet": "La noche de los tres fuegos · VER HORARIOS · IMPACTO - UNIDOS POR LA MUSICA. Unidos por la música · VER HORARIOS · Nancy · VER HORARIOS · El Clan (2015) · VER ...",
+      "snippet_highlighted_words": [
+        "Unidos por la música"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cines",
+            "link": "https://agendadecine.ar/cines/"
+          },
+          {
+            "title": "En Cartel",
+            "link": "https://agendadecine.ar/en-cartel/"
+          },
+          {
+            "title": "Próximos Estrenos",
+            "link": "https://agendadecine.ar/proximos-estrenos/"
+          },
+          {
+            "title": "Ciclos y Festivales",
+            "link": "https://agendadecine.ar/ciclos-y-festivales/"
+          }
+        ]
+      },
+      "source": "Agenda de Cine"
+    },
+    {
+      "position": 9,
+      "title": "Belgrano Multiplex. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/sala/belgrano-multiplex-sa125",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/sala/belgrano-multiplex-sa125&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECGsQAQ&usg=AOvVaw0gUu3k8NmeZ5oL3eQTF7AW",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › sala",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d85718056b7a3308b7aae31575c4463b481d8d.png",
+      "snippet": "Cartelera de cine. Belgrano Multiplex. Facebook Twitter WhatsApp. Dirección: Vuelta de Obligado 2199. CABA ... Unidos por la música. Comedia. Ver Horarios.",
+      "snippet_highlighted_words": [
+        "Unidos por la música"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 10,
+      "title": "Cines Showcase by Voy al Cine",
+      "link": "https://www.voyalcine.net/showcase/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.voyalcine.net/showcase/&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQFnoECG8QAQ&usg=AOvVaw36TcWaIsKYrzprYy5ZUnfS",
+      "displayed_link": "https://www.voyalcine.net › showcase",
+      "favicon": "https://serpapi.com/searches/6820155f3186601a19534b20/images/27ff27982014fedf45ec50a160d85718f51916dbd43395f70937189058ac9f4a.png",
+      "snippet": "UNIDOS POR LA MÚSICA. CALIFICACIÓN SAM 13. EN FANFARE. COMPRAR ENTRADAS +. DRAMA. LA NOCHE DE LOS TRES FUEGOS. CALIFICACIÓN SAM 16. LA NOCHE DE LOS TRES FUEGOS.",
+      "snippet_highlighted_words": [
+        "UNIDOS POR LA MÚSICA"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Mi cuenta",
+            "link": "https://www.voyalcine.net/showcase/ingresar.aspx"
+          },
+          {
+            "title": "Preguntas frecuentes",
+            "link": "https://www.voyalcine.net/showcase/preguntas.aspx"
+          },
+          {
+            "title": "Venta de Entradas",
+            "link": "https://www.voyalcine.net/showcase/boleteria"
+          },
+          {
+            "title": "Sam 13 mazel tov",
+            "link": "https://www.voyalcine.net/showcase/pelicula.aspx?filmid=4471"
+          }
+        ]
+      },
+      "source": "Voy al Cine"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Flow",
+          "image": "https://serpapi.com/searches/6820155f3186601a19534b20/images/0ce15c77e5c8e338f0ea89df7edebf7cce7df462bfc486bc1122051d74de85f00773321d123e69c1.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Flow+2024&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyrMDQ3zDWr_MXIsIGF4RULPxeqOJKIqVGWRVJxCUKk2Ngk2bIy2QghUpJiaJlulI6kJrugsqwgKSMZScSyuMo4uSoXIZKelG1SmJZUgWRXIdCQ5NwChEhOioV5lbGhIZIag9xKM5Oq3EWsnG45-eUKRgZGJrfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAELQfxnCwEAAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQs9oBKAB6BAhuEAk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Flow+2024&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyrMDQ3zDWr_MXIsIGF4RULPxeqOJKIqVGWRVJxCUKk2Ngk2bIy2QghUpJiaJlulI6kJrugsqwgKSMZScSyuMo4uSoXIZKelG1SmJZUgWRXIdCQ5NwChEhOioV5lbGhIZIag9xKM5Oq3EWsnG45-eUKRgZGJrfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAELQfxnCwEAAA"
+        },
+        {
+          "name": "ANORA (Anora)",
+          "image": "https://serpapi.com/searches/6820155f3186601a19534b20/images/0ce15c77e5c8e338f0ea89df7edebf7cce7df462bfc486bc951feb0e46026be3a08f849a42ffc127.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Anora&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCwzNcqySCou-cXIsIGF4RULPxdUvMLQ3DDXrBJJBKoSIVJsbJJsWZlshBApSTG0TDdKR1KTXVBZVpCUkYwkYllcZZxclYsQSU_KNilMS6pAsqsQaEhybgFCJCfFwrzK2NAQSY1BbqWZSVXuIlZWx7z8osRbbJIMYX7hnxNnHGZ7t68qrThBkUtzVvSjA_es1i3iEApJzE3KPLwyT6E4VSGptDj58OYVHIwAm11VbAcBAAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQs9oBKAB6BAhuEA4",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Anora&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCwzNcqySCou-cXIsIGF4RULPxdUvMLQ3DDXrBJJBKoSIVJsbJJsWZlshBApSTG0TDdKR1KTXVBZVpCUkYwkYllcZZxclYsQSU_KNilMS6pAsqsQaEhybgFCJCfFwrzK2NAQSY1BbqWZSVXuIlZWx7z8osRbbJIMYX7hnxNnHGZ7t68qrThBkUtzVvSjA_es1i3iEApJzE3KPLwyT6E4VSGptDj58OYVHIwAm11VbAcBAAA"
+        },
+        {
+          "name": "Mickey 17",
+          "image": "https://serpapi.com/searches/6820155f3186601a19534b20/images/0ce15c77e5c8e338f0ea89df7edebf7cce7df462bfc486bc1e6a469d7392def6f13a05313909a8e9.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Mickey+17&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCw2Nkm2rEw2-sXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIQLTixApSTG0TDdKR1KTXVBZVpCUkYwkYllcZZxclYsQSU_KNilMS6pAsqsQaEhybgFCJCfFwrzK2NAQSY1BbqWZSVXuIlZO38zk7NRKBUPzW2ySDGF-4Z8TZxxme7evKq04QZFLc1b0owP3rNYt4hAKScxNyjy8Mk-hOFUhqbQ4-fDmFRyMACC_GGkLAQAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQs9oBKAB6BAhuEBM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Mickey+17&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCw2Nkm2rEw2-sXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIQLTixApSTG0TDdKR1KTXVBZVpCUkYwkYllcZZxclYsQSU_KNilMS6pAsqsQaEhybgFCJCfFwrzK2NAQSY1BbqWZSVXuIlZO38zk7NRKBUPzW2ySDGF-4Z8TZxxme7evKq04QZFLc1b0owP3rNYt4hAKScxNyjy8Mk-hOFUhqbQ4-fDmFRyMACC_GGkLAQAA"
+        },
+        {
+          "name": "Mufasa: El rey león",
+          "image": "https://serpapi.com/searches/6820155f3186601a19534b20/images/0ce15c77e5c8e338f0ea89df7edebf7cce7df462bfc486bce5249c9bbb5c3d3f7e49c1889fecd42b.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Mufasa:+El+rey+le%C3%B3n&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCxJMbRMN0ov-cXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIVJsbJJsWZlshBCBmYYQyS6oLCtIykhGErEsrjJOrspFiKQnZZsUpiVVINlVCDQkObcAIZKTYmFeZWxoiKTGILfSzKQqdxGriG9pWmJxopWCa45CUWqlQk7q4c15t9gkGcL8wj8nzjjM9m5fVVpxgiKX5qzoRwfuWa1bxCEUkpiblHl4ZZ5CcapCUmlx8uHNKzgYASbaV1oWAQAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQs9oBKAB6BAhuEBg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Mufasa%3A+El+rey+le%C3%B3n&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCxJMbRMN0ov-cXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIVJsbJJsWZlshBCBmYYQyS6oLCtIykhGErEsrjJOrspFiKQnZZsUpiVVINlVCDQkObcAIZKTYmFeZWxoiKTGILfSzKQqdxGriG9pWmJxopWCa45CUWqlQk7q4c15t9gkGcL8wj8nzjjM9m5fVVpxgiKX5qzoRwfuWa1bxCEUkpiblHl4ZZ5CcapCUmlx8uHNKzgYASbaV1oWAQAA"
+        },
+        {
+          "name": "Por todo lo alto",
+          "image": "https://serpapi.com/searches/6820155f3186601a19534b20/images/0ce15c77e5c8e338f0ea89df7edebf7cce7df462bfc486bc56c9a01d44250493195a6938728a4a92.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Por+todo+lo+alto+(pel%C3%ADcula)&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMwuqCwrSMpI_sXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIVJsbJJsWZlshBApSTG0TDdKR1IDMx9JxLK4yji5Khchkp6UbVKYllSBZFch0JDk3AKESE6KhXmVsaEhkhqD3Eozk6rcRawyAflFCiX5KfkKOfkKiTkl-QoaBak5h9cml-Ykat5ik2QI8wv_nDjjMNu7fVVpxQmKXJqzoh8duGe1bhGHUEhiblLm4ZV5CsWpCkmlxcmHN6_gYAQAP3GZsB4BAAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQs9oBKAB6BAhuEB0",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Por+todo+lo+alto+%28pel%C3%ADcula%29&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMwuqCwrSMpI_sXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIVJsbJJsWZlshBApSTG0TDdKR1IDMx9JxLK4yji5Khchkp6UbVKYllSBZFch0JDk3AKESE6KhXmVsaEhkhqD3Eozk6rcRawyAflFCiX5KfkKOfkKiTkl-QoaBak5h9cml-Ykat5ik2QI8wv_nDjjMNu7fVVpxQmKXJqzoh8duGe1bhGHUEhiblLm4ZV5CsWpCkmlxcmHN6_gYAQAP3GZsB4BAAA"
+        },
+        {
+          "name": "Cónclave",
+          "image": "https://serpapi.com/searches/6820155f3186601a19534b20/images/0ce15c77e5c8e338f0ea89df7edebf7cce7df462bfc486bcf8439c1667e3a6b1f0068fef681686fc.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=C%C3%B3nclave+2024&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMy2LK4yTq7K_cXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIVJsbJJsWZlshBApSTG0TDdKR1KTXVBZVpCUkYwkArURIZKelG1SmJZUgWRXIdCQ5NwChEhOioV5lbGhIZIag9xKM5Oq3EWsfM6HN-cl5ySWpSoYGRiZ3GKTZAjzC_-cOOMw27t9VWnFCYpcmrOiHx24Z7VuEYdQSGJuUubhlXkKxakKSaXFyYc3r-BgBACkmTBrEAEAAA&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQs9oBKAB6BAhuECI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=C%C3%B3nclave+2024&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMy2LK4yTq7K_cXIsIGF4RULPxdEvKzC0Nww16wSScTUKMsiqbgEIVJsbJJsWZlshBApSTG0TDdKR1KTXVBZVpCUkYwkArURIZKelG1SmJZUgWRXIdCQ5NwChEhOioV5lbGhIZIag9xKM5Oq3EWsfM6HN-cl5ySWpSoYGRiZ3GKTZAjzC_-cOOMw27t9VWnFCYpcmrOiHx24Z7VuEYdQSGJuUubhlXkKxakKSaXFyYc3r-BgBACkmTBrEAEAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Horarios de salas de cine en Buenos Aires",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Arte cartelera hoy",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Arte+cartelera+hoy&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Arte+cartelera+hoy"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera Cine Arte Cacodelphia Hoy",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+Cine+Arte+Cacodelphia+Hoy&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+Cine+Arte+Cacodelphia+Hoy"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine Cinemark",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+cine+Cinemark&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+Cinemark"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Lorca Cartelera y horarios",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Lorca+Cartelera+y+horarios&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Lorca+Cartelera+y+horarios"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Arte Diagonal Norte cartelera hoy",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Arte+Diagonal+Norte+cartelera+hoy&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Arte+Diagonal+Norte+cartelera+hoy"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine hoyts",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+cine+hoyts&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+hoyts"
+    },
+    {
+      "block_position": 1,
+      "query": "Mejores películas en cartelera hoy",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy&sa=X&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=10&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=10&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=20&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=30&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=40&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=50&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=60&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=70&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=80&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=XxUgaN-QIYCW5OMP_b2l0Qo&start=90&sa=N&sstk=Af40H4UVsSL-boh4pKkNxdoSUfMx8g8TQVk-OIfVba0mDj3YCEjWfP0a4X00ePDAbQAifW25HzSJihEKoRX_983pePtcpEce0cU2Ng&ved=2ahUKEwifvITxuJqNAxUAC3kGHf1eKaoQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Unidos+por+la+m%C3%BAsica+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}

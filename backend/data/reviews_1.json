@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Napoles Bar",
+    "categories": ["Restaurante", "Bar", "Fusión"],
+    "rating": 4.5,
+    "address": "Av. Córdoba 1234, CABA",
+    "featured_image": "https://example.com/napoles.jpg",
+    "reviews": ["Excelente ambiente", "Muy buena comida"],
+    "review_keywords": ["amigos", "cocktails", "informal"],
+    "about": {
+      "atmósfera": "moderna e informal",
+      "servicios": ["terraza", "wifi", "DJ en vivo"]
+    },
+    "featured_reviews": [
+      {
+        "text": "Fui con mis amigos un viernes y la pasamos genial.",
+        "rating": 5
+      }
+    ],
+    "detailed_reviews": [
+      {
+        "author": "Carla M.",
+        "rating": 5,
+        "text": "El menú es variado y el ambiente es muy relajado. Volvería sin dudas."
+      },
+      {
+        "author": "Lucas G.",
+        "rating": 4,
+        "text": "Buenos cocktails y música. Ideal para salir con amigos."
+      }
+    ]
+  },
+  {
+    "name": "Lo de Carlitos",
+    "categories": ["Parrilla", "Restaurante", "Familiar"],
+    "rating": 4.3,
+    "address": "Av. Callao 743, CABA",
+    "featured_image": "https://example.com/carlitos.jpg",
+    "reviews": ["Excelente parrilla", "Buena atención"],
+    "review_keywords": ["familiar", "parrilla", "tradicional"],
+    "about": {
+      "atmósfera": "tradicional y acogedora",
+      "servicios": ["reservas", "menú ejecutivo", "estacionamiento"]
+    },
+    "featured_reviews": [
+      {
+        "text": "La mejor parrilla de la zona. Muy buena relación precio-calidad.",
+        "rating": 5
+      }
+    ],
+    "detailed_reviews": [
+      {
+        "author": "Roberto A.",
+        "rating": 5,
+        "text": "Comida argentina auténtica. Los cortes de carne son excelentes."
+      },
+      {
+        "author": "Elena P.",
+        "rating": 4,
+        "text": "Ambiente familiar y tranquilo. Ideal para una salida en pareja."
+      }
+    ]
+  },
+  {
+    "name": "Sushi Club",
+    "categories": ["Japonés", "Sushi", "Gourmet"],
+    "rating": 4.6,
+    "address": "Av. Santa Fe 2150, CABA",
+    "featured_image": "https://example.com/sushiclub.jpg",
+    "reviews": ["Excelente sushi", "Ambiente moderno"],
+    "review_keywords": ["moderno", "asiático", "gourmet"],
+    "about": {
+      "atmósfera": "elegante y minimalista",
+      "servicios": ["delivery", "take away", "reservas online"]
+    },
+    "featured_reviews": [
+      {
+        "text": "La calidad del pescado es excelente y el ambiente es muy agradable.",
+        "rating": 5
+      }
+    ],
+    "detailed_reviews": [
+      {
+        "author": "Marta L.",
+        "rating": 5,
+        "text": "Rolls creativos y frescos. El lugar tiene un diseño muy bonito."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 4,
+        "text": "Buena opción para cena romántica o reuniones de trabajo."
+      }
+    ]
+  }
+] 

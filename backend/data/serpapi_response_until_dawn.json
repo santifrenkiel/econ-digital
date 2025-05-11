@@ -1,0 +1,1176 @@
+{
+  "search_metadata": {
+    "id": "68202bccbde97958ba53f0ce",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7c4daac26d9f103e/68202bccbde97958ba53f0ce.json",
+    "created_at": "2025-05-11 04:47:08 UTC",
+    "processed_at": "2025-05-11 04:47:08 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7c4daac26d9f103e/68202bccbde97958ba53f0ce.html",
+    "total_time_taken": 1.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Until Dawn horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Until Dawn horarios cines Buenos Aires",
+    "total_results": 18300,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "showtimes": [
+    {
+      "day": "Hoy11 may",
+      "theaters": [
+        {
+          "name": "Multiplex Monumental Lavalle",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLT5Ej1G0qCpB1F97Wqc8czDjjzM7mSOIFn6-Yzpt_kSM9kX1-pxbL95AS21j5bXpqgTAJ3Bod63Xi3jwPjG7OejW_pKDsXHoDaGkDIt9JFBtl3RoXc%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQySZ6BQiGARAL",
+          "distance": "450 metros",
+          "address": "Lavalle 780, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:55p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Abasto | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbvXfvm37NbD0fd3pMkvM8W_Wkq8yimeBF55tJX-_fLr6yaQe-5_FcW62JK_c_YyFnaFrOYidFSKNiuYhVrsiYBuuX_Xone-1njN31D26AVdgrGVDs%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQySZ6BQiGARAP",
+          "distance": "2,7 km",
+          "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "12:30p. m.",
+                "5:30p. m.",
+                "11:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Palermo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qUR4P6qJzMNqK5FxNliS6uMZmb7c2iIs7zRxiNp3NI3CPR6d0is4FCX9mkBeid3qs7xnKQo6g96gOXU7VfY8te6kTOVvVyMq4dEhT5kRTHpdwXJCQQ%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQySZ6BQiGARAV",
+          "distance": "3,2 km",
+          "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m.",
+                "11:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Alto Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS3Jl-IXMoeGXeqCkQqYqlLwllfXfsJFwvsaizB2GSPOZ9VMwqjAfSfSQOtbFsmqsVFjkqEHo1Fg3KQ4zpwxHLYJimEoSJVmEiVAEpHCmsIsHNf481c%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQySZ6BQiGARAa",
+          "distance": "8,2 km",
+          "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Belgrano",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymrkqGxIKWai4V-kJO4sshBHTkEg0g9rFI7AxWrJ6LlisAgsPbjKJG-gnaQZzNx6TvNKI22LvLqkZ-odSpf1DPSVHbFkRKLI6Za1oGj3tESoFXJoYI%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQySZ6BQiGARAe",
+          "distance": "8,6 km",
+          "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNu_NPjk22qjpi0H62btPEo-fmPylwq8-zfmLxvlbeSbH8n8jhETD0cWBzKlx4TRRuzjJ3bPnYwPxIVSicgkVYhzpO8KV-jXtlgoDA9zLAPYYZWEN8w%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQySZ6BQiGARAi",
+          "distance": "9,7 km",
+          "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "11:20p. m.",
+                "1:00a. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Dot",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlueyPrcMZYuaD8rzcR26b5r39nzYztK7tXCw-Maz3yfLNBjx88_YxmTldFLkVnzZSwosyOfeo08MXwP84LsGYH5eXeh_7-b_9jlk-dsZJDDzRF1H8E%3D",
+          "distance": "11,6 km",
+          "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "3:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxov8OeupgBkBtpNECkstvBkMC90zYX4ZBylil9SwuMImS_tQfLEazmfVnjIekiHtxa6OQp-ByyYspMsnoTUGz71MvNEkAZgIczoxjiEn4doO0QfB2FM%3D",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "5:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Unicenter | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJqqRx0Ch5aM7ztO4P2JGkew0NHlJ1aHSElvZfMWxY6UUkWATLZ_Cd5VwnEJmWS-NGLPVL0bxJojvVIKBho10TqLFTJ1rDJQrdtc_j28o5NxIyM_pY%3D",
+          "distance": "16,8 km",
+          "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
+          "showing": [
+            {
+              "time": [
+                "10:45p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlvNaRmvbfbWc9D3fYC4MW04mcJyptU4TzlgfKCp6zMoBxKbv74UcKxnM4JfBeWcK117ryHEmt3but5b_W_mWuLyf-tUdGm2rjAfgP26mDK7s2Bzpyw%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "2:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas Haedo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeauknSEgbrdkKnBh7wFIKt4nEZaeBzNxy2YvU0_vBn_Zp7vgjxvXJpJRIPiFfXh2hBo_8sDo09vXnVM3dUEQIBNyx7EuNkHREPpOGeaReYnrAKsdamjFs%3D",
+          "distance": "18,8 km",
+          "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
+          "showing": [
+            {
+              "time": [
+                "2:50p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cine Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cine+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33nXABI-iLiZDHkpH3uVCQWhIJVgiQyBEJwTf0wUYGs9mErxppMTRkMw8-xOFpUWIfSTiy9X67b5qm_tribN-QL9lEAkFEpHieQSI-SUYolIlwTfO0AP-vVqXG5PqFmcymEKwSMwE_TeMBsNNnAaL7OLQQxIEt9of_nKPaEGm2AR8IQIJLrkT6Er1v6_y87fpHyhUYvBqjURK3DaTkKZj-FJatbyOTVS9_vCWA4lFl1dt26MXHLUcd35O0-k08gHWFZaIwK8%3D",
+          "distance": "19,7 km",
+          "address": "Quilmes Factory, Avenida Calchaquí 3950, 1879 Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "6:10p. m.",
+                "8:40p. m.",
+                "11:05p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33oqt_i9KP6oPXgpg16le1weYdYA2WlcuqWji4RF_mNJjRPqkvS6cjsKUIxjP4069vlmiPT0N-KbE2azunVH_1wgj8fsAn-SGTtMmJE3hwLyiGmhQuaTbb7Ep1Xqx_y-gxQ5UKsPwyj3_M7hK9ubvqlXuk5ofA1BhAKT4zdGTLB8VHknJSyX867hOKe0hEx3IDWOUhNMTI3RVWFP4BmNL145i2SSJgLnCTWcrdvU5N9SdYjrwC-OtXT_WZJvYDZ2Yg6DX9aY%3D",
+          "distance": "20,1 km",
+          "address": "Coto de Temperley, Avenida Hipólito Yrigoyen 10699, 1834 Temperley, BA",
+          "showing": [
+            {
+              "time": [
+                "1:00p. m.",
+                "6:00p. m.",
+                "10:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Adrogué Boulevard Shopping",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinema+Adrogu%C3%A9+Boulevard+Shopping&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh9dj_ocLPEaZ7Rz3xw-KA3tgPEUqYIwG3gfBeBY75bwgHECloQX6SePqvovTTZ38dAsjOhJRtYUiVCiyPKwbzS6hRMXn63YVDtE_t2U8Qm5s_x9uMlZriFx4jMUMhAX1NwfP78eD-HKHF4TyUXr3Ro9w9jUp_QCvn8eCoQe22j9UIQ0uPSpknSIB7NKK954S1bsx_zp0I_xixWZY9eWGWsctvGgBRJCKljS4lPFrF0Bg8PB2SUHDtaTTkJE54T560z-Rz-o%3D",
+          "distance": "22,9 km",
+          "address": "Avenida Hipólito Yrigoyen 13200, 1414 Adrogué, BA",
+          "showing": [
+            {
+              "time": [
+                "12:40p. m.",
+                "7:55p. m.",
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Soleil",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Soleil&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj6xxvNHkjMBig_Gar4VoOCL3TG2j4-skcuwN-W0SgAPk92hPtizGRMkok6zT8YRVKli9oBaWcO7v7xargXHDHeePc3ySLWqY34S55MCiGD_XJiuE_b-7sbMrAfh_gUa5y-wmsMz14xH4j3avd7QgBk1HpqCBxT3gy3NuvkadxJhT2duGQI_Oy3NjRCd4VnG3Vv3Rw_lXnyT1L8PBRM_5YHCJVzoIfRCnvDhKuPJoldsRVxxO6OcOWgft-ZdstBUpbFI5UfE%3D",
+          "distance": "23,0 km",
+          "address": "Shopping Soleil Factory - Soleil, Bernardo de Irigoyen 2647, B1609BGW Boulogne, BA",
+          "showing": [
+            {
+              "time": [
+                "10:30p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "lun12 may",
+      "theaters": [
+        {
+          "name": "Multiplex Monumental Lavalle",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLT5Ej1G0qCpB1F97Wqc8czDjjzM7mSOIFn6-Yzpt_kSM9kX1-pxbL95AS21j5bXpqgTAJ3Bod63Xi3jwPjG7OejW_pKDsXHoDaGkDIt9JFBtl3RoXc%3D",
+          "distance": "450 metros",
+          "address": "Lavalle 780, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:55p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Abasto | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbvXfvm37NbD0fd3pMkvM8W_Wkq8yimeBF55tJX-_fLr6yaQe-5_FcW62JK_c_YyFnaFrOYidFSKNiuYhVrsiYBuuX_Xone-1njN31D26AVdgrGVDs%3D",
+          "distance": "2,7 km",
+          "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "12:30p. m.",
+                "5:30p. m.",
+                "11:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Palermo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qUR4P6qJzMNqK5FxNliS6uMZmb7c2iIs7zRxiNp3NI3CPR6d0is4FCX9mkBeid3qs7xnKQo6g96gOXU7VfY8te6kTOVvVyMq4dEhT5kRTHpdwXJCQQ%3D",
+          "distance": "3,2 km",
+          "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m.",
+                "11:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Alto Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS3Jl-IXMoeGXeqCkQqYqlLwllfXfsJFwvsaizB2GSPOZ9VMwqjAfSfSQOtbFsmqsVFjkqEHo1Fg3KQ4zpwxHLYJimEoSJVmEiVAEpHCmsIsHNf481c%3D",
+          "distance": "8,2 km",
+          "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Belgrano",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymrkqGxIKWai4V-kJO4sshBHTkEg0g9rFI7AxWrJ6LlisAgsPbjKJG-gnaQZzNx6TvNKI22LvLqkZ-odSpf1DPSVHbFkRKLI6Za1oGj3tESoFXJoYI%3D",
+          "distance": "8,6 km",
+          "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNu_NPjk22qjpi0H62btPEo-fmPylwq8-zfmLxvlbeSbH8n8jhETD0cWBzKlx4TRRuzjJ3bPnYwPxIVSicgkVYhzpO8KV-jXtlgoDA9zLAPYYZWEN8w%3D",
+          "distance": "9,7 km",
+          "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "11:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Dot",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlueyPrcMZYuaD8rzcR26b5r39nzYztK7tXCw-Maz3yfLNBjx88_YxmTldFLkVnzZSwosyOfeo08MXwP84LsGYH5eXeh_7-b_9jlk-dsZJDDzRF1H8E%3D",
+          "distance": "11,6 km",
+          "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "3:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxov8OeupgBkBtpNECkstvBkMC90zYX4ZBylil9SwuMImS_tQfLEazmfVnjIekiHtxa6OQp-ByyYspMsnoTUGz71MvNEkAZgIczoxjiEn4doO0QfB2FM%3D",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "5:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Unicenter | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJqqRx0Ch5aM7ztO4P2JGkew0NHlJ1aHSElvZfMWxY6UUkWATLZ_Cd5VwnEJmWS-NGLPVL0bxJojvVIKBho10TqLFTJ1rDJQrdtc_j28o5NxIyM_pY%3D",
+          "distance": "16,8 km",
+          "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
+          "showing": [
+            {
+              "time": [
+                "10:45p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlvNaRmvbfbWc9D3fYC4MW04mcJyptU4TzlgfKCp6zMoBxKbv74UcKxnM4JfBeWcK117ryHEmt3but5b_W_mWuLyf-tUdGm2rjAfgP26mDK7s2Bzpyw%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "10:05p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas Haedo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeauknSEgbrdkKnBh7wFIKt4nEZaeBzNxy2YvU0_vBn_Zp7vgjxvXJpJRIPiFfXh2hBo_8sDo09vXnVM3dUEQIBNyx7EuNkHREPpOGeaReYnrAKsdamjFs%3D",
+          "distance": "18,8 km",
+          "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
+          "showing": [
+            {
+              "time": [
+                "2:50p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cine Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cine+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33nXABI-iLiZDHkpH3uVCQWhIJVgiQyBEJwTf0wUYGs9mErxppMTRkMw8-xOFpUWIfSTiy9X67b5qm_tribN-QL9lEAkFEpHieQSI-SUYolIlwTfO0AP-vVqXG5PqFmcymEKwSMwE_TeMBsNNnAaL7OLQQxIEt9of_nKPaEGm2AR8IQIJLrkT6Er1v6_y87fpHyhUYvBqjURK3DaTkKZj-FJatbyOTVS9_vCWA4lFl1dt26MXHLUcd35O0-k08gHWFZaIwK8%3D",
+          "distance": "19,7 km",
+          "address": "Quilmes Factory, Avenida Calchaquí 3950, 1879 Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "6:10p. m.",
+                "8:40p. m.",
+                "11:05p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33oqt_i9KP6oPXgpg16le1weYdYA2WlcuqWji4RF_mNJjRPqkvS6cjsKUIxjP4069vlmiPT0N-KbE2azunVH_1wgj8fsAn-SGTtMmJE3hwLyiGmhQuaTbb7Ep1Xqx_y-gxQ5UKsPwyj3_M7hK9ubvqlXuk5ofA1BhAKT4zdGTLB8VHknJSyX867hOKe0hEx3IDWOUhNMTI3RVWFP4BmNL145i2SSJgLnCTWcrdvU5N9SdYjrwC-OtXT_WZJvYDZ2Yg6DX9aY%3D",
+          "distance": "20,1 km",
+          "address": "Coto de Temperley, Avenida Hipólito Yrigoyen 10699, 1834 Temperley, BA",
+          "showing": [
+            {
+              "time": [
+                "1:00p. m.",
+                "6:00p. m.",
+                "10:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Adrogué Boulevard Shopping",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinema+Adrogu%C3%A9+Boulevard+Shopping&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh9dj_ocLPEaZ7Rz3xw-KA3tgPEUqYIwG3gfBeBY75bwgHECloQX6SePqvovTTZ38dAsjOhJRtYUiVCiyPKwbzS6hRMXn63YVDtE_t2U8Qm5s_x9uMlZriFx4jMUMhAX1NwfP78eD-HKHF4TyUXr3Ro9w9jUp_QCvn8eCoQe22j9UIQ0uPSpknSIB7NKK954S1bsx_zp0I_xixWZY9eWGWsctvGgBRJCKljS4lPFrF0Bg8PB2SUHDtaTTkJE54T560z-Rz-o%3D",
+          "distance": "22,9 km",
+          "address": "Avenida Hipólito Yrigoyen 13200, 1414 Adrogué, BA",
+          "showing": [
+            {
+              "time": [
+                "12:40p. m.",
+                "7:55p. m.",
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Soleil",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Soleil&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj6xxvNHkjMBig_Gar4VoOCL3TG2j4-skcuwN-W0SgAPk92hPtizGRMkok6zT8YRVKli9oBaWcO7v7xargXHDHeePc3ySLWqY34S55MCiGD_XJiuE_b-7sbMrAfh_gUa5y-wmsMz14xH4j3avd7QgBk1HpqCBxT3gy3NuvkadxJhT2duGQI_Oy3NjRCd4VnG3Vv3Rw_lXnyT1L8PBRM_5YHCJVzoIfRCnvDhKuPJoldsRVxxO6OcOWgft-ZdstBUpbFI5UfE%3D",
+          "distance": "23,0 km",
+          "address": "Shopping Soleil Factory - Soleil, Bernardo de Irigoyen 2647, B1609BGW Boulogne, BA",
+          "showing": [
+            {
+              "time": [
+                "10:30p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "mar13 may",
+      "theaters": [
+        {
+          "name": "Multiplex Monumental Lavalle",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLT5Ej1G0qCpB1F97Wqc8czDjjzM7mSOIFn6-Yzpt_kSM9kX1-pxbL95AS21j5bXpqgTAJ3Bod63Xi3jwPjG7OejW_pKDsXHoDaGkDIt9JFBtl3RoXc%3D",
+          "distance": "450 metros",
+          "address": "Lavalle 780, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:55p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Abasto | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbvXfvm37NbD0fd3pMkvM8W_Wkq8yimeBF55tJX-_fLr6yaQe-5_FcW62JK_c_YyFnaFrOYidFSKNiuYhVrsiYBuuX_Xone-1njN31D26AVdgrGVDs%3D",
+          "distance": "2,7 km",
+          "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "12:30p. m.",
+                "5:30p. m.",
+                "11:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Palermo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qUR4P6qJzMNqK5FxNliS6uMZmb7c2iIs7zRxiNp3NI3CPR6d0is4FCX9mkBeid3qs7xnKQo6g96gOXU7VfY8te6kTOVvVyMq4dEhT5kRTHpdwXJCQQ%3D",
+          "distance": "3,2 km",
+          "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m.",
+                "11:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Alto Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS3Jl-IXMoeGXeqCkQqYqlLwllfXfsJFwvsaizB2GSPOZ9VMwqjAfSfSQOtbFsmqsVFjkqEHo1Fg3KQ4zpwxHLYJimEoSJVmEiVAEpHCmsIsHNf481c%3D",
+          "distance": "8,2 km",
+          "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Belgrano",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymrkqGxIKWai4V-kJO4sshBHTkEg0g9rFI7AxWrJ6LlisAgsPbjKJG-gnaQZzNx6TvNKI22LvLqkZ-odSpf1DPSVHbFkRKLI6Za1oGj3tESoFXJoYI%3D",
+          "distance": "8,6 km",
+          "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNu_NPjk22qjpi0H62btPEo-fmPylwq8-zfmLxvlbeSbH8n8jhETD0cWBzKlx4TRRuzjJ3bPnYwPxIVSicgkVYhzpO8KV-jXtlgoDA9zLAPYYZWEN8w%3D",
+          "distance": "9,7 km",
+          "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "11:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Dot",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlueyPrcMZYuaD8rzcR26b5r39nzYztK7tXCw-Maz3yfLNBjx88_YxmTldFLkVnzZSwosyOfeo08MXwP84LsGYH5eXeh_7-b_9jlk-dsZJDDzRF1H8E%3D",
+          "distance": "11,6 km",
+          "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "3:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxov8OeupgBkBtpNECkstvBkMC90zYX4ZBylil9SwuMImS_tQfLEazmfVnjIekiHtxa6OQp-ByyYspMsnoTUGz71MvNEkAZgIczoxjiEn4doO0QfB2FM%3D",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "5:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Unicenter | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJqqRx0Ch5aM7ztO4P2JGkew0NHlJ1aHSElvZfMWxY6UUkWATLZ_Cd5VwnEJmWS-NGLPVL0bxJojvVIKBho10TqLFTJ1rDJQrdtc_j28o5NxIyM_pY%3D",
+          "distance": "16,8 km",
+          "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
+          "showing": [
+            {
+              "time": [
+                "10:45p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlvNaRmvbfbWc9D3fYC4MW04mcJyptU4TzlgfKCp6zMoBxKbv74UcKxnM4JfBeWcK117ryHEmt3but5b_W_mWuLyf-tUdGm2rjAfgP26mDK7s2Bzpyw%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "2:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas Haedo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeauknSEgbrdkKnBh7wFIKt4nEZaeBzNxy2YvU0_vBn_Zp7vgjxvXJpJRIPiFfXh2hBo_8sDo09vXnVM3dUEQIBNyx7EuNkHREPpOGeaReYnrAKsdamjFs%3D",
+          "distance": "18,8 km",
+          "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
+          "showing": [
+            {
+              "time": [
+                "2:50p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cine Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cine+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33nXABI-iLiZDHkpH3uVCQWhIJVgiQyBEJwTf0wUYGs9mErxppMTRkMw8-xOFpUWIfSTiy9X67b5qm_tribN-QL9lEAkFEpHieQSI-SUYolIlwTfO0AP-vVqXG5PqFmcymEKwSMwE_TeMBsNNnAaL7OLQQxIEt9of_nKPaEGm2AR8IQIJLrkT6Er1v6_y87fpHyhUYvBqjURK3DaTkKZj-FJatbyOTVS9_vCWA4lFl1dt26MXHLUcd35O0-k08gHWFZaIwK8%3D",
+          "distance": "19,7 km",
+          "address": "Quilmes Factory, Avenida Calchaquí 3950, 1879 Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "6:10p. m.",
+                "8:40p. m.",
+                "11:05p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33oqt_i9KP6oPXgpg16le1weYdYA2WlcuqWji4RF_mNJjRPqkvS6cjsKUIxjP4069vlmiPT0N-KbE2azunVH_1wgj8fsAn-SGTtMmJE3hwLyiGmhQuaTbb7Ep1Xqx_y-gxQ5UKsPwyj3_M7hK9ubvqlXuk5ofA1BhAKT4zdGTLB8VHknJSyX867hOKe0hEx3IDWOUhNMTI3RVWFP4BmNL145i2SSJgLnCTWcrdvU5N9SdYjrwC-OtXT_WZJvYDZ2Yg6DX9aY%3D",
+          "distance": "20,1 km",
+          "address": "Coto de Temperley, Avenida Hipólito Yrigoyen 10699, 1834 Temperley, BA",
+          "showing": [
+            {
+              "time": [
+                "1:00p. m.",
+                "6:00p. m.",
+                "10:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Adrogué Boulevard Shopping",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinema+Adrogu%C3%A9+Boulevard+Shopping&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh9dj_ocLPEaZ7Rz3xw-KA3tgPEUqYIwG3gfBeBY75bwgHECloQX6SePqvovTTZ38dAsjOhJRtYUiVCiyPKwbzS6hRMXn63YVDtE_t2U8Qm5s_x9uMlZriFx4jMUMhAX1NwfP78eD-HKHF4TyUXr3Ro9w9jUp_QCvn8eCoQe22j9UIQ0uPSpknSIB7NKK954S1bsx_zp0I_xixWZY9eWGWsctvGgBRJCKljS4lPFrF0Bg8PB2SUHDtaTTkJE54T560z-Rz-o%3D",
+          "distance": "22,9 km",
+          "address": "Avenida Hipólito Yrigoyen 13200, 1414 Adrogué, BA",
+          "showing": [
+            {
+              "time": [
+                "12:40p. m.",
+                "7:55p. m.",
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Soleil",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Soleil&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj6xxvNHkjMBig_Gar4VoOCL3TG2j4-skcuwN-W0SgAPk92hPtizGRMkok6zT8YRVKli9oBaWcO7v7xargXHDHeePc3ySLWqY34S55MCiGD_XJiuE_b-7sbMrAfh_gUa5y-wmsMz14xH4j3avd7QgBk1HpqCBxT3gy3NuvkadxJhT2duGQI_Oy3NjRCd4VnG3Vv3Rw_lXnyT1L8PBRM_5YHCJVzoIfRCnvDhKuPJoldsRVxxO6OcOWgft-ZdstBUpbFI5UfE%3D",
+          "distance": "23,0 km",
+          "address": "Shopping Soleil Factory - Soleil, Bernardo de Irigoyen 2647, B1609BGW Boulogne, BA",
+          "showing": [
+            {
+              "time": [
+                "10:30p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "mié14 may",
+      "theaters": [
+        {
+          "name": "Multiplex Monumental Lavalle",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLT5Ej1G0qCpB1F97Wqc8czDjjzM7mSOIFn6-Yzpt_kSM9kX1-pxbL95AS21j5bXpqgTAJ3Bod63Xi3jwPjG7OejW_pKDsXHoDaGkDIt9JFBtl3RoXc%3D",
+          "distance": "450 metros",
+          "address": "Lavalle 780, Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:55p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Abasto | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbvXfvm37NbD0fd3pMkvM8W_Wkq8yimeBF55tJX-_fLr6yaQe-5_FcW62JK_c_YyFnaFrOYidFSKNiuYhVrsiYBuuX_Xone-1njN31D26AVdgrGVDs%3D",
+          "distance": "2,7 km",
+          "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "12:30p. m.",
+                "5:30p. m.",
+                "11:00p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Palermo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qUR4P6qJzMNqK5FxNliS6uMZmb7c2iIs7zRxiNp3NI3CPR6d0is4FCX9mkBeid3qs7xnKQo6g96gOXU7VfY8te6kTOVvVyMq4dEhT5kRTHpdwXJCQQ%3D",
+          "distance": "3,2 km",
+          "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m.",
+                "11:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Alto Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS3Jl-IXMoeGXeqCkQqYqlLwllfXfsJFwvsaizB2GSPOZ9VMwqjAfSfSQOtbFsmqsVFjkqEHo1Fg3KQ4zpwxHLYJimEoSJVmEiVAEpHCmsIsHNf481c%3D",
+          "distance": "8,2 km",
+          "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "8:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Belgrano",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymrkqGxIKWai4V-kJO4sshBHTkEg0g9rFI7AxWrJ6LlisAgsPbjKJG-gnaQZzNx6TvNKI22LvLqkZ-odSpf1DPSVHbFkRKLI6Za1oGj3tESoFXJoYI%3D",
+          "distance": "8,6 km",
+          "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinépolis Avellaneda",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNu_NPjk22qjpi0H62btPEo-fmPylwq8-zfmLxvlbeSbH8n8jhETD0cWBzKlx4TRRuzjJ3bPnYwPxIVSicgkVYhzpO8KV-jXtlgoDA9zLAPYYZWEN8w%3D",
+          "distance": "9,7 km",
+          "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
+          "showing": [
+            {
+              "time": [
+                "11:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Dot",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlueyPrcMZYuaD8rzcR26b5r39nzYztK7tXCw-Maz3yfLNBjx88_YxmTldFLkVnzZSwosyOfeo08MXwP84LsGYH5eXeh_7-b_9jlk-dsZJDDzRF1H8E%3D",
+          "distance": "11,6 km",
+          "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
+          "showing": [
+            {
+              "time": [
+                "3:30p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Norcenter Cines",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxov8OeupgBkBtpNECkstvBkMC90zYX4ZBylil9SwuMImS_tQfLEazmfVnjIekiHtxa6OQp-ByyYspMsnoTUGz71MvNEkAZgIczoxjiEn4doO0QfB2FM%3D",
+          "distance": "16,4 km",
+          "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
+          "showing": [
+            {
+              "time": [
+                "5:10p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hoyts Unicenter | Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJqqRx0Ch5aM7ztO4P2JGkew0NHlJ1aHSElvZfMWxY6UUkWATLZ_Cd5VwnEJmWS-NGLPVL0bxJojvVIKBho10TqLFTJ1rDJQrdtc_j28o5NxIyM_pY%3D",
+          "distance": "16,8 km",
+          "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
+          "showing": [
+            {
+              "time": [
+                "10:45p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlvNaRmvbfbWc9D3fYC4MW04mcJyptU4TzlgfKCp6zMoBxKbv74UcKxnM4JfBeWcK117ryHEmt3but5b_W_mWuLyf-tUdGm2rjAfgP26mDK7s2Bzpyw%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "10:05p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas Haedo",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeauknSEgbrdkKnBh7wFIKt4nEZaeBzNxy2YvU0_vBn_Zp7vgjxvXJpJRIPiFfXh2hBo_8sDo09vXnVM3dUEQIBNyx7EuNkHREPpOGeaReYnrAKsdamjFs%3D",
+          "distance": "18,8 km",
+          "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
+          "showing": [
+            {
+              "time": [
+                "2:50p. m.",
+                "7:35p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cine Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cine+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33nXABI-iLiZDHkpH3uVCQWhIJVgiQyBEJwTf0wUYGs9mErxppMTRkMw8-xOFpUWIfSTiy9X67b5qm_tribN-QL9lEAkFEpHieQSI-SUYolIlwTfO0AP-vVqXG5PqFmcymEKwSMwE_TeMBsNNnAaL7OLQQxIEt9of_nKPaEGm2AR8IQIJLrkT6Er1v6_y87fpHyhUYvBqjURK3DaTkKZj-FJatbyOTVS9_vCWA4lFl1dt26MXHLUcd35O0-k08gHWFZaIwK8%3D",
+          "distance": "19,7 km",
+          "address": "Quilmes Factory, Avenida Calchaquí 3950, 1879 Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "6:10p. m.",
+                "8:40p. m.",
+                "11:05p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33oqt_i9KP6oPXgpg16le1weYdYA2WlcuqWji4RF_mNJjRPqkvS6cjsKUIxjP4069vlmiPT0N-KbE2azunVH_1wgj8fsAn-SGTtMmJE3hwLyiGmhQuaTbb7Ep1Xqx_y-gxQ5UKsPwyj3_M7hK9ubvqlXuk5ofA1BhAKT4zdGTLB8VHknJSyX867hOKe0hEx3IDWOUhNMTI3RVWFP4BmNL145i2SSJgLnCTWcrdvU5N9SdYjrwC-OtXT_WZJvYDZ2Yg6DX9aY%3D",
+          "distance": "20,1 km",
+          "address": "Coto de Temperley, Avenida Hipólito Yrigoyen 10699, 1834 Temperley, BA",
+          "showing": [
+            {
+              "time": [
+                "1:00p. m.",
+                "6:00p. m.",
+                "10:50p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinema Adrogué Boulevard Shopping",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinema+Adrogu%C3%A9+Boulevard+Shopping&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh9dj_ocLPEaZ7Rz3xw-KA3tgPEUqYIwG3gfBeBY75bwgHECloQX6SePqvovTTZ38dAsjOhJRtYUiVCiyPKwbzS6hRMXn63YVDtE_t2U8Qm5s_x9uMlZriFx4jMUMhAX1NwfP78eD-HKHF4TyUXr3Ro9w9jUp_QCvn8eCoQe22j9UIQ0uPSpknSIB7NKK954S1bsx_zp0I_xixWZY9eWGWsctvGgBRJCKljS4lPFrF0Bg8PB2SUHDtaTTkJE54T560z-Rz-o%3D",
+          "distance": "22,9 km",
+          "address": "Avenida Hipólito Yrigoyen 13200, 1414 Adrogué, BA",
+          "showing": [
+            {
+              "time": [
+                "12:40p. m.",
+                "7:55p. m.",
+                "10:20p. m."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Hoyts Soleil",
+          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Cinemark+Hoyts+Soleil&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj6xxvNHkjMBig_Gar4VoOCL3TG2j4-skcuwN-W0SgAPk92hPtizGRMkok6zT8YRVKli9oBaWcO7v7xargXHDHeePc3ySLWqY34S55MCiGD_XJiuE_b-7sbMrAfh_gUa5y-wmsMz14xH4j3avd7QgBk1HpqCBxT3gy3NuvkadxJhT2duGQI_Oy3NjRCd4VnG3Vv3Rw_lXnyT1L8PBRM_5YHCJVzoIfRCnvDhKuPJoldsRVxxO6OcOWgft-ZdstBUpbFI5UfE%3D",
+          "distance": "23,0 km",
+          "address": "Shopping Soleil Factory - Soleil, Bernardo de Irigoyen 2647, B1609BGW Boulogne, BA",
+          "showing": [
+            {
+              "time": [
+                "10:30p. m."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Until Dawn: noche de terror",
+    "type": "2025 ‧ Terror/Supervivencia ‧ 1h 43m",
+    "entity_type": "film, tvm",
+    "main_tab_text": "Información general",
+    "kgmid": "/g/11lf8gzr3g",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11lf8gzr3g&hl=es-AR&q=Until+Dawn:+noche+de+terror&shndl=17&shem=vidc&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es-AR&kgmid=%2Fg%2F11lf8gzr3g&q=Until+Dawn%3A+noche+de+terror",
+    "tabs": [
+      {
+        "text": "Reparto",
+        "si": "APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6ad5KcQVBbnLYJdLjEUyb0D0qtIvkzp4QGEk0Xi4Tdf9cAY2XtFOSZoH1PNUvcoxZqUjYpHmnbWb4ZrOMKyPOK1bgxUx3tQWLE9pR2xFWrzCTKwr-pE=",
+        "link": "https://www.google.com/search?si=APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6ad5KcQVBbnLYJdLjEUyb0D0qtIvkzp4QGEk0Xi4Tdf9cAY2XtFOSZoH1PNUvcoxZqUjYpHmnbWb4ZrOMKyPOK1bgxUx3tQWLE9pR2xFWrzCTKwr-pE=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&si=APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6ad5KcQVBbnLYJdLjEUyb0D0qtIvkzp4QGEk0Xi4Tdf9cAY2XtFOSZoH1PNUvcoxZqUjYpHmnbWb4ZrOMKyPOK1bgxUx3tQWLE9pR2xFWrzCTKwr-pE%3D"
+      },
+      {
+        "text": "Reseñas"
+      },
+      {
+        "text": "Cartelera",
+        "si": "APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxNK8qi5gaz5Ykbnp3EDpaTltmvxBLClCUaIlFVldftHEl85e-le3dnCwCapUq01eOi4f9YRvT439K_L49Szc64euRx3Db46PqOuxFLMhcmRVbDGW3A==",
+        "link": "https://www.google.com/search?si=APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxNK8qi5gaz5Ykbnp3EDpaTltmvxBLClCUaIlFVldftHEl85e-le3dnCwCapUq01eOi4f9YRvT439K_L49Szc64euRx3Db46PqOuxFLMhcmRVbDGW3A==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&si=APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxNK8qi5gaz5Ykbnp3EDpaTltmvxBLClCUaIlFVldftHEl85e-le3dnCwCapUq01eOi4f9YRvT439K_L49Szc64euRx3Db46PqOuxFLMhcmRVbDGW3A%3D%3D"
+      }
+    ],
+    "description": "Until Dawn es una película de terror estadounidense, dirigida por David F. Sandberg a partir de un guion de Gary Dauberman. Está basado en el videojuego de 2015 del mismo título desarrollado por Supermassive Games.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://es.wikipedia.org/wiki/Until_Dawn_(pel%C3%ADcula)"
+    },
+    "fecha_de_estreno": "24 de abril de 2025 (Argentina)",
+    "fecha_de_estreno_links": [
+      {
+        "text": "Argentina",
+        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Argentina&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMxJs0ivKjJOV2LXz9U3yEpP0TLKTrbST8vMyQUTViUZqYklRZnJiTkKRanpmfl5ConliUWpQE5OamJxqkJKYknqIlZOx6L01LySzLzEHayMu9iZOBgAXfitJmIAAAA&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQmxMoAHoECCYQAg"
+      }
+    ],
+    "director": "David F. Sandberg",
+    "director_links": [
+      {
+        "text": "David F. Sandberg",
+        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=David+F.+Sandberg&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-lmW-AyuZ71_UO3uszoaOE02FBMAPiN-HD9RZDrzGdkcdL1zAv1iyL5fsN1czpCmhE2Cqs1vbdtOChjvxRgroJ7iYaKXSf6i42nfUZHD46kKQ3BYnRhpUt6oAH6eTu079vWrDMFybt_5PnT0Nwgf3MvZqSlayaR2YPYl4ZunJiHCLH6MgQ%3D%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQmxMoAHoECCMQAg"
+      }
+    ],
+    "distribuidor": "Sony Pictures Releasing",
+    "distribuidor_links": [
+      {
+        "text": "Sony Pictures Releasing",
+        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=until+dawn:+noche+de+terror+sony+pictures+releasing&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-h0KR_flLmxcuaUzGDYY8nfp8ZJLL7hIvjikiiLvpoplvCKXaN4IMRj0WqOCYPqSLfmbZPlGixJh_E-BNgv_21KMvMsCxOmGiR9faoapHNi0ckaQFIayFQv1Wb-B0icAdgt6GymzDOIxTdpbW_1FscXV3ef690Vz6dxERWJtbS3QjChtrMsEN0FMWWwRk3ZPrMJfvYH8oYs2v5WfeFBbFE3GTxYS&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQmxMoAHoECB8QAg"
+      }
+    ],
+    "cinematografía": "Maxime Alexandre",
+    "cinematografía_links": [
+      {
+        "text": "Maxime Alexandre",
+        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Maxime+Alexandre&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRfYiD-sGbWV3BlH-8i-sF89fkr6WE_GbU31DXG4YKOlsp5lFP560xHHVXyAQn7mN5QEBVpKePQ_0_bC4Kz_vW4K2VTpsrY1j5ECz0hv1e0eX2cqpN6gjB2f_Rh32ozB2jCfgBST85AGum16FYKh7yybosgdCLuVf8x9E90CWR9RsgqveOg%3D%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQmxMoAHoECCEQAg"
+      }
+    ],
+    "editor": "Michel Aller",
+    "editor_links": [
+      {
+        "text": "Michel Aller",
+        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Michel+Aller&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-u4-jy64_Hl-zlrBhDV-LWbain5hvXQF68J0qK2jeiuVwnpJKAPxRC5hKkwxQrrAxv7qDHsc22mvlQJKMstAjQlU_pUSR3CTGOidrgNoApoVB3e_F-6qAVT5OdG_m00-DAa5x7vq-IEB5WiWMmRbj_UYfpLaWGWmi4D6J1UwVbN2o9JyKQ%3D%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQmxMoAHoECCUQAg"
+      }
+    ],
+    "productores_ejecutivos": "Hermen Hulst, Charles Miller",
+    "productores_ejecutivos_links": [
+      {
+        "text": "Hermen Hulst",
+        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=Hermen+Hulst&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh0hYwNZbGLrMQPdCTsLt3wC8j0CuYK8rVyWZcTBlF58_wrjwzFm8ezWiWxN9eA_WTavYuKOvu5t_YTt5tKY7vWrxgy0nbo0k9t9A4H5dhWf7Yw7lwb17XbTXilII_p3Bac_rTCZkpDUYV4lf-ZALG4DIr6QGXlMpWwGdpi00s3EgSphJgQ1Talj9uBVT00fOj_CAXUkFTslT4PzWPVYPc5UQ1LKHiKrgfnixBalU_pK-_5WI58V7F-9Ke0oLlyKZ4Dta2L0%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQmxMoAHoECCQQAg"
+      },
+      {
+        "text": "Charles Miller",
+        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&gl=ar&hl=es&q=until+dawn:+noche+de+terror+charles+miller&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh_F1N6GOj9Fy9-s6DmylCUa5L1SsJgdZ7-tG0XIj4zGsbrTDUncWhVzzFDK_NVblB-j00HSa8itP_dBJZ49sU7KddhqWChLIQn40F_Uuie3w0CM-9lociT6biuuHH6y8srfNzwzmx7JdS0RBvLSr8RfumISKPsi_2RXj983190LWmHobrLi4dRECeIU82VP6b0YB9w1b_y2FZqqGAVXkjEd1bq8I3c0nguJ_sCCTuPFX6GnXtUMJIVC6BVfdTDq5sfErzdWS4gfXwMW41jJBan0WHMu8_436xAZaEMhopxl2Oft_AQ%3D%3D&sa=X&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQmxMoAXoECCQQAw"
+      }
+    ],
+    "audience_reviews": [
+      {
+        "rating": 5,
+        "summary": "Si vais a verla con mentalidad de que va a ser como el videojuego, olvidaos. No aparecen ni los personajes (menos el psiquiatra), ni la ambientación o trama del juego. Id a ..."
+      }
+    ],
+    "user_statistics": {
+      "platform": "Usuarios de Google",
+      "statistic": "Al 86% le gustó esta película"
+    }
+  },
+  "related_questions": [
+    {
+      "question": "¿Dónde puedo ver Until Dawn?",
+      "snippet": "Hasta que amanezca | Sitio oficial de Netflix.",
+      "title": "Hasta que amanezca | Sitio oficial de Netflix",
+      "link": "https://www.netflix.com/es/title/81074060#:~:text=Hasta%20que%20amanezca%20%7C%20Sitio%20oficial%20de%20Netflix",
+      "displayed_link": "https://www.netflix.com › title",
+      "source_logo": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/ed813cd6a4a01e2dce8a64ed2a8c470e193552bd0cc415fbde25545444b83526.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE9IUTJkREpvUVV0NlQwdFFPVVZJU25obVNuQlNZemxOU2tkRlMyRjNWeTFLUTFBelVIVkdhRlJoTVVkcGQybExUWFowTW1NNGIwMXRlREE0ZWkxMU5sUm5VRXRCVGxad00ydFFPRUprV0RkaE5IZHZiMjFzTkdwdFFSSVhlbE56WjJGT1EwZE1TMHN5ZDA0MFVIRkpTRlZ2UVZrYUlrRkRSRmhNTkcxek9YazVkV0o0WW1kV2IxTmZVeTF1TlhoT05FMUVWMHhFTWtFIiwiZmN2IjoiMyIsImVpIjoielNzZ2FOQ0dMS0syd040UHFJSFVvQVkiLCJxYyI6IkNqQndaV3pEcldOMWJHRWdkVzUwYVd3Z1pHRjNiaUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0TDs25kZSBwdWVkbyB2ZXIgVW50aWwgRGF3bj8iLCJsayI6IkdocGtiMjVrWlNCd2RXVmtieUIyWlhJZ2RXNTBhV3dnWkdGM2JnIiwiYnMiOiJjLU55NUpJN3ROX2w4T2E4bEZTRmd0TFVsSHlGc3RRaWhkQzhrc3djQlpmRThqeDdpVDM4UmpKU1VpbjVxQ3BLd1NwU2dDb0VHQUUiLCJpZCI6ImZjX3pTc2dhTkNHTEtLMndONFBxSUhVb0FZXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobE9IUTJkREpvUVV0NlQwdFFPVVZJU25obVNuQlNZemxOU2tkRlMyRjNWeTFLUTFBelVIVkdhRlJoTVVkcGQybExUWFowTW1NNGIwMXRlREE0ZWkxMU5sUm5VRXRCVGxad00ydFFPRUprV0RkaE5IZHZiMjFzTkdwdFFSSVhlbE56WjJGT1EwZE1TMHN5ZDA0MFVIRkpTRlZ2UVZrYUlrRkRSRmhNTkcxek9YazVkV0o0WW1kV2IxTmZVeTF1TlhoT05FMUVWMHhFTWtFIiwiZmN2IjoiMyIsImVpIjoielNzZ2FOQ0dMS0syd040UHFJSFVvQVkiLCJxYyI6IkNqQndaV3pEcldOMWJHRWdkVzUwYVd3Z1pHRjNiaUJvYjNKaGNtbHZjeUJqYVc1bGN5QmlkV1Z1YjNNZ1lXbHlaWE1RRG4wdmppSV9vZ0VDWlhNIiwicXVlc3Rpb24iOiLCv0TDs25kZSBwdWVkbyB2ZXIgVW50aWwgRGF3bj8iLCJsayI6IkdocGtiMjVrWlNCd2RXVmtieUIyWlhJZ2RXNTBhV3dnWkdGM2JnIiwiYnMiOiJjLU55NUpJN3ROX2w4T2E4bEZTRmd0TFVsSHlGc3RRaWhkQzhrc3djQlpmRThqeDdpVDM4UmpKU1VpbjVxQ3BLd1NwU2dDb0VHQUUiLCJpZCI6ImZjX3pTc2dhTkNHTEtLMndONFBxSUhVb0FZXzIifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Until Dawn",
+      "link": "https://www.multiplex.com.ar/peliculas/until-dawn/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/until-dawn/&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoECEwQAQ",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › until-dawn",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e83811762819405acc86497d64a2217fbb.png",
+      "date": "24 abr 2025",
+      "snippet": "Un año después de que su hermana Melanie desapareciera misteriosamente, Clover y sus amigos se dirigen al remoto valle donde desapareció en ...",
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 2,
+      "title": "Until Dawn. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/until-dawn-pe19498",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/until-dawn-pe19498&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoECDQQAQ",
+      "displayed_link": "https://www.lanacion.com.ar › until-dawn-pe19498",
+      "thumbnail": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e84f548d578a5cb14b510e0f8e56087f39.jpeg",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e85b85ecf0af9408aec31c8f56d70a9133.png",
+      "date": "24 abr 2025",
+      "snippet": "FUNCIONES DE UNTIL DAWN ; Avenida (Bolívar) · castellano: 23:30 ; Cine 3D Los Nogales · castellano: 22:00 ; Cine Altos Hornos Zapla · castellano: 20: ...",
+      "snippet_highlighted_words": [
+        "FUNCIONES DE UNTIL DAWN"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 3,
+      "title": "Until Dawn: Noche de terror | Cines | Horarios",
+      "link": "https://m.cinesargentinos.com.ar/horarios/?zona=&cine=&pelicula=10076-until-dawn-noche-de-terror/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/horarios/%3Fzona%3D%26cine%3D%26pelicula%3D10076-until-dawn-noche-de-terror/&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoECDYQAQ",
+      "displayed_link": "https://m.cinesargentinos.com.ar › horarios › pelicula=10...",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e896e8f2d5ded09c7fe7346fe08ba3ea85.png",
+      "snippet": "Momentáneamente no hay una empresa que reúna los horarios de los cines. Pronto esperamos poder tener nuevamente el servicio de horarios.",
+      "snippet_highlighted_words": [
+        "Momentáneamente no hay una empresa que reúna los horarios de los cines"
+      ],
+      "source": "Cines Argentinos"
+    },
+    {
+      "position": 4,
+      "title": "CINES SHOWCASE | Cartelera belgrano",
+      "link": "https://www.todoshowcase.com/cartelera/belgrano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/cartelera/belgrano&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoECEMQAQ",
+      "displayed_link": "https://www.todoshowcase.com › cartelera › belgrano",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e8b0b6e8bea34a4275982c2d620f299771.png",
+      "snippet": "Formatos y horarios. 2D-Doblada 19:15 22:00 2D-Subtitulado 19:30 20:00 22:15 22:45 3D-Subtitulado 19:45 22:30. Sinopsis. Until dawn: noche de terror. Duración ...",
+      "snippet_highlighted_words": [
+        "2D-Doblada 19:15 22:00 2D-Subtitulado 19:30 20:00 22:15 22:45 3D-Subtitulado 19:45 22:30"
+      ],
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 5,
+      "title": "Cines Multiplex: Películas en Cartelera",
+      "link": "https://www.multiplex.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoECD8QAQ",
+      "displayed_link": "https://www.multiplex.com.ar",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e83c5b4b169fe6718e3f43ee8480066890.png",
+      "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
+      "snippet_highlighted_words": [
+        "horarios",
+        "películas"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 6,
+      "title": "Until Dawn: Noche de terror - Horarios y entradas",
+      "link": "https://www.imdb.com/es/showtimes/title/tt30955489/AR/C1428/?ref_=shci_i",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/es/showtimes/title/tt30955489/AR/C1428/%3Fref_%3Dshci_i&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoECE4QAQ",
+      "displayed_link": "https://www.imdb.com › showtimes › title",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e8c06d224f06f711e5759637dead8fca5a.png",
+      "snippet": "Cine Hoyts Abasto. Avenida Corrientes 3247, Buenos Aires DF 1193 1 kilometer · 8:20 PM10:50 PM ; Cinemark Caballito. Avenida La Plata 96, Buenos Aires DF C1184AAN ...",
+      "snippet_highlighted_words": [
+        "8:20 PM10:50 PM"
+      ],
+      "source": "IMDb"
+    },
+    {
+      "position": 7,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoFCIoBEAE",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e83dcc2ee818c6f8bbb20a97e6372a8bbe.png",
+      "snippet": "UNA PELICULA DE MINECRAFT, UNIDOS POR LA MUSICA, UNTIL DAWN:NOCHE DE TERROR. CARTELERA. PRE-VENTA. pel2. 4D - 3D - 2D - 2D PREMIER. LILO Y STITCH. 108 min | ATP.",
+      "snippet_highlighted_words": [
+        "PELICULA",
+        "UNTIL DAWN",
+        "CARTELERA"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 8,
+      "title": "Cartelera de Cines Showcase | IMAX - Consultá Entradas 2x1",
+      "link": "https://www.todoshowcase.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoFCIwBEAE",
+      "displayed_link": "https://www.todoshowcase.com",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e8f5d7db4e57b231f53f6a77d0333c9b1b.png",
+      "snippet": "Showcase Belgrano. Monroe 1655 (C1428BKS)Buenos Aires. (011) 4780 3334 ... Until dawn: noche de terror · Mazel Tov · Pecadores · Una película de Minecraft ...",
+      "snippet_highlighted_words": [
+        "Buenos Aires",
+        "Until dawn",
+        "película"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Una película de Minecraft",
+            "link": "https://entradas.todoshowcase.com/showcase/pelicula?filmid=4374"
+          },
+          {
+            "title": "Sonic 3: la película",
+            "link": "https://entradas.todoshowcase.com/showcase/pelicula?filmid=4127"
+          },
+          {
+            "title": "Promociones",
+            "link": "https://www.todoshowcase.com/promocion"
+          },
+          {
+            "title": "Norcenter",
+            "link": "https://www.todoshowcase.com/cine/3/norte"
+          }
+        ]
+      },
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 9,
+      "title": "Agenda de Cine – Cartelera y próximos estrenos en Argentina.",
+      "link": "https://agendadecine.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agendadecine.ar/&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoFCJABEAE",
+      "displayed_link": "https://agendadecine.ar",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e8a793aed5c25d48a58206023ae4db146f.png",
+      "snippet": "Adaptación cinematográfica del célebre videojuego, Until Dawn apuesta por una experiencia de terror más... VER MÁS · Sinners · Donde el blues se vuelve niebla.",
+      "snippet_highlighted_words": [
+        "Until Dawn"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cines",
+            "link": "https://agendadecine.ar/cines/"
+          },
+          {
+            "title": "En Cartel",
+            "link": "https://agendadecine.ar/en-cartel/"
+          },
+          {
+            "title": "Próximos Estrenos",
+            "link": "https://agendadecine.ar/proximos-estrenos/"
+          },
+          {
+            "title": "Ciclos y Festivales",
+            "link": "https://agendadecine.ar/ciclos-y-festivales/"
+          }
+        ]
+      },
+      "source": "Agenda de Cine"
+    },
+    {
+      "position": 10,
+      "title": "Cartelera de cine Hoyts Abasto de Buenos Aires",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/sala/hoyts-abasto-de-buenos-aires-sa95",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/sala/hoyts-abasto-de-buenos-aires-sa95&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQFnoFCI4BEAE",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › sala",
+      "favicon": "https://serpapi.com/searches/68202bccbde97958ba53f0ce/images/0b239cbcc17c39d4947cba03fdd806e840e7ca0ec6b40e4e53786d56e7a90e9e.png",
+      "snippet": "PELÍCULAS EN CARTEL EN Hoyts Abasto de Buenos Aires. Blanca Nieves y los siete enanos ... Until Dawn. Terror. Ver Horarios.",
+      "snippet_highlighted_words": [
+        "Until Dawn"
+      ],
+      "source": "La Nación"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=10&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=10&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=20&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=30&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=40&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=50&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=60&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=70&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=80&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&gl=ar&hl=es&ei=zSsgaNCGLKK2wN4PqIHUoAY&start=90&sa=N&sstk=Af40H4UaQBfCMRgmU6hFauW-YR-2HcqYbN-fsbcdbuV3k79j2cCmKBPJPryUILAVwlv6HLgmFmsB9XnmtSpZVArkdhtE6UGrRcZDmg&ved=2ahUKEwiQoY-jzpqNAxUiG9AFHagAFWQQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Until+Dawn+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}

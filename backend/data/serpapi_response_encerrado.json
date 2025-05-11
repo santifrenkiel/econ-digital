@@ -1,0 +1,408 @@
+{
+  "search_metadata": {
+    "id": "6820120299d5f4fbfd7beba0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e21324784f12189f/6820120299d5f4fbfd7beba0.json",
+    "created_at": "2025-05-11 02:57:06 UTC",
+    "processed_at": "2025-05-11 02:57:06 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e21324784f12189f/6820120299d5f4fbfd7beba0.html",
+    "total_time_taken": 1.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Encerrado horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Encerrado horarios cines Buenos Aires",
+    "total_results": 33700,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "¿Qué película están dando ahora en los cines?",
+      "snippet": null,
+      "title": "Te esperamos en nuestros complejos de CABA y GBA",
+      "link": "https://www.multiplex.com.ar/",
+      "list": [
+        "anticipada. Lilo & Stitch.",
+        "Thunderbolts*",
+        "anticipada. Destino Final: Lazos De Sangre.",
+        "anticipada. Mision Imposible: La Sentencia Final.",
+        "Una Pelicula De Minecraft.",
+        "estreno. Karate Kid: Leyendas.",
+        "Mazel Tov.",
+        "estreno. Encerrado."
+      ],
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c173b5a8fe2a7f62eb534240f1d79daacda3710a56d2b49c70a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK/UXXDqSBwZWzDrWN1bGEgZXN0w6FuIGRhbmRvIGFob3JhIGVuIGxvcyBjaW5lcz8iLCJsayI6IkdpNXhkY09wSUhCbGJNT3RZM1ZzWVNCbGMzVERvVzRnWkdGdVpHOGdZV2h2Y21FZ1pXNGdiRzl6SUdOcGJtVnoiLCJicyI6ImMtUEs0REk4dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0w4eFRTRW5NUzhsWFNNeklMd0lLNVNuazVCY3JKR2ZtcFJiYlMyeTJNREtRMGlza1NSZFhDSmZHb2YzT3BVQTFRUG5DMHN5U3hEeUYwcnhFSkJOU1VuUEFhdTBsWGxrWXFVb3BKNWNtWXFyTlJGSEtGY0dsaWU3LVlvV014RXF3QzRENlFHNkFHOXNyYTZRaHBWWklsR3F1ZUM0OXFIdEw4aFdTUzRIZVMxUUFlVE92cENneEpWRWhFYUpNSWJjMHB5U3pJQ2Uxd2w2aXc5VklTMG9ENUdxZ2p1TEVuRlM4NmdVWUFRIiwiaWQiOiJmY19BeElnYUoyWklaNkgwUEVQbXRpQmlBWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK%2FUXXDqSBwZWzDrWN1bGEgZXN0w6FuIGRhbmRvIGFob3JhIGVuIGxvcyBjaW5lcz8iLCJsayI6IkdpNXhkY09wSUhCbGJNT3RZM1ZzWVNCbGMzVERvVzRnWkdGdVpHOGdZV2h2Y21FZ1pXNGdiRzl6SUdOcGJtVnoiLCJicyI6ImMtUEs0REk4dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0w4eFRTRW5NUzhsWFNNeklMd0lLNVNuazVCY3JKR2ZtcFJiYlMyeTJNREtRMGlza1NSZFhDSmZHb2YzT3BVQTFRUG5DMHN5U3hEeUYwcnhFSkJOU1VuUEFhdTBsWGxrWXFVb3BKNWNtWXFyTlJGSEtGY0dsaWU3LVlvV014RXF3QzRENlFHNkFHOXNyYTZRaHBWWklsR3F1ZUM0OXFIdEw4aFdTUzRIZVMxUUFlVE92cENneEpWRWhFYUpNSWJjMHB5U3pJQ2Uxd2w2aXc5VklTMG9ENUdxZ2p1TEVuRlM4NmdVWUFRIiwiaWQiOiJmY19BeElnYUoyWklaNkgwUEVQbXRpQmlBWV8xIn0%3D"
+    },
+    {
+      "question": "¿Cuándo quitan una película del cine?",
+      "snippet": "La permanencia de una película en un cine o en la cartelera está sujeta a una evaluación semanal los días jueves y de acuerdo a su asistencia. Cuéntanos si te fue útil esta respuesta!",
+      "title": "¿Hasta cuándo estará en cartelera la película que quiero ver?",
+      "link": "https://preguntas.cinemark.cl/hc/es-419/articles/360028067152--Hasta-cu%C3%A1ndo-estar%C3%A1-en-cartelera-la-pel%C3%ADcula-que-quiero-ver#:~:text=La%20permanencia%20de%20una%20pel%C3%ADcula,te%20fue%20%C3%BAtil%20esta%20respuesta!",
+      "displayed_link": "https://preguntas.cinemark.cl › articles › 360028067152-...",
+      "source_logo": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c173b5a8fe2a7f62eb5025f625a1791ab1e10bf716ca2f8a865.jpeg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK/Q3XDoW5kbyBxdWl0YW4gdW5hIHBlbMOtY3VsYSBkZWwgY2luZT8iLCJsayI6IkdpTmpkV0Z1Wkc4Z2NYVnBkR0Z1SUhWdVlTQndaV3hwWTNWc1lTQmtaV3dnWTJsdVpRIiwiYnMiOiJjLVBLNERJOHRELXc5UEJLaFlMVW5NTnJrMHR6RWhWU2kwc09MOHhUU0VuTVM4bFhTTXpJTHdJSzVTbms1QmNySkdmbXBSYmJTMnkyTURLUTBpc2tTUmRYQ0pmR29mM09wVUExUVBuQzBzeVN4RHlGMHJ4RUpCTlNVblBBYXUwbFhsa1lxVW9wSjVjbVlxck5SRkhLRmNHbGllNy1Zb1dNeEVxd0M0RDZRRzZBRzlzcmE2UWhwVlpJbEdxdWVDNDlxSHRMOGhXU1M0SGVTMVFBZVRPdnBDZ3hKVkVoRWFKTUliYzBweVN6SUNlMXdsNml3OVZJUzBvRDVHcWdqdUxFbkZTODZnVVlBUSIsImlkIjoiZmNfQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK%2FQ3XDoW5kbyBxdWl0YW4gdW5hIHBlbMOtY3VsYSBkZWwgY2luZT8iLCJsayI6IkdpTmpkV0Z1Wkc4Z2NYVnBkR0Z1SUhWdVlTQndaV3hwWTNWc1lTQmtaV3dnWTJsdVpRIiwiYnMiOiJjLVBLNERJOHRELXc5UEJLaFlMVW5NTnJrMHR6RWhWU2kwc09MOHhUU0VuTVM4bFhTTXpJTHdJSzVTbms1QmNySkdmbXBSYmJTMnkyTURLUTBpc2tTUmRYQ0pmR29mM09wVUExUVBuQzBzeVN4RHlGMHJ4RUpCTlNVblBBYXUwbFhsa1lxVW9wSjVjbVlxck5SRkhLRmNHbGllNy1Zb1dNeEVxd0M0RDZRRzZBRzlzcmE2UWhwVlpJbEdxdWVDNDlxSHRMOGhXU1M0SGVTMVFBZVRPdnBDZ3hKVkVoRWFKTUliYzBweVN6SUNlMXdsNml3OVZJUzBvRDVHcWdqdUxFbkZTODZnVVlBUSIsImlkIjoiZmNfQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVlfMSJ9"
+    },
+    {
+      "question": "¿Qué películas hay ahorita en el cine?",
+      "snippet": null,
+      "title": "Peliculas en cine",
+      "link": "https://www.sensacine.com/peliculas/en-cartelera/cines/",
+      "list": [
+        "Thunderbolts* 30 de abril de 2025 | 2h 06min | Acción, Fantasía. ... ",
+        "Una película de Minecraft. 4 de abril de 2025 | 1h 41min | Aventura, Comedia, Familia. ... ",
+        "El contable 2. 25 de abril de 2025 | 2h 05min | Acción, Drama, Suspense. ... ",
+        "El casoplón. ... ",
+        "Until Dawn. ... ",
+        "Tierras perdidas. ... ",
+        "Enemigos. ... ",
+        "Los pecadores."
+      ],
+      "displayed_link": "https://www.sensacine.com › en-cartelera › cines",
+      "source_logo": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c173b5a8fe2a7f62eb58c87703e8ca7e40cac5bbe88ce766e3d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK/UXXDqSBwZWzDrWN1bGFzIGhheSBhaG9yaXRhIGVuIGVsIGNpbmU/IiwibGsiOiJHaVp4ZGNPcElIQmxiTU90WTNWc1lYTWdhR0Y1SUdGb2IzSnBkR0VnWlc0Z1pXd2dZMmx1WlEiLCJicyI6ImMtUEs0REk4dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0w4eFRTRW5NUzhsWFNNeklMd0lLNVNuazVCY3JKR2ZtcFJiYlMyeTJNREtRMGlza1NSZFhDSmZHb2YzT3BVQTFRUG5DMHN5U3hEeUYwcnhFSkJOU1VuUEFhdTBsWGxrWXFVb3BKNWNtWXFyTlJGSEtGY0dsaWU3LVlvV014RXF3QzRENlFHNkFHOXNyYTZRaHBWWklsR3F1ZUM0OXFIdEw4aFdTUzRIZVMxUUFlVE92cENneEpWRWhFYUpNSWJjMHB5U3pJQ2Uxd2w2aXc5VklTMG9ENUdxZ2p1TEVuRlM4NmdVWUFRIiwiaWQiOiJmY19BeElnYUoyWklaNkgwUEVQbXRpQmlBWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK%2FUXXDqSBwZWzDrWN1bGFzIGhheSBhaG9yaXRhIGVuIGVsIGNpbmU%2FIiwibGsiOiJHaVp4ZGNPcElIQmxiTU90WTNWc1lYTWdhR0Y1SUdGb2IzSnBkR0VnWlc0Z1pXd2dZMmx1WlEiLCJicyI6ImMtUEs0REk4dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0w4eFRTRW5NUzhsWFNNeklMd0lLNVNuazVCY3JKR2ZtcFJiYlMyeTJNREtRMGlza1NSZFhDSmZHb2YzT3BVQTFRUG5DMHN5U3hEeUYwcnhFSkJOU1VuUEFhdTBsWGxrWXFVb3BKNWNtWXFyTlJGSEtGY0dsaWU3LVlvV014RXF3QzRENlFHNkFHOXNyYTZRaHBWWklsR3F1ZUM0OXFIdEw4aFdTUzRIZVMxUUFlVE92cENneEpWRWhFYUpNSWJjMHB5U3pJQ2Uxd2w2aXc5VklTMG9ENUdxZ2p1TEVuRlM4NmdVWUFRIiwiaWQiOiJmY19BeElnYUoyWklaNkgwUEVQbXRpQmlBWV8xIn0%3D"
+    },
+    {
+      "question": "¿Cuánto cuesta la entrada al cine multiplex?",
+      "snippet": null,
+      "title": "Visión general creada por IA",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=es-AR",
+      "list": [
+        "Multiplex Lavalle: Entradas 2D: $5.000 Entradas 2D XTREMO: $5.000 Entradas 3D: $6.000 Entradas 3D XTREMO: $6.000  ",
+        "Entradas 2D: $5.000 ",
+        "Entradas 2D XTREMO: $5.000 ",
+        "Entradas 3D: $6.000 ",
+        "Entradas 3D XTREMO: $6.000  ",
+        "Cinépolis (Salas tradicionales): Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  Entrada general 2D: $11.600.  Entrada general 3D: $11.600.  Niños y mayores de 65 años: $8.200.  ",
+        "Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  ",
+        "Entrada general 2D: $11.600.  ",
+        "Entrada general 3D: $11.600.  ",
+        "Niños y mayores de 65 años: $8.200.  ",
+        "Promociones: En algunos cines, hay promociones de 50% de descuento en días específicos.  Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  Cines Multiplex también tiene promociones 2x1 online.  ",
+        "En algunos cines, hay promociones de 50% de descuento en días específicos.  ",
+        "Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  ",
+        "Cines Multiplex también tiene promociones 2x1 online.  ",
+        "Cargo por servicio: En las compras online se puede agregar un cargo por servicio de $400 por entrada.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK/Q3XDoW50byBjdWVzdGEgbGEgZW50cmFkYSBhbCBjaW5lIG11bHRpcGxleD8iLCJsayI6IkdpaGpkV0Z1ZEc4Z2MyRnNaU0JzWVNCbGJuUnlZV1JoSUdGc0lHTnBibVVnYlhWc2RHbHdiR1Y0IiwiYnMiOiJjLVBLNERJOHRELXc5UEJLaFlMVW5NTnJrMHR6RWhWU2kwc09MOHhUU0VuTVM4bFhTTXpJTHdJSzVTbms1QmNySkdmbXBSYmJTMnkyTURLUTBpc2tTUmRYQ0pmR29mM09wVUExUVBuQzBzeVN4RHlGMHJ4RUpCTlNVblBBYXUwbFhsa1lxVW9wSjVjbVlxck5SRkhLRmNHbGllNy1Zb1dNeEVxd0M0RDZRRzZBRzlzcmE2UWhwVlpJbEdxdWVDNDlxSHRMOGhXU1M0SGVTMVFBZVRPdnBDZ3hKVkVoRWFKTUliYzBweVN6SUNlMXdsNml3OVZJUzBvRDVHcWdqdUxFbkZTODZnVVlBUSIsImlkIjoiZmNfQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGVtRlZjek0zV0hWaVlqaG5jalIyWTBGbFkwdFJNRzQyYUZJMFVEZHJjM1ZOYTNWTmRXdGxVbkU0UTBGUU5qbFZRVmhCWmtsVVRWWkJkWGh5WTJGRk4xWTRlWGxDWVVGRmIzUkdTMGh5Um1aWVlWQkJkbnBwUkVSVmR4SVhRWGhKWjJGS01scEpXalpJTUZCRlVHMTBhVUpwUVZrYUlrRkRSRmhNTkd4U1YyeHhWMmMxY2s5UmNFVXRWRlpmU1MxQ2VraEhNa0ZYZFhjIiwiZmN2IjoiMyIsImVpIjoiQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVkiLCJxYyI6IkNpOXdaV3pEcldOMWJHRWdaVzVqWlhKeVlXUnZJR2h2Y21GeWFXOXpJR05wYm1WeklHSjFaVzV2Y3lCaGFYSmxjeEFPZlMtT0lqLWlBUUpsY3ciLCJxdWVzdGlvbiI6IsK%2FQ3XDoW50byBjdWVzdGEgbGEgZW50cmFkYSBhbCBjaW5lIG11bHRpcGxleD8iLCJsayI6IkdpaGpkV0Z1ZEc4Z2MyRnNaU0JzWVNCbGJuUnlZV1JoSUdGc0lHTnBibVVnYlhWc2RHbHdiR1Y0IiwiYnMiOiJjLVBLNERJOHRELXc5UEJLaFlMVW5NTnJrMHR6RWhWU2kwc09MOHhUU0VuTVM4bFhTTXpJTHdJSzVTbms1QmNySkdmbXBSYmJTMnkyTURLUTBpc2tTUmRYQ0pmR29mM09wVUExUVBuQzBzeVN4RHlGMHJ4RUpCTlNVblBBYXUwbFhsa1lxVW9wSjVjbVlxck5SRkhLRmNHbGllNy1Zb1dNeEVxd0M0RDZRRzZBRzlzcmE2UWhwVlpJbEdxdWVDNDlxSHRMOGhXU1M0SGVTMVFBZVRPdnBDZ3hKVkVoRWFKTUliYzBweVN6SUNlMXdsNml3OVZJUzBvRDVHcWdqdUxFbkZTODZnVVlBUSIsImlkIjoiZmNfQXhJZ2FKMlpJWjZIMFBFUG10aUJpQVlfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Encerrado. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/encerrado-pe19522",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/encerrado-pe19522&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECBwQAQ",
+      "displayed_link": "https://www.lanacion.com.ar › encerrado-pe19522",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a801e5fb2e4f1213bfc6ac9e66de5595b.png",
+      "date": "hace 3 días",
+      "snippet": "FUNCIONES DE ENCERRADO ; Atlas Monteagudo · castellano: 00:50 subtitulada: 22:30 ; Belgrano Multiplex · subtitulada: 14:50, 18:15, 22:40 ; Cine ...",
+      "snippet_highlighted_words": [
+        "FUNCIONES DE ENCERRADO"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 2,
+      "title": "Encerrado",
+      "link": "https://www.multiplex.com.ar/peliculas/encerrado/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/encerrado/&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECBkQAQ",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › encerrado",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a588506586b9a7ac1d67fc51e8a6d7e18.png",
+      "date": "hace 3 días",
+      "snippet": "Del productor Sam Raimi, este thriller de terror sigue a un ladrón (Bill Skarsgård) que irrumpe en el auto equivocado y se convierte en presa de ...",
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 3,
+      "title": "Cinemark",
+      "link": "https://www.cinemarkhoyts.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECBUQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a63a0352d6f811048cc3c7406a7a6124a.png",
+      "snippet": "Películas en cartelera · THUNDERBOLTS · KARATE KID LEYENDAS · UNA PELICULA DE MINECRAFT · MAZEL TOV · ENCERRADO · BJÖRK CORNUCOPIA · EL CLAN (2015) · ESPERANDO LA ...",
+      "snippet_highlighted_words": [
+        "Películas",
+        "cartelera",
+        "PELICULA",
+        "ENCERRADO"
+      ],
+      "source": "Cinemark"
+    },
+    {
+      "position": 4,
+      "title": "Cines Multiplex: Películas en Cartelera",
+      "link": "https://www.multiplex.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECBYQAQ",
+      "displayed_link": "https://www.multiplex.com.ar",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a68a3abfa6f3d0cc918ac51e20bd0da8f.png",
+      "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
+      "snippet_highlighted_words": [
+        "horarios",
+        "películas"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 5,
+      "title": "encerrado",
+      "link": "https://www.cinemarkhoyts.com.ar/pelicula/encerrado",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/encerrado&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECBcQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar › pelicula › encerrado",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a9f9efadb27ad85f733a6236ed5ccef55.png",
+      "snippet": "ENCERRADO ; Formatos disponibles. 2D ; Duración. 1h 35m ; Fecha de estreno. 08 May, 2025 ; Distribuidor. DIAMOND FILMS S.A. ...",
+      "snippet_highlighted_words": [
+        "ENCERRADO"
+      ],
+      "missing": [
+        "Buenos",
+        "Aires"
+      ],
+      "source": "Cinemark"
+    },
+    {
+      "position": 6,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECDsQAQ",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a45f6568522e187d8e6e20a5f582b3a3b.png",
+      "snippet": "PELICULAS: Película, CONCLAVE, DIAMANTI, ENCERRADO, ESPERANDO LA CARROZA (40 ANIV), INFIERNO EN EL PANTANO, KARATE KID: LEYENDAS, LA CARGA MÁS PRECIADA, LA ...",
+      "snippet_highlighted_words": [
+        "PELICULAS",
+        "Película",
+        "ENCERRADO"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 7,
+      "title": "Cartelera de Cine de Argentina - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECDkQAQ",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511aee9728df891ebba922309e64fb8485d3.png",
+      "snippet": "Encerrado · Karate Kid: Leyendas · La noche de los tres fuegos · Mars Express · Nancy. VER MÁS PELÍCULAS. SALAS DE CINE. Todas las salas, Boulevard Cine ...",
+      "snippet_highlighted_words": [
+        "Encerrado"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 8,
+      "title": "Cartelera de Cines Showcase | IMAX - Consultá Entradas 2x1",
+      "link": "https://www.todoshowcase.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECD8QAQ",
+      "displayed_link": "https://www.todoshowcase.com",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a2e0d2b661211e463ff685aaa0e21ac2e.png",
+      "snippet": "Showcase Belgrano. Monroe 1655 (C1428BKS)Buenos Aires. (011) 4780 3334. Salas ... Encerrado. ESTRENO. La carga más preciada. ESTRENO. Mars express. ESTRENO. La ...",
+      "snippet_highlighted_words": [
+        "Buenos Aires",
+        "Encerrado"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Una película de Minecraft",
+            "link": "https://entradas.todoshowcase.com/showcase/pelicula?filmid=4374"
+          },
+          {
+            "title": "Sonic 3: la película",
+            "link": "https://entradas.todoshowcase.com/showcase/pelicula?filmid=4127"
+          },
+          {
+            "title": "Promociones",
+            "link": "https://www.todoshowcase.com/promocion"
+          },
+          {
+            "title": "Norcenter",
+            "link": "https://www.todoshowcase.com/cine/3/norte"
+          }
+        ]
+      },
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 9,
+      "title": "Agenda de Cine – Cartelera y próximos estrenos en Argentina.",
+      "link": "https://agendadecine.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agendadecine.ar/&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECDoQAQ",
+      "displayed_link": "https://agendadecine.ar",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a45a99160eeeec47f07066904c1a63099.png",
+      "snippet": "VER HORARIOS · DIAMOND - ENCERRADO. Encerrado · VER HORARIOS · BF PARIS - LA CARGA MAS PRECIADA. La carga más preciada · VER HORARIOS · BATATA - LA NOCHE DE LOS ...",
+      "snippet_highlighted_words": [
+        "DIAMOND - ENCERRADO"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cines",
+            "link": "https://agendadecine.ar/cines/"
+          },
+          {
+            "title": "En Cartel",
+            "link": "https://agendadecine.ar/en-cartel/"
+          },
+          {
+            "title": "Próximos Estrenos",
+            "link": "https://agendadecine.ar/proximos-estrenos/"
+          },
+          {
+            "title": "Ciclos y Festivales",
+            "link": "https://agendadecine.ar/ciclos-y-festivales/"
+          }
+        ]
+      },
+      "source": "Agenda de Cine"
+    },
+    {
+      "position": 10,
+      "title": "Cartelera del Cine Arenas",
+      "link": "https://cineslacosta.com.ar/salas.php?sala=AR",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cineslacosta.com.ar/salas.php%3Fsala%3DAR&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQFnoECDgQAQ",
+      "displayed_link": "https://cineslacosta.com.ar › salas",
+      "favicon": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/fd7af522854b728df7229fdaf459511a0192f0e296f7c4ad9ac5f5880eba3f39.png",
+      "snippet": "Cartelera del Cine Arenas ; Thunderbolts* · Acción / Aventura · 2h 6m · 18:00 ; Encerrado ESTRENO · Thriller / Suspenso · 1h 35m · 20:00 ; Karate Kid Leyendas ESTRENO.",
+      "snippet_highlighted_words": [
+        "Encerrado ESTRENO · Thriller / Suspenso · 1h 35m · 20:00"
+      ],
+      "source": "cineslacosta.com.ar"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Cinemark Hoyts",
+          "image": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c17ede2e75acca76359cf1f5bb8214ad03c1f0c9a02da40a27af88ec7d820f717c5.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+Hoyts+Rosario&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEw2LjewNEky_8XIsIGF4RULPxeq-CsWXi5ukEiZeUFVXoEJkoqiqor4yqwChEhSZXyGZUWuKZKa4kJLszLTSrgpJek5BUbG6Qh-SoGZWUEBgp-WZlFcVIHgJ5dUFlZWItlhXmiUlJSXtYhVyDkzL1XBI7-ypFghKL84sSgz_xabJEOYX_jnxBmH2d7tq0orTlDk0pwV_ejAPat1iziEQhJzkzIPr8xTKE5VSCotTj68eQUHIwDJNegvCgEAAA&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQs9oBKAB6BAg1EAk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Hoyts+Rosario&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEw2LjewNEky_8XIsIGF4RULPxeq-CsWXi5ukEiZeUFVXoEJkoqiqor4yqwChEhSZXyGZUWuKZKa4kJLszLTSrgpJek5BUbG6Qh-SoGZWUEBgp-WZlFcVIHgJ5dUFlZWItlhXmiUlJSXtYhVyDkzL1XBI7-ypFghKL84sSgz_xabJEOYX_jnxBmH2d7tq0orTlDk0pwV_ejAPat1iziEQhJzkzIPr8xTKE5VSCotTj68eQUHIwDJNegvCgEAAA"
+        },
+        {
+          "name": "Hoyts Unicenter | Cinemark H...",
+          "image": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c17ede2e75acca76359cf1f5bb8214ad03cd8998903d0b12f057ef2e693c0f41be0.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF7I6JBVFVRXxlVkFCJGkyvgMy4pcUyQ1xYWWZmWmlXBTStJzCoyM0xH8lAIzs4ICBD8tzaK4qALBTy6pLKysRLLDvNAoKSkvaxGrgkd-ZUmxQmheZnJqXklqkUKNgnNmXmpuYlE2ROoWmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMAYBaCpxYBAAA&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQs9oBKAB6BAg1EA4",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF7I6JBVFVRXxlVkFCJGkyvgMy4pcUyQ1xYWWZmWmlXBTStJzCoyM0xH8lAIzs4ICBD8tzaK4qALBTy6pLKysRLLDvNAoKSkvaxGrgkd-ZUmxQmheZnJqXklqkUKNgnNmXmpuYlE2ROoWmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMAYBaCpxYBAAA"
+        },
+        {
+          "name": "Cinemark Hoyts Dot",
+          "image": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c17ede2e75acca76359cf1f5bb8214ad03c3399dbac3368478c82c98bc91e288995.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+Hoyts+DOT&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuqqqIr8wq-MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABEkFVCdCJKkyPsOyItcUSU1xoaVZmWkl3JSS9JwCI-N0BD-lwMysoADBT0uzKC6qQPCTSyoLKyuR7DAvNEpKystaxMrnnJmXquCRX1lSrODiH3KLTZIhzC_8c-KMw2zv9lWlFScocmnOin504J7VukUcQiGJuUmZh1fmKRSnKiSVFicf3ryCgxEAKsRtPwYBAAA&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQs9oBKAB6BAg1EBM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Hoyts+DOT&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuqqqIr8wq-MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABEkFVCdCJKkyPsOyItcUSU1xoaVZmWkl3JSS9JwCI-N0BD-lwMysoADBT0uzKC6qQPCTSyoLKyuR7DAvNEpKystaxMrnnJmXquCRX1lSrODiH3KLTZIhzC_8c-KMw2zv9lWlFScocmnOin504J7VukUcQiGJuUmZh1fmKRSnKiSVFicf3ryCgxEAKsRtPwYBAAA"
+        },
+        {
+          "name": "Cinépolis Recoleta",
+          "image": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c17ede2e75acca76359cf1f5bb8214ad03c0e975d22428b2ddbdae015a41c7e786a.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEyqjM-wrMg1_cXIsIGF4RULPxdEPNm43MDSJMn8FQsvFzdIpMy8oCqvwARJRVFVRXxlVgFCBGYWkpriQkuzMtNKuCkl6TkFRsbpCH5KgZlZQQGCn5ZmUVxUgeAnl1QWVlYi2WFeaJSUlJe1iFXYOTPv8MqC_JzMYoWg1OT8nNSSxFtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjAAnuSwXCwEAAA&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQs9oBKAB6BAg1EBg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cin%C3%A9polis+Recoleta&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEyqjM-wrMg1_cXIsIGF4RULPxdEPNm43MDSJMn8FQsvFzdIpMy8oCqvwARJRVFVRXxlVgFCBGYWkpriQkuzMtNKuCkl6TkFRsbpCH5KgZlZQQGCn5ZmUVxUgeAnl1QWVlYi2WFeaJSUlJe1iFXYOTPv8MqC_JzMYoWg1OT8nNSSxFtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjAAnuSwXCwEAAA"
+        },
+        {
+          "name": "Cinépolis Merlo",
+          "image": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c17ede2e75acca76359cf1f5bb8214ad03c196f81a3f0bc365b8973705118ba1c9f.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cin%C3%A9polis+Merlo&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuLrQ0KzOt_MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABElFUVVFfGVWAUIkqTI-w7Ii1xRJDdR0uCkl6TkFRsbpCH5KgZlZQQGCn5ZmUVxUgeAnl1QWVlYi2WFeaJSUlJe1iFXAOTPv8MqC_JzMYgXf1KKc_FtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjACsNSWNCAEAAA&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQs9oBKAB6BAg1EB0",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cin%C3%A9polis+Merlo&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuLrQ0KzOt_MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABElFUVVFfGVWAUIkqTI-w7Ii1xRJDdR0uCkl6TkFRsbpCH5KgZlZQQGCn5ZmUVxUgeAnl1QWVlYi2WFeaJSUlJe1iFXAOTPv8MqC_JzMYgXf1KKc_FtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjACsNSWNCAEAAA"
+        },
+        {
+          "name": "Multiplex Belgrano",
+          "image": "https://serpapi.com/searches/6820120299d5f4fbfd7beba0/images/5d044126e2020c17ede2e75acca76359cf1f5bb8214ad03c7e3bd10b65ea5fda837eb7f92b16823e.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Multiplex+Belgrano&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEnPKTAyTv_FyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF1hdmXlBVV6BCZKKoqqK-MqsAoRIUmV8hmVFrimSmuJCS7My00q4KVDbEPyUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauQb2lOSWZBTmqFglNqTnpRYl7-LTZJhjC_8M-JMw6zvdtXlVacoMilOSv60YF7VusWcQiFJOYmZR5emadQnKqQVFqcfHjzCg5GANDO23UIAQAA&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQs9oBKAB6BAg1ECI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Multiplex+Belgrano&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEnPKTAyTv_FyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF1hdmXlBVV6BCZKKoqqK-MqsAoRIUmV8hmVFrimSmuJCS7My00q4KVDbEPyUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauQb2lOSWZBTmqFglNqTnpRYl7-LTZJhjC_8M-JMw6zvdtXlVacoMilOSv60YF7VusWcQiFJOYmZR5emadQnKqQVFqcfHjzCg5GANDO23UIAQAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Horarios de salas de cine en Buenos Aires",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Horarios+de+salas+de+cine+en+Buenos+Aires&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine Cinemark",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cartelera+de+cine+Cinemark&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+Cinemark"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine hoyts",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cartelera+de+cine+hoyts&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+hoyts"
+    },
+    {
+      "block_position": 1,
+      "query": "Mejores películas en cartelera hoy",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Mejores+pel%C3%ADculas+en+cartelera+hoy&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Belgrano Cartelera",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+Belgrano+Cartelera&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Belgrano+Cartelera"
+    },
+    {
+      "block_position": 1,
+      "query": "Multiplex CARTELERA",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Multiplex+CARTELERA&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Multiplex+CARTELERA"
+    },
+    {
+      "block_position": 1,
+      "query": "Multiplex Belgrano Cartelera Horarios",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Multiplex+Belgrano+Cartelera+Horarios&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Multiplex+Belgrano+Cartelera+Horarios"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Las Toscas canning Cartelera horarios y precios",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios&sa=X&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=10&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=10&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=20&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=30&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=40&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=50&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=60&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=70&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=80&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=AxIgaJ2ZIZ6H0PEPmtiBiAY&start=90&sa=N&sstk=Af40H4VbJ-HW8WtxKsnoEBv2S36mKyLABcl8tiOjdJYM_8-tUAgXAMpVVwfrPqYudLeLM4FChOZqn3yQ-EjwjljdPABdaXoUEe_eXw&ved=2ahUKEwjdpvrWtZqNAxWeAzQIHRpsAGEQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Encerrado+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}

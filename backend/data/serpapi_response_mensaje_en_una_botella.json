@@ -1,0 +1,334 @@
+{
+  "search_metadata": {
+    "id": "6820280c69819d3901e3e413",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b0bbadee47a744b7/6820280c69819d3901e3e413.json",
+    "created_at": "2025-05-11 04:31:08 UTC",
+    "processed_at": "2025-05-11 04:31:08 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b0bbadee47a744b7/6820280c69819d3901e3e413.html",
+    "total_time_taken": 3.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Mensaje en una botella horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Mensaje en una botella horarios cines Buenos Aires",
+    "total_results": 42200,
+    "time_taken_displayed": 0.54,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.multiplex.com.ar/peliculas/mensaje-en-una-botella/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhXAq6-RLgbvWbRGkehP5jaGRO8A0pcWFvic4hjD4GBGUOIQ_dBuZ8SA&s",
+      "original": "https://www.multiplex.com.ar/wp-content/uploads/2025/05/mensaje-en-una-botella.jpg",
+      "title": "Mensaje En Una Botella - Cines Multiplex",
+      "source_name": "Cines Multiplex"
+    },
+    {
+      "source": "https://www.instagram.com/gabriel.corrado/reel/DHKJkidxeOL/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPleah-CChZvyM2TbS9HVTXF_3c_kB4VqGve2PHczeU1J8Q_eftUOrgGc&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3587722146480513931",
+      "title": "TRAILER OFICIAL - Mensaje En Una Botella🍷✨, ¿Si pudieras enviarte un  mensaje al pasado, qué decisión cambiarías?😦, Opción 1: Conocé a Denise,  una sommelier que descubre cómo mandarse mensajes al ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.conclusion.com.ar/espectaculos/cinco-peliculas-renuevan-la-cartelera-entre-las-destacadas-la-comedia-argentina-mensaje-en-una-botella/05/2025/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgaDvMLr757UALWB4K6pg00Tw8nh0u-8wMD41_5ynSq6Y78nyJCzYqds&s",
+      "original": "https://www.conclusion.com.ar/wp-content/uploads/2025/05/cine-1.jpg",
+      "title": "Cinco películas renuevan la cartelera: entre las destacadas ...",
+      "source_name": "Diario Digital Conclusión"
+    },
+    {
+      "source": "https://quedigital.com.ar/cultura/cine-mensaje-en-una-botella-se-estrena-en-mar-del-plata/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCUMzU-wVp6lVt-FlVx_LcB2fF2nuqzC6Ypj-Q0VJ6rqIFEwUv_5ykic&s",
+      "original": "https://quedigital.com.ar/web/wp-content/uploads/2025/04/mensaje-en-una-botella-56965_600x315.jpg",
+      "title": "Cine: \"Mensaje en una botella\" se estrena en Mar del Plata",
+      "source_name": "Qué digital"
+    },
+    {
+      "source": "https://www.instagram.com/cineteatrohelios/reel/DJMXf9RRtYy/?hl=es",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL_S8_NQCqkTJm_M9vcHlEWhOhYCvBFCKaXLjLexeuwPEiSPmvwt7IpY&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3627508642901013059",
+      "title": "🎬 MENSAJE EN UNA BOTELLA CINE COMERCIAL DURANTE EL FIN DE ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.diariodecultura.com.ar/estrenos/estrenos-de-cine-mensaje-en-una-botella-con-luisana-lopilato-y-tres-novedades-renuevan-la-cartelera/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMIIfsKuQgsdNFdc9TggT0weAZira7XxkIxNg-arTNBo2dF_GyZD0Wd4&s",
+      "original": "https://www.diariodecultura.com.ar/wp-content/uploads/2025/05/assas-6.jpg",
+      "title": "Estrenos de cine: «Mensaje en una botella» con Luisana ...",
+      "source_name": "Diario de Cultura"
+    },
+    {
+      "source": "https://cinemadevoto.com.ar/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvwUozezwwS8w4pdXL6eKOKDEKA4EGu-5bLL2bJlCoHzKM9-OuxeuXJo&s",
+      "original": "https://cinemadevoto.com.ar/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcinexo-lastipas.appspot.com%2Fo%2FPeliculas%252F675%252F523%252Fprimario.png%3Falt%3Dmedia&w=828&q=75",
+      "title": "Cinema Devoto",
+      "source_name": "cinemadevoto.com.ar"
+    },
+    {
+      "source": "https://m.cinesargentinos.com.ar/horarios/?zona=&cine=&pelicula=10061-mensaje-en-una-botella/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_fFh3hOL8j1P4CMh2HkWZbR2wAN-oiEqbHp4iyHQEMehJTXTBH13Ncs&s",
+      "original": "https://m.cinesargentinos.com.ar/static/archivos/71584",
+      "title": "Mensaje en una botella | Cines | Horarios",
+      "source_name": "Cines Argentinos"
+    },
+    {
+      "source": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/mensaje-en-una-botella-pe19509",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkfEDmwNjOpBkOkqYFi9232aJTi30J1RiztnZpe77ChSuS2eu3tsAjafE&s",
+      "original": "https://resizer.glanacion.com/resizer/v2/MAGT5NVWK5HATIX3CN3G57OSZM.png?auth=2fb6cdce982aee7b4b2c723ea3c785d95d3e0e70d563ff8f8d387ea0f6525774&width=210&height=300&smart=true",
+      "title": "Mensaje en una botella. Cartelera de Cine - LA NACION",
+      "source_name": "La Nación"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Cine Gaumont on Instagram: \" \"Mensaje en una botella ...",
+      "link": "https://www.instagram.com/reel/DJZbmnnxhK9/",
+      "thumbnail": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/b8aa82e0bb7983a379f9d7393454164511339d42d6871b249ba30fb61bc91a9e.jpeg",
+      "channel": "cine.gaumont",
+      "duration": "0:58",
+      "platform": "Instagram"
+    },
+    {
+      "position": 2,
+      "title": "MENSAJE EN UNA BOTELLA CINE COMERCIAL DURANTE ...",
+      "link": "https://www.instagram.com/cineteatrohelios/reel/DJMXf9RRtYy/?hl=es",
+      "thumbnail": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/b8aa82e0bb7983a368216312fd9bc74cd55ad415c5ceb4353385d1f89b22ec01.jpeg",
+      "channel": "cineteatrohelios",
+      "duration": "2:00",
+      "platform": "Instagram"
+    },
+    {
+      "position": 3,
+      "title": "En cartelera: Mensaje en una botella en @cinemacenterarg ...",
+      "link": "https://www.instagram.com/reel/DJR2hn5pUOI/",
+      "thumbnail": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/b8aa82e0bb7983a339c8eac6cbea3da9207888ff31ecb9ab20ed3f9c8eee5cb1.jpeg",
+      "channel": "diarioellibertador",
+      "platform": "Instagram"
+    },
+    {
+      "position": 4,
+      "title": "El 1 de Mayo llega a los cines Mensaje En Una Botella ¿Si ...",
+      "link": "https://www.instagram.com/paula.aisenberg/reel/DHJ2D8gvhCs/",
+      "thumbnail": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/b8aa82e0bb7983a30814a8f4b7a56a3cc9bffad4c99b1d760472c7f4c1a9ce8a.png",
+      "channel": "paula.aisenberg",
+      "duration": "2:02",
+      "platform": "Instagram"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "¿Qué película están dando ahora en los cines?",
+      "snippet": null,
+      "title": "Te esperamos en nuestros complejos de CABA y GBA",
+      "link": "https://www.multiplex.com.ar/",
+      "list": [
+        "anticipada. Lilo & Stitch.",
+        "Thunderbolts*",
+        "anticipada. Destino Final: Lazos De Sangre.",
+        "anticipada. Mision Imposible: La Sentencia Final.",
+        "Una Pelicula De Minecraft.",
+        "estreno. Karate Kid: Leyendas.",
+        "Mazel Tov.",
+        "estreno. Encerrado."
+      ],
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/22a41e5f245addf8718228a234a476283b06aa3f38099ac45a6d54316ae58dcf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa05GTXdhamxmVkU1d2VqWm5PVU00ZFY5V2FIWm1kVkZzYmkxVk5sRmxObFJGVlRCSVNscHdObmhmUVRKSk5VNTNVRnBZV2twc1gwdHRkWEJ0U0RKWGFWUTRWREkzTkVsRVIxbGlNbFJqWDJwdVJWRkRNbEJHVFdFeFp4SVhSSGxuWjJGS1IzTkRjalpuYTNaUlVIZFBkWFJ0VVRBYUlrRkRSRmhNTkcxaFJXZE9hVXM0VUhCcmRuWkhiRGxVT1RCbWRGaHJSRkJWTTNjIiwiZmN2IjoiMyIsImVpIjoiRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTAiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiV1Z1YzJGcVpTQmxiaUIxYm1FZ1ltOTBaV3hzWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMHZqaUlfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoW4gZGFuZG8gYWhvcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiR2k1eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9XNGdaR0Z1Wkc4Z1lXaHZjbUVnWlc0Z2JHOXpJR05wYm1WeiIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWEZwZlJvZjNPcFVBMUpma0tKWm1wdVFYNUVEMEtwWG1KeU9hZ1dIV0MxY2hRU2otWk5HMWN5VndXRUx0eVVvc1Zpdk9CVW9uRkNybXBXZmxGSUg0aWlKZVNDbFlMMHVkVW1wb0gxT3FZV1FTeThhU29rWXFVRW5iRlNSQ1ZpU0NWQW93QSIsImlkIjoiZmNfRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTBfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa05GTXdhamxmVkU1d2VqWm5PVU00ZFY5V2FIWm1kVkZzYmkxVk5sRmxObFJGVlRCSVNscHdObmhmUVRKSk5VNTNVRnBZV2twc1gwdHRkWEJ0U0RKWGFWUTRWREkzTkVsRVIxbGlNbFJqWDJwdVJWRkRNbEJHVFdFeFp4SVhSSGxuWjJGS1IzTkRjalpuYTNaUlVIZFBkWFJ0VVRBYUlrRkRSRmhNTkcxaFJXZE9hVXM0VUhCcmRuWkhiRGxVT1RCbWRGaHJSRkJWTTNjIiwiZmN2IjoiMyIsImVpIjoiRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTAiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiV1Z1YzJGcVpTQmxiaUIxYm1FZ1ltOTBaV3hzWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMHZqaUlfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoW4gZGFuZG8gYWhvcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiR2k1eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9XNGdaR0Z1Wkc4Z1lXaHZjbUVnWlc0Z2JHOXpJR05wYm1WeiIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWEZwZlJvZjNPcFVBMUpma0tKWm1wdVFYNUVEMEtwWG1KeU9hZ1dIV0MxY2hRU2otWk5HMWN5VndXRUx0eVVvc1Zpdk9CVW9uRkNybXBXZmxGSUg0aWlKZVNDbFlMMHVkVW1wb0gxT3FZV1FTeThhU29rWXFVRW5iRlNSQ1ZpU0NWQW93QSIsImlkIjoiZmNfRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTBfMyJ9"
+    },
+    {
+      "question": "¿Cuánto tiempo está una película en los cines?",
+      "snippet": "Dependiendo del título, de su afluencia, y de lo grande que sea, normalmente una película suele durar unas cuatro semanas en cine, durante las cuales el número de sesiones irá disminuyendo en función de la afluencia para ir acomodando títulos más nuevos que tengan más espectadores.",
+      "title": "¿Cuánto duran los estrenos en el cine? - ADSLZone",
+      "date": "18 dic 2024",
+      "link": "https://www.adslzone.net/reportajes/internet/peliculas-cartelera-cine/#:~:text=Dependiendo%20del%20t%C3%ADtulo%2C%20de%20su,nuevos%20que%20tengan%20m%C3%A1s%20espectadores.",
+      "displayed_link": "https://www.adslzone.net › peliculas-cartelera-cine",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3sMbbyBCWfF2_36_VjLLiqZ-j5ybiRMypKn_8ovJhWw&s",
+      "source_logo": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/22a41e5f245addf8718228a234a476281cd58a075415c70e2b3da63ec708a2bf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa05GTXdhamxmVkU1d2VqWm5PVU00ZFY5V2FIWm1kVkZzYmkxVk5sRmxObFJGVlRCSVNscHdObmhmUVRKSk5VNTNVRnBZV2twc1gwdHRkWEJ0U0RKWGFWUTRWREkzTkVsRVIxbGlNbFJqWDJwdVJWRkRNbEJHVFdFeFp4SVhSSGxuWjJGS1IzTkRjalpuYTNaUlVIZFBkWFJ0VVRBYUlrRkRSRmhNTkcxaFJXZE9hVXM0VUhCcmRuWkhiRGxVT1RCbWRGaHJSRkJWTTNjIiwiZmN2IjoiMyIsImVpIjoiRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTAiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiV1Z1YzJGcVpTQmxiaUIxYm1FZ1ltOTBaV3hzWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMHZqaUlfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIHRpZW1wbyBlc3TDoSB1bmEgcGVsw61jdWxhIGVuIGxvcyBjaW5lcz8iLCJsayI6IkdpOWpkY09oYm5SdklIUnBaVzF3YnlCbGMzVERvU0IxYm1FZ2NHVnN3NjFqZFd4aElHVnVJR3h2Y3lCamFXNWxjdyIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWEZwZlJvZjNPcFVBMUpma0tKWm1wdVFYNUVEMEtwWG1KeU9hZ1dIV0MxY2hRU2otWk5HMWN5VndXRUx0eVVvc1Zpdk9CVW9uRkNybXBXZmxGSUg0aWlKZVNDbFlMMHVkVW1wb0gxT3FZV1FTeThhU29rWXFVRW5iRlNSQ1ZpU0NWQW93QSIsImlkIjoiZmNfRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTBfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa05GTXdhamxmVkU1d2VqWm5PVU00ZFY5V2FIWm1kVkZzYmkxVk5sRmxObFJGVlRCSVNscHdObmhmUVRKSk5VNTNVRnBZV2twc1gwdHRkWEJ0U0RKWGFWUTRWREkzTkVsRVIxbGlNbFJqWDJwdVJWRkRNbEJHVFdFeFp4SVhSSGxuWjJGS1IzTkRjalpuYTNaUlVIZFBkWFJ0VVRBYUlrRkRSRmhNTkcxaFJXZE9hVXM0VUhCcmRuWkhiRGxVT1RCbWRGaHJSRkJWTTNjIiwiZmN2IjoiMyIsImVpIjoiRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTAiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiV1Z1YzJGcVpTQmxiaUIxYm1FZ1ltOTBaV3hzWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMHZqaUlfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIHRpZW1wbyBlc3TDoSB1bmEgcGVsw61jdWxhIGVuIGxvcyBjaW5lcz8iLCJsayI6IkdpOWpkY09oYm5SdklIUnBaVzF3YnlCbGMzVERvU0IxYm1FZ2NHVnN3NjFqZFd4aElHVnVJR3h2Y3lCamFXNWxjdyIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWEZwZlJvZjNPcFVBMUpma0tKWm1wdVFYNUVEMEtwWG1KeU9hZ1dIV0MxY2hRU2otWk5HMWN5VndXRUx0eVVvc1Zpdk9CVW9uRkNybXBXZmxGSUg0aWlKZVNDbFlMMHVkVW1wb0gxT3FZV1FTeThhU29rWXFVRW5iRlNSQ1ZpU0NWQW93QSIsImlkIjoiZmNfRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTBfMyJ9"
+    },
+    {
+      "question": "¿Cuáles son las mejores salas de cine en Buenos Aires?",
+      "snippet": null,
+      "title": "10 MEJORES Cines en Buenos Aires (Actualizado 2025) - Tripadvisor",
+      "link": "https://www.tripadvisor.com.ar/Attractions-g312741-Activities-c56-t97-Buenos_Aires_Capital_Federal_District.html",
+      "list": [
+        "Cine Gaumont. 4,5. Cines Montserrat. De paulamarisak. ... ",
+        "Village Recoleta. 4,2. 147. Cines Recoleta. ... ",
+        "Cinemark Palermo. 3,8. Cines Palermo. De 575isabelv. ... ",
+        "Cinépolis Caballito. 3,8. 115. Cines Caballito. ... ",
+        "Showcase Cinemas. 3,8. Cines Belgrano. ... ",
+        "Cine Lorca. 3,9. Cines San Nicolás. ... ",
+        "Cinemark Caballito. 3,7. Cines Almagro. ... ",
+        "Hoyts. 3,9. Cines Saavedra."
+      ],
+      "displayed_link": "https://www.tripadvisor.com.ar › Attractions-g312741-A...",
+      "source_logo": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/22a41e5f245addf8718228a234a476286f365923fb012aad3ceb5385ceb4c04f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa05GTXdhamxmVkU1d2VqWm5PVU00ZFY5V2FIWm1kVkZzYmkxVk5sRmxObFJGVlRCSVNscHdObmhmUVRKSk5VNTNVRnBZV2twc1gwdHRkWEJ0U0RKWGFWUTRWREkzTkVsRVIxbGlNbFJqWDJwdVJWRkRNbEJHVFdFeFp4SVhSSGxuWjJGS1IzTkRjalpuYTNaUlVIZFBkWFJ0VVRBYUlrRkRSRmhNTkcxaFJXZE9hVXM0VUhCcmRuWkhiRGxVT1RCbWRGaHJSRkJWTTNjIiwiZmN2IjoiMyIsImVpIjoiRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTAiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiV1Z1YzJGcVpTQmxiaUIxYm1FZ1ltOTBaV3hzWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMHZqaUlfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbGVzIHNvbiBsYXMgbWVqb3JlcyBzYWxhcyBkZSBjaW5lIGVuIEJ1ZW5vcyBBaXJlcz8iLCJsayI6IkdpSnRaV3B2Y21WeklITmhiR0Z6SUdSbElHTnBibVVnWW5WbGJtOXpJR0ZwY21WeiIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWEZwZlJvZjNPcFVBMUpma0tKWm1wdVFYNUVEMEtwWG1KeU9hZ1dIV0MxY2hRU2otWk5HMWN5VndXRUx0eVVvc1Zpdk9CVW9uRkNybXBXZmxGSUg0aWlKZVNDbFlMMHVkVW1wb0gxT3FZV1FTeThhU29rWXFVRW5iRlNSQ1ZpU0NWQW93QSIsImlkIjoiZmNfRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTBfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa05GTXdhamxmVkU1d2VqWm5PVU00ZFY5V2FIWm1kVkZzYmkxVk5sRmxObFJGVlRCSVNscHdObmhmUVRKSk5VNTNVRnBZV2twc1gwdHRkWEJ0U0RKWGFWUTRWREkzTkVsRVIxbGlNbFJqWDJwdVJWRkRNbEJHVFdFeFp4SVhSSGxuWjJGS1IzTkRjalpuYTNaUlVIZFBkWFJ0VVRBYUlrRkRSRmhNTkcxaFJXZE9hVXM0VUhCcmRuWkhiRGxVT1RCbWRGaHJSRkJWTTNjIiwiZmN2IjoiMyIsImVpIjoiRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTAiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiV1Z1YzJGcVpTQmxiaUIxYm1FZ1ltOTBaV3hzWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMHZqaUlfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbGVzIHNvbiBsYXMgbWVqb3JlcyBzYWxhcyBkZSBjaW5lIGVuIEJ1ZW5vcyBBaXJlcz8iLCJsayI6IkdpSnRaV3B2Y21WeklITmhiR0Z6SUdSbElHTnBibVVnWW5WbGJtOXpJR0ZwY21WeiIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWEZwZlJvZjNPcFVBMUpma0tKWm1wdVFYNUVEMEtwWG1KeU9hZ1dIV0MxY2hRU2otWk5HMWN5VndXRUx0eVVvc1Zpdk9CVW9uRkNybXBXZmxGSUg0aWlKZVNDbFlMMHVkVW1wb0gxT3FZV1FTeThhU29rWXFVRW5iRlNSQ1ZpU0NWQW93QSIsImlkIjoiZmNfRHlnZ2FKR3NDcjZna3ZRUHdPdXRtUTBfMyJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mensaje en una botella. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/mensaje-en-una-botella-pe19509",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/mensaje-en-una-botella-pe19509&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECB0QAQ",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
+      "thumbnail": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb661660fc1d7cf9c92aa8bde3c86071b4e9c.jpeg",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb661089197f815c65d05353b513c474d643b.png",
+      "date": "1 may 2025",
+      "snippet": "Película de Comedia - Duración: 123 min ; Título original: Mensaje en una botella ; Estreno: 01.05.2025 ; Clasificación: Apta para mayores de 13 ...",
+      "snippet_highlighted_words": [
+        "Película",
+        "Mensaje en una botella"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 2,
+      "title": "Mensaje En Una Botella",
+      "link": "https://www.multiplex.com.ar/peliculas/mensaje-en-una-botella/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/mensaje-en-una-botella/&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECBIQAQ",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › mensaje-en-u...",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb661fcdee42ebb4d8e588e48a58414f68860.png",
+      "date": "1 may 2025",
+      "snippet": "Ver Horarios y Comprar Entradas ; Seleccioná el Complejo. Multiplex Belgrano; Multiplex Pilar ; 2D. 2D ; Español. Español ...",
+      "snippet_highlighted_words": [
+        "Ver Horarios"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 3,
+      "title": "mensaje en una botella",
+      "link": "https://www.cinemarkhoyts.com.ar/pelicula/MENSAJE-EN-UNA-BOTELLA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/MENSAJE-EN-UNA-BOTELLA&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECBkQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar › pelicula › MENSAJ...",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb66153047f5152a3aed349dbe300523f8a2c.png",
+      "snippet": "MENSAJE EN UNA BOTELLA. 2h 6m ; Formatos disponibles. 2D ; Duración. 2h 6m ; Fecha de estreno. 01 May, 2025 ; Distribuidor. DIGICINE S.A. ...",
+      "snippet_highlighted_words": [
+        "MENSAJE EN UNA BOTELLA. 2h 6m"
+      ],
+      "missing": [
+        "Buenos",
+        "Aires"
+      ],
+      "source": "Cinemark Hoyts"
+    },
+    {
+      "position": 4,
+      "title": "Mensaje en una botella | Cines | Horarios",
+      "link": "https://m.cinesargentinos.com.ar/horarios/?zona=&cine=&pelicula=10061-mensaje-en-una-botella/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/horarios/%3Fzona%3D%26cine%3D%26pelicula%3D10061-mensaje-en-una-botella/&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECCoQAQ",
+      "displayed_link": "https://m.cinesargentinos.com.ar › horarios › pelicula=10...",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb661ba4fc68068987701904e7467fd0d20f0.png",
+      "snippet": "Momentáneamente no hay una empresa que reúna los horarios de los cines. Pronto esperamos poder tener nuevamente el servicio de horarios.",
+      "snippet_highlighted_words": [
+        "Momentáneamente no hay una empresa que reúna los horarios de los cines"
+      ],
+      "source": "Cines Argentinos"
+    },
+    {
+      "position": 5,
+      "title": "Cine Gaumont",
+      "link": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.incaa.gob.ar/programacion-cine-gaumont/&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECCsQAQ",
+      "displayed_link": "https://www.incaa.gob.ar › Novedades",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb6612bfe6f7ad98b7ff5b14d4d11d3375c94.png",
+      "snippet": "MENSAJE EN UNA BOTELLA • Dirección: Gabriel Nesci • Género: Comedia dramática • Fechas: 08/05/2025 al 14/05/2025 • Horarios: 12:45 (semana completa) – 17:30 ...",
+      "snippet_highlighted_words": [
+        "12:45 (semana completa) –"
+      ],
+      "source": "INCAA"
+    },
+    {
+      "position": 6,
+      "title": "Cines Multiplex: Películas en Cartelera",
+      "link": "https://www.multiplex.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECCgQAQ",
+      "displayed_link": "https://www.multiplex.com.ar",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb661a91ecec269eb0fa5674a4f81e35d957c.png",
+      "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
+      "snippet_highlighted_words": [
+        "horarios",
+        "películas"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 7,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECCkQAQ",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb661306c0c3f398acf72e74f1529c60f49a1.png",
+      "snippet": "Película, CONCLAVE, DIAMANTI, ENCERRADO, ESPERANDO LA CARROZA (40 ANIV) ... MENSAJE EN UNA BOTELLA. EN CARTELERA. pel2. 2D. MARS EXPRESS. 88 min | SAM13.",
+      "snippet_highlighted_words": [
+        "Película",
+        "MENSAJE EN UNA BOTELLA",
+        "CARTELERA"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 8,
+      "title": "Cinema Adrogue on Instagram: \"SORTEO Avant Premiere ...",
+      "link": "https://www.instagram.com/p/DI4QaZwJQas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DI4QaZwJQas/&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQFnoECDYQAQ",
+      "displayed_link": "Más de 80 \"me gusta\" · hace 2 semanas",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRtupj5JQCPd_QhCAVJpyIn0TzYZA_PZWwhEfqev3il_10l1GyTN5&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/6820280c69819d3901e3e413/images/8be3a580dcc334efc8c8ae7d0ffbb661f084051b4fb8fa59979ba4b0b3380bfe.png",
+      "snippet": "🎟️ Se sortean 30 pares de entradas para la Avant Premiere de MENSAJE EN UNA BOTELLA el día Martes 29 de Abril a las 19.20hs en Cinema Adrogué.",
+      "snippet_highlighted_words": [
+        "MENSAJE EN UNA BOTELLA",
+        "Cinema"
+      ],
+      "source": "Instagram · cinemaadrogue"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&udm=7&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sa=X&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8ccDKAJ6BAgREAQ",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=10&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=10&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=20&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=30&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=40&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=50&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=60&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=70&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=80&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=DyggaJGsCr6gkvQPwOutmQ0&start=90&sa=N&sstk=Af40H4XMND9662sUEnlyn7mJWcBMoaqb-wHf_XMYxfSJC3O5msQFVuzUvwRq9xxJPX7nmc_p5iVBwBMOq3yinTi4uhpW09w4_fzl9w&ved=2ahUKEwjR74XaypqNAxU-kIQIHcB1K9MQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mensaje+en+una+botella+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "search_metadata": {
+    "id": "682019a4a7d7846c567ee262",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cfafa3a325dd210e/682019a4a7d7846c567ee262.json",
+    "created_at": "2025-05-11 03:29:40 UTC",
+    "processed_at": "2025-05-11 03:29:40 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/cfafa3a325dd210e/682019a4a7d7846c567ee262.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Mars Express horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Mars Express horarios cines Buenos Aires",
+    "total_results": 3370,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "¿Qué película están dando ahora en los cines?",
+      "snippet": null,
+      "title": "Te esperamos en nuestros complejos de CABA y GBA",
+      "link": "https://www.multiplex.com.ar/",
+      "list": [
+        "anticipada. Lilo & Stitch.",
+        "Thunderbolts*",
+        "anticipada. Destino Final: Lazos De Sangre.",
+        "anticipada. Mision Imposible: La Sentencia Final.",
+        "Una Pelicula De Minecraft.",
+        "estreno. Karate Kid: Leyendas.",
+        "Mazel Tov.",
+        "estreno. Encerrado."
+      ],
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/772c8d4fa3792d537d4c88261257d25873a8b8e5b9965e6e194ddd0a7822ed79.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv1F1w6kgcGVsw61jdWxhIGVzdMOhbiBkYW5kbyBhaG9yYSBlbiBsb3MgY2luZXM/IiwibGsiOiJHaTV4ZGNPcElIQmxiTU90WTNWc1lTQmxjM1REb1c0Z1pHRnVaRzhnWVdodmNtRWdaVzRnYkc5eklHTnBibVZ6IiwiYnMiOiJjNTJRc1VvRFFSQ0dTWkZtSzV0QXVHb1FpNUFpNkZVQk1jR0VQSUJQSU9QdVFFNzJaaS03TzJCdGxkZElhV0hsQXdSeWpiNlZ1MTZob0FSaU9idmZOX19NcUxXNk91enZwSDJCaG16N3FzVWlVSWp0anNFZ0d3ZTRkajQ5TVZnWFFGZE1ZVDU4bTVhWHhXUnprcVcwbWg3MlMybDNsZ0lFbDc0d1FFMlB6dWNhYzJYb2k4M2VRb2lUZWx2NUhQZ3hLQy1LODdfaGg0N0VUS3A3TmVsQ09EclFrbVpDeUxOeDlHZ1EwSFpPTFRaV2phV24tWEM3S3NmRlNBdG1JM1dtbzd4NjdxblpkMEtzcUc0Y0dFbkxDdVBQYXpCbzlKRXNfYnJlZTctOEthNzFfMXVjOVQ0QiIsImlkIjoiZmNfcFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU1fMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv1F1w6kgcGVsw61jdWxhIGVzdMOhbiBkYW5kbyBhaG9yYSBlbiBsb3MgY2luZXM%2FIiwibGsiOiJHaTV4ZGNPcElIQmxiTU90WTNWc1lTQmxjM1REb1c0Z1pHRnVaRzhnWVdodmNtRWdaVzRnYkc5eklHTnBibVZ6IiwiYnMiOiJjNTJRc1VvRFFSQ0dTWkZtSzV0QXVHb1FpNUFpNkZVQk1jR0VQSUJQSU9QdVFFNzJaaS03TzJCdGxkZElhV0hsQXdSeWpiNlZ1MTZob0FSaU9idmZOX19NcUxXNk91enZwSDJCaG16N3FzVWlVSWp0anNFZ0d3ZTRkajQ5TVZnWFFGZE1ZVDU4bTVhWHhXUnprcVcwbWg3MlMybDNsZ0lFbDc0d1FFMlB6dWNhYzJYb2k4M2VRb2lUZWx2NUhQZ3hLQy1LODdfaGg0N0VUS3A3TmVsQ09EclFrbVpDeUxOeDlHZ1EwSFpPTFRaV2phV24tWEM3S3NmRlNBdG1JM1dtbzd4NjdxblpkMEtzcUc0Y0dFbkxDdVBQYXpCbzlKRXNfYnJlZTctOEthNzFfMXVjOVQ0QiIsImlkIjoiZmNfcFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU1fMyJ9"
+    },
+    {
+      "question": "¿Cuáles son las mejores salas de cine en Buenos Aires?",
+      "snippet": null,
+      "title": "10 MEJORES Cines en Buenos Aires (Actualizado 2025) - Tripadvisor",
+      "link": "https://www.tripadvisor.com.ar/Attractions-g312741-Activities-c56-t97-Buenos_Aires_Capital_Federal_District.html",
+      "list": [
+        "Cine Gaumont. 4,5. Cines Montserrat. De paulamarisak. ... ",
+        "Village Recoleta. 4,2. 147. Cines Recoleta. ... ",
+        "Cinemark Palermo. 3,8. Cines Palermo. De 575isabelv. ... ",
+        "Cinépolis Caballito. 3,8. 115. Cines Caballito. ... ",
+        "Showcase Cinemas. 3,8. Cines Belgrano. ... ",
+        "Cine Lorca. 3,9. Cines San Nicolás. ... ",
+        "Cinemark Caballito. 3,7. Cines Almagro. ... ",
+        "Hoyts. 3,9. Cines Saavedra."
+      ],
+      "displayed_link": "https://www.tripadvisor.com.ar › Attractions-g312741-A...",
+      "source_logo": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/772c8d4fa3792d537d4c88261257d258bd7024be8660791cf6138c0ea3a45d51.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBtZWpvcmVzIHNhbGFzIGRlIGNpbmUgZW4gQnVlbm9zIEFpcmVzPyIsImxrIjoiR2lKdFpXcHZjbVZ6SUhOaGJHRnpJR1JsSUdOcGJtVWdZblZsYm05eklHRnBjbVZ6IiwiYnMiOiJjNTJRc1VvRFFSQ0dTWkZtSzV0QXVHb1FpNUFpNkZVQk1jR0VQSUJQSU9QdVFFNzJaaS03TzJCdGxkZElhV0hsQXdSeWpiNlZ1MTZob0FSaU9idmZOX19NcUxXNk91enZwSDJCaG16N3FzVWlVSWp0anNFZ0d3ZTRkajQ5TVZnWFFGZE1ZVDU4bTVhWHhXUnprcVcwbWg3MlMybDNsZ0lFbDc0d1FFMlB6dWNhYzJYb2k4M2VRb2lUZWx2NUhQZ3hLQy1LODdfaGg0N0VUS3A3TmVsQ09EclFrbVpDeUxOeDlHZ1EwSFpPTFRaV2phV24tWEM3S3NmRlNBdG1JM1dtbzd4NjdxblpkMEtzcUc0Y0dFbkxDdVBQYXpCbzlKRXNfYnJlZTctOEthNzFfMXVjOVQ0QiIsImlkIjoiZmNfcFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU1fMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBtZWpvcmVzIHNhbGFzIGRlIGNpbmUgZW4gQnVlbm9zIEFpcmVzPyIsImxrIjoiR2lKdFpXcHZjbVZ6SUhOaGJHRnpJR1JsSUdOcGJtVWdZblZsYm05eklHRnBjbVZ6IiwiYnMiOiJjNTJRc1VvRFFSQ0dTWkZtSzV0QXVHb1FpNUFpNkZVQk1jR0VQSUJQSU9QdVFFNzJaaS03TzJCdGxkZElhV0hsQXdSeWpiNlZ1MTZob0FSaU9idmZOX19NcUxXNk91enZwSDJCaG16N3FzVWlVSWp0anNFZ0d3ZTRkajQ5TVZnWFFGZE1ZVDU4bTVhWHhXUnprcVcwbWg3MlMybDNsZ0lFbDc0d1FFMlB6dWNhYzJYb2k4M2VRb2lUZWx2NUhQZ3hLQy1LODdfaGg0N0VUS3A3TmVsQ09EclFrbVpDeUxOeDlHZ1EwSFpPTFRaV2phV24tWEM3S3NmRlNBdG1JM1dtbzd4NjdxblpkMEtzcUc0Y0dFbkxDdVBQYXpCbzlKRXNfYnJlZTctOEthNzFfMXVjOVQ0QiIsImlkIjoiZmNfcFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU1fMyJ9"
+    },
+    {
+      "question": "¿Cuánto cuesta la entrada al cine multiplex?",
+      "snippet": null,
+      "title": "Visión general creada por IA",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=es-AR",
+      "list": [
+        "Multiplex Lavalle: Entradas 2D: $5.000 Entradas 2D XTREMO: $5.000 Entradas 3D: $6.000 Entradas 3D XTREMO: $6.000  ",
+        "Entradas 2D: $5.000 ",
+        "Entradas 2D XTREMO: $5.000 ",
+        "Entradas 3D: $6.000 ",
+        "Entradas 3D XTREMO: $6.000  ",
+        "Cinépolis (Salas tradicionales): Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  Entrada general 2D: $11.600.  Entrada general 3D: $11.600.  Niños y mayores de 65 años: $8.200.  ",
+        "Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  ",
+        "Entrada general 2D: $11.600.  ",
+        "Entrada general 3D: $11.600.  ",
+        "Niños y mayores de 65 años: $8.200.  ",
+        "Promociones: En algunos cines, hay promociones de 50% de descuento en días específicos.  Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  Cines Multiplex también tiene promociones 2x1 online.  ",
+        "En algunos cines, hay promociones de 50% de descuento en días específicos.  ",
+        "Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  ",
+        "Cines Multiplex también tiene promociones 2x1 online.  ",
+        "Cargo por servicio: En las compras online se puede agregar un cargo por servicio de $400 por entrada.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY3Vlc3RhIGxhIGVudHJhZGEgYWwgY2luZSBtdWx0aXBsZXg/IiwibGsiOiJHaWhqZFdGdWRHOGdjMkZzWlNCc1lTQmxiblJ5WVdSaElHRnNJR05wYm1VZ2JYVnNkR2x3YkdWNCIsImJzIjoiYzUyUXNVb0RRUkNHU1pGbUs1dEF1R29RaTVBaTZGVUJNY0dFUElCUElPUHVRRTcyWmktN08yQnRsZGRJYVdIbEF3UnlqYjZWdTE2aG9BUmlPYnZmTl9fTXFMVzZPdXp2cEgyQmhtejdxc1VpVUlqdGpzRWdHd2U0ZGo0OU1WZ1hRRmRNWVQ1OG01YVh4V1J6a3FXMG1oNzJTMmwzbGdJRWw3NHdRRTJQenVjYWMyWG9pODNlUW9pVGVsdjVIUGd4S0MtSzg3X2hoNDdFVEtwN05lbENPRHJRa21aQ3lMTng5R2dRMEhaT0xUWldqYVduLVhDN0tzZkZTQXRtSTNXbW83eDY3cW5aZDBLc3FHNGNHRW5MQ3VQUGF6Qm85SkVzX2JyZWU3LThLYTcxXzF1YzlUNEIiLCJpZCI6ImZjX3BSa2dhTXlWRnFTM3B0UVBrdktkb1FNXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY3Vlc3RhIGxhIGVudHJhZGEgYWwgY2luZSBtdWx0aXBsZXg%2FIiwibGsiOiJHaWhqZFdGdWRHOGdjMkZzWlNCc1lTQmxiblJ5WVdSaElHRnNJR05wYm1VZ2JYVnNkR2x3YkdWNCIsImJzIjoiYzUyUXNVb0RRUkNHU1pGbUs1dEF1R29RaTVBaTZGVUJNY0dFUElCUElPUHVRRTcyWmktN08yQnRsZGRJYVdIbEF3UnlqYjZWdTE2aG9BUmlPYnZmTl9fTXFMVzZPdXp2cEgyQmhtejdxc1VpVUlqdGpzRWdHd2U0ZGo0OU1WZ1hRRmRNWVQ1OG01YVh4V1J6a3FXMG1oNzJTMmwzbGdJRWw3NHdRRTJQenVjYWMyWG9pODNlUW9pVGVsdjVIUGd4S0MtSzg3X2hoNDdFVEtwN05lbENPRHJRa21aQ3lMTng5R2dRMEhaT0xUWldqYVduLVhDN0tzZkZTQXRtSTNXbW83eDY3cW5aZDBLc3FHNGNHRW5MQ3VQUGF6Qm85SkVzX2JyZWU3LThLYTcxXzF1YzlUNEIiLCJpZCI6ImZjX3BSa2dhTXlWRnFTM3B0UVBrdktkb1FNXzMifQ%3D%3D"
+    },
+    {
+      "question": "¿Cuánto tiempo dura una película en cartelera en los cines?",
+      "snippet": "La duración media, como vemos, es de unas cuatro semanas, y también puede verse afectada por el tamaño del cine.",
+      "title": "¿Cuánto duran los estrenos en el cine? - ADSLZone",
+      "date": "18 dic 2024",
+      "link": "https://www.adslzone.net/reportajes/internet/peliculas-cartelera-cine/#:~:text=La%20duraci%C3%B3n%20media%2C%20como%20vemos,por%20el%20tama%C3%B1o%20del%20cine.",
+      "displayed_link": "https://www.adslzone.net › peliculas-cartelera-cine",
+      "source_logo": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/772c8d4fa3792d537d4c88261257d25808d11a3506fc575822b910686198ec86.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv0N1w6FudG8gdGllbXBvIGR1cmEgdW5hIHBlbMOtY3VsYSBlbiBjYXJ0ZWxlcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiYzVPeVRpNDl2REN2SkYtaEpETTF0eUJmSWFXMEtGR2hOQzlSb1NBMTVfRGE1TktjUklYVVBJWGt4S0tTMUp6VUlqQW5KNzlZSVRrekw3VVlBQSIsImJzIjoiYzUyUXNVb0RRUkNHU1pGbUs1dEF1R29RaTVBaTZGVUJNY0dFUElCUElPUHVRRTcyWmktN08yQnRsZGRJYVdIbEF3UnlqYjZWdTE2aG9BUmlPYnZmTl9fTXFMVzZPdXp2cEgyQmhtejdxc1VpVUlqdGpzRWdHd2U0ZGo0OU1WZ1hRRmRNWVQ1OG01YVh4V1J6a3FXMG1oNzJTMmwzbGdJRWw3NHdRRTJQenVjYWMyWG9pODNlUW9pVGVsdjVIUGd4S0MtSzg3X2hoNDdFVEtwN05lbENPRHJRa21aQ3lMTng5R2dRMEhaT0xUWldqYVduLVhDN0tzZkZTQXRtSTNXbW83eDY3cW5aZDBLc3FHNGNHRW5MQ3VQUGF6Qm85SkVzX2JyZWU3LThLYTcxXzF1YzlUNEIiLCJpZCI6ImZjX3BSa2dhTXlWRnFTM3B0UVBrdktkb1FNXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa2RYWXdTRTVET1hsemFHcEtTekpKYzJKR09VdEdUbmgxVjJaaFVrSnFaMDAxTFdWTGFEWXphWFl3ZWs5MlUyVjFRMkkzYzA5a2JFdDBZWFJRTTNwaU5ISm9SRFp0VFhoc2FHY3hVRTFxT0UxZmRYaEhhV1ZPUWs5aVp4SVhjRkpyWjJGTmVWWkdjVk16Y0hSUlVHdDJTMlJ2VVUwYUlrRkRSRmhNTkd4d1ltVXlURFk0T0V0NFpHcGxlSFJDVUVkQllVOVhRM1ZsVkVFIiwiZmN2IjoiMyIsImVpIjoicFJrZ2FNeVZGcVMzcHRRUGt2S2RvUU0iLCJxYyI6IkNqSndaV3pEcldOMWJHRWdiV0Z5Y3lCbGVIQnlaWE56SUdodmNtRnlhVzl6SUdOcGJtVnpJR0oxWlc1dmN5QmhhWEpsY3hBT2ZVb01Jai1pQVFKbGN3IiwicXVlc3Rpb24iOiLCv0N1w6FudG8gdGllbXBvIGR1cmEgdW5hIHBlbMOtY3VsYSBlbiBjYXJ0ZWxlcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiYzVPeVRpNDl2REN2SkYtaEpETTF0eUJmSWFXMEtGR2hOQzlSb1NBMTVfRGE1TktjUklYVVBJWGt4S0tTMUp6VUlqQW5KNzlZSVRrekw3VVlBQSIsImJzIjoiYzUyUXNVb0RRUkNHU1pGbUs1dEF1R29RaTVBaTZGVUJNY0dFUElCUElPUHVRRTcyWmktN08yQnRsZGRJYVdIbEF3UnlqYjZWdTE2aG9BUmlPYnZmTl9fTXFMVzZPdXp2cEgyQmhtejdxc1VpVUlqdGpzRWdHd2U0ZGo0OU1WZ1hRRmRNWVQ1OG01YVh4V1J6a3FXMG1oNzJTMmwzbGdJRWw3NHdRRTJQenVjYWMyWG9pODNlUW9pVGVsdjVIUGd4S0MtSzg3X2hoNDdFVEtwN05lbENPRHJRa21aQ3lMTng5R2dRMEhaT0xUWldqYVduLVhDN0tzZkZTQXRtSTNXbW83eDY3cW5aZDBLc3FHNGNHRW5MQ3VQUGF6Qm85SkVzX2JyZWU3LThLYTcxXzF1YzlUNEIiLCJpZCI6ImZjX3BSa2dhTXlWRnFTM3B0UVBrdktkb1FNXzMifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Cines Multiplex: Películas en Cartelera",
+      "link": "https://www.multiplex.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECBgQAQ",
+      "displayed_link": "https://www.multiplex.com.ar",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bce7efa0f0e694b23fcf9de1be6f158366.png",
+      "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
+      "snippet_highlighted_words": [
+        "horarios",
+        "películas"
+      ],
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 2,
+      "title": "Mars Express",
+      "link": "https://www.multiplex.com.ar/peliculas/mars-express/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/mars-express/&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECBoQAQ",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › mars-express",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bc3051d380a21a22e852f0acf92ab025d3.png",
+      "date": "hace 3 días",
+      "snippet": "Aline Ruby es una detective privada muy testaruda, y su compañero Carlos Rivera lleva muerto cinco años, pero se ha 'reencarnado' en el cuerpo ...",
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 3,
+      "title": "Mars Express. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/mars-express-pe19523",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/mars-express-pe19523&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECB0QAQ",
+      "displayed_link": "https://www.lanacion.com.ar › mars-express-pe19523",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bc55b7da76ef1928295e7e40461379a82b.png",
+      "date": "hace 3 días",
+      "snippet": "FUNCIONES DE MARS EXPRESS ; Belgrano Multiplex · subtitulada: 17:25 ; Cine Ambassador · subtitulada: 17:40 ; Cinema Devoto · subtitulada: 18:40 ...",
+      "snippet_highlighted_words": [
+        "FUNCIONES DE MARS EXPRESS"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 4,
+      "title": "Cartelera de Cines Showcase | IMAX - Consultá Entradas 2x1",
+      "link": "https://www.todoshowcase.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECBUQAQ",
+      "displayed_link": "https://www.todoshowcase.com",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bc263e86b436e31800e57802432d4a4809.png",
+      "snippet": "Encerrado. ESTRENO. La carga más preciada. ESTRENO. Mars express. ESTRENO. La noche de los tres fuegos. ESTRENO. Esperando la carroza. ESTRENO. Unidos por la ...",
+      "snippet_highlighted_words": [
+        "Mars express"
+      ],
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 5,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECBsQAQ",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bcda0aec5212039459356a0a75f0688043.png",
+      "snippet": "Película, CONCLAVE, DIAMANTI, ENCERRADO, ESPERANDO LA CARROZA (40 ANIV), INFIERNO ... MARS EXPRESS. EN CARTELERA. pel2. 2D. MISERICORDIA. 104 min | SAM16. Drama.",
+      "snippet_highlighted_words": [
+        "Película",
+        "MARS EXPRESS",
+        "CARTELERA"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 6,
+      "title": "Mars Express - Horarios",
+      "link": "https://m.cinesargentinos.com.ar/horarios/?zona=&cine=&pelicula=10092-mars-express/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/horarios/%3Fzona%3D%26cine%3D%26pelicula%3D10092-mars-express/&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECBwQAQ",
+      "displayed_link": "https://m.cinesargentinos.com.ar › horarios › pelicula=10...",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bcdc344cd73901ab9d0ce47f2f96a89de2.png",
+      "snippet": "Momentáneamente no hay una empresa que reúna los horarios de los cines. Pronto esperamos poder tener nuevamente el servicio de horarios.",
+      "snippet_highlighted_words": [
+        "Momentáneamente no hay una empresa que reúna los horarios de los cines"
+      ],
+      "source": "Cines Argentinos"
+    },
+    {
+      "position": 7,
+      "title": "CINES SHOWCASE | Cartelera belgrano",
+      "link": "https://www.todoshowcase.com/cartelera/belgrano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/cartelera/belgrano&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECBYQAQ",
+      "displayed_link": "https://www.todoshowcase.com › cartelera › belgrano",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bc705c31ea89ea3baea81057c72ddc7d37.png",
+      "snippet": "Calificación: SM13S. Ver Tráiler · COMPRAR. Formatos y horarios. -2D-Doblada 19:25 -2D-Subtitulado 19:50 22:10. Sinopsis. ESTRENO. Mars express. Duración: 88 ...",
+      "snippet_highlighted_words": [
+        "2D-Doblada 19:25 -2D-Subtitulado 19:50 22:10"
+      ],
+      "source": "Showcase Belgrano"
+    },
+    {
+      "position": 8,
+      "title": "Agenda de Cine – Cartelera y próximos estrenos en Argentina.",
+      "link": "https://agendadecine.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agendadecine.ar/&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECDkQAQ",
+      "displayed_link": "https://agendadecine.ar",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bc96e13bed09a607a3401ec6e9c6ba8598.png",
+      "snippet": "VER HORARIOS · Nancy · VER HORARIOS · El Clan (2015) · VER HORARIOS · MB FILMS - MARS EXPRESS. Mars Express · VER HORARIOS · ESPERANDO LA CARROZA POSTER ...",
+      "snippet_highlighted_words": [
+        "Express"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cines",
+            "link": "https://agendadecine.ar/cines/"
+          },
+          {
+            "title": "En Cartel",
+            "link": "https://agendadecine.ar/en-cartel/"
+          },
+          {
+            "title": "Próximos Estrenos",
+            "link": "https://agendadecine.ar/proximos-estrenos/"
+          },
+          {
+            "title": "Ciclos y Festivales",
+            "link": "https://agendadecine.ar/ciclos-y-festivales/"
+          }
+        ]
+      },
+      "source": "Agenda de Cine"
+    },
+    {
+      "position": 9,
+      "title": "Cartelera de Cine de Argentina - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECDsQAQ",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bc4284826bf5d3adc48e35bc2a41e38c1f.png",
+      "snippet": "Mars Express. Nancy. VER MÁS PELÍCULAS. SALAS DE CINE. Todas las salas, Boulevard Cine, Cine Cervantes, Cine Teatro San Martín, Gran Libertad ...",
+      "snippet_highlighted_words": [
+        "Mars Express"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cartelera de cine Atlas Cines",
+            "link": "https://www.lanacion.com.ar/cartelera-de-cine/cine/atlas-cines-ci9"
+          },
+          {
+            "title": "Cinemark Hoyts",
+            "link": "https://www.lanacion.com.ar/cartelera-de-cine/cine/cinemark-hoyts-ci3"
+          },
+          {
+            "title": "Anora",
+            "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/anora-pe19245"
+          },
+          {
+            "title": "Aún estoy aquí",
+            "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/aun-estoy-aqui-pe19370"
+          }
+        ]
+      },
+      "source": "La Nación"
+    },
+    {
+      "position": 10,
+      "title": "Cartelera Cinematográfica en Cinema La Plata",
+      "link": "https://www.cinemalaplata.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemalaplata.com/&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQFnoECDoQAQ",
+      "displayed_link": "https://www.cinemalaplata.com",
+      "favicon": "https://serpapi.com/searches/682019a4a7d7846c567ee262/images/0c59f78499ff00cb86ae3c015d5475bc85ee7702f95ff9f27bc78e02d732dcd5.png",
+      "snippet": "LA NOCHE DE LOS TRES FUEGOS · ENTRADAS · MARS EXPRESS. ESTRENO · MARS EXPRESS · ENTRADAS · UNIDOS POR LA MÚSICA. ESTRENO · UNIDOS POR LA ...",
+      "snippet_highlighted_words": [
+        "MARS EXPRESS"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Una película de minecraft",
+            "link": "https://www.cinemalaplata.com/Titulos/Index/6819"
+          },
+          {
+            "title": "Una película de looney tunes",
+            "link": "https://www.cinemalaplata.com/Titulos/Index/6863"
+          },
+          {
+            "title": "Cinema rocha",
+            "link": "https://www.cinemalaplata.com/Home/Cine/6"
+          },
+          {
+            "title": "Moana 2",
+            "link": "https://www.cinemalaplata.com/Titulos/Index/6652"
+          }
+        ]
+      },
+      "source": "Cinema La Plata"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Horarios de salas de cine en Buenos Aires",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine Cinemark",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+cine+Cinemark&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+Cinemark"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine hoyts",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+cine+hoyts&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+hoyts"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Belgrano Cartelera",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Belgrano+Cartelera&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Belgrano+Cartelera"
+    },
+    {
+      "block_position": 1,
+      "query": "Multiplex CARTELERA",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+CARTELERA&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Multiplex+CARTELERA"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Atlas Flores cartelera precios",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Atlas+Flores+cartelera+precios&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Atlas+Flores+cartelera+precios"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Lavalle cartelera",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Lavalle+cartelera&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Lavalle+cartelera"
+    },
+    {
+      "block_position": 1,
+      "query": "2x1 cine Atlas",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=2x1+cine+Atlas&sa=X&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=2x1+cine+Atlas"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=10&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=10&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=20&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=30&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=40&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=50&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=60&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=70&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=80&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=pRkgaMyVFqS3ptQPkvKdoQM&start=90&sa=N&sstk=Af40H4XQem2zeSiVVj5v1cYzI3g-gLAxRZSwvPMHXtRCC4-lrirz1GY3aOsuelgNnspVRi3KfBXjv6a9Pg_TiNGi-A9-V3z0RJlikw&ved=2ahUKEwiM_M36vJqNAxWkm4kEHRJ5JzQQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Mars+Express+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}

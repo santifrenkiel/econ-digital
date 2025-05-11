@@ -1,0 +1,423 @@
+{
+  "search_metadata": {
+    "id": "68202810f3fc7b0c982f0124",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fbb46a1ec77add2c/68202810f3fc7b0c982f0124.json",
+    "created_at": "2025-05-11 04:31:12 UTC",
+    "processed_at": "2025-05-11 04:31:12 UTC",
+    "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/fbb46a1ec77add2c/68202810f3fc7b0c982f0124.html",
+    "total_time_taken": 1.77
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "película Infierno en el pantano horarios cines Buenos Aires",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "película Infierno en el pantano horarios cines Buenos Aires",
+    "total_results": 5870,
+    "time_taken_displayed": 0.52,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "¿Qué película están dando ahora en los cines?",
+      "snippet": null,
+      "title": "Te esperamos en nuestros complejos de CABA y GBA",
+      "link": "https://www.multiplex.com.ar/",
+      "list": [
+        "anticipada. Lilo & Stitch.",
+        "Thunderbolts*",
+        "anticipada. Destino Final: Lazos De Sangre.",
+        "anticipada. Mision Imposible: La Sentencia Final.",
+        "Una Pelicula De Minecraft.",
+        "estreno. Karate Kid: Leyendas.",
+        "Mazel Tov.",
+        "estreno. Encerrado."
+      ],
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f1edf8c7c265a0fba03d1639757ba633b4ea51abb4bb7a284.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGJFUTBRVzE0UVVkRVRXeDRVMEpuTkU1TU1sRktZVFpZWm1wS2JsZzRhMEphYlRWMVVtMUZMVGsxWm10cVdUUnNlV3hNZUc1NFFtaHViRE5yU2tsWWEwMUlkRUZCZUVJMlVtdG9XUzFZWmpSMldsVXhZMXBaYm5aRFVSSVhSVk5uWjJGTmJWRkRaa3RyYUdKSlVHbGtVMUkwVVhNYUlrRkRSRmhNTkcxZk5uSnpSMDlPYmpGb2J6TkRVakZaT0VGVmJXVjNkemxRZFZFIiwiZmN2IjoiMyIsImVpIjoiRVNnZ2FNbVFDZktraGJJUGlkU1I0UXMiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdhVzVtYVdWeWJtOGdaVzRnWld3Z2NHRnVkR0Z1YnlCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMW96Ujhfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoW4gZGFuZG8gYWhvcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiR2k1eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9XNGdaR0Z1Wkc4Z1lXaHZjbUVnWlc0Z2JHOXpJR05wYm1WeiIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWFBKZmVvZjNPcFVBMUpma0t5YVZBNVlrS0lHMTVKVVdKS1lrS2lUbGdkUXE1cFRrbG1RVTVxUlgyRWgydVJscFNHc21saVNBZHhZazVxWGpWY3pseXlVRzlrbHFzRUZGU2xKcWJEM0lCa29IZnRJeGtwS1FLUzFOQktpb3dWUWd3QWdBIiwiaWQiOiJmY19FU2dnYU1tUUNmS2toYklQaWRTUjRRc18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGJFUTBRVzE0UVVkRVRXeDRVMEpuTkU1TU1sRktZVFpZWm1wS2JsZzRhMEphYlRWMVVtMUZMVGsxWm10cVdUUnNlV3hNZUc1NFFtaHViRE5yU2tsWWEwMUlkRUZCZUVJMlVtdG9XUzFZWmpSMldsVXhZMXBaYm5aRFVSSVhSVk5uWjJGTmJWRkRaa3RyYUdKSlVHbGtVMUkwVVhNYUlrRkRSRmhNTkcxZk5uSnpSMDlPYmpGb2J6TkRVakZaT0VGVmJXVjNkemxRZFZFIiwiZmN2IjoiMyIsImVpIjoiRVNnZ2FNbVFDZktraGJJUGlkU1I0UXMiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdhVzVtYVdWeWJtOGdaVzRnWld3Z2NHRnVkR0Z1YnlCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMW96Ujhfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoW4gZGFuZG8gYWhvcmEgZW4gbG9zIGNpbmVzPyIsImxrIjoiR2k1eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9XNGdaR0Z1Wkc4Z1lXaHZjbUVnWlc0Z2JHOXpJR05wYm1WeiIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWFBKZmVvZjNPcFVBMUpma0t5YVZBNVlrS0lHMTVKVVdKS1lrS2lUbGdkUXE1cFRrbG1RVTVxUlgyRWgydVJscFNHc21saVNBZHhZazVxWGpWY3pseXlVRzlrbHFzRUZGU2xKcWJEM0lCa29IZnRJeGtwS1FLUzFOQktpb3dWUWd3QWdBIiwiaWQiOiJmY19FU2dnYU1tUUNmS2toYklQaWRTUjRRc18zIn0%3D"
+    },
+    {
+      "question": "¿Cuánto cuesta la entrada al cine multiplex?",
+      "snippet": null,
+      "title": "Visión general creada por IA",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=es-AR",
+      "list": [
+        "Multiplex Lavalle: Entradas 2D: $5.000 Entradas 2D XTREMO: $5.000 Entradas 3D: $6.000 Entradas 3D XTREMO: $6.000  ",
+        "Entradas 2D: $5.000 ",
+        "Entradas 2D XTREMO: $5.000 ",
+        "Entradas 3D: $6.000 ",
+        "Entradas 3D XTREMO: $6.000  ",
+        "Cinépolis (Salas tradicionales): Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  Entrada general 2D: $11.600.  Entrada general 3D: $11.600.  Niños y mayores de 65 años: $8.200.  ",
+        "Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  ",
+        "Entrada general 2D: $11.600.  ",
+        "Entrada general 3D: $11.600.  ",
+        "Niños y mayores de 65 años: $8.200.  ",
+        "Promociones: En algunos cines, hay promociones de 50% de descuento en días específicos.  Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  Cines Multiplex también tiene promociones 2x1 online.  ",
+        "En algunos cines, hay promociones de 50% de descuento en días específicos.  ",
+        "Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  ",
+        "Cines Multiplex también tiene promociones 2x1 online.  ",
+        "Cargo por servicio: En las compras online se puede agregar un cargo por servicio de $400 por entrada.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGJFUTBRVzE0UVVkRVRXeDRVMEpuTkU1TU1sRktZVFpZWm1wS2JsZzRhMEphYlRWMVVtMUZMVGsxWm10cVdUUnNlV3hNZUc1NFFtaHViRE5yU2tsWWEwMUlkRUZCZUVJMlVtdG9XUzFZWmpSMldsVXhZMXBaYm5aRFVSSVhSVk5uWjJGTmJWRkRaa3RyYUdKSlVHbGtVMUkwVVhNYUlrRkRSRmhNTkcxZk5uSnpSMDlPYmpGb2J6TkRVakZaT0VGVmJXVjNkemxRZFZFIiwiZmN2IjoiMyIsImVpIjoiRVNnZ2FNbVFDZktraGJJUGlkU1I0UXMiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdhVzVtYVdWeWJtOGdaVzRnWld3Z2NHRnVkR0Z1YnlCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMW96Ujhfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIGN1ZXN0YSBsYSBlbnRyYWRhIGFsIGNpbmUgbXVsdGlwbGV4PyIsImxrIjoiR2loamRXRnVkRzhnYzJGc1pTQnNZU0JsYm5SeVlXUmhJR0ZzSUdOcGJtVWdiWFZzZEdsd2JHVjQiLCJicyI6ImMtUEs0REk4dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0w4eFRTRW5NUzhsWFNNeklMd0lLNVNuazVCY3JKR2ZtcFJiYlMyeTJNREtRMGlza1NSZFhQSmZlb2YzT3BVQTFKZmtLeWFWQTVZa0tJRzE1SlVXSktZa0tpVGxnZFFxNXBUa2xtUVU1cVJYMkVoMnVSbHBTR3NtbGlTQWR4WWs1cVhqVmN6bHl5VUc5a2xxc0VGRlNsSnFiRDNJQmtvSGZ0SXhrcEtRS1MxTkJLaW93VlFnd0FnQSIsImlkIjoiZmNfRVNnZ2FNbVFDZktraGJJUGlkU1I0UXNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGJFUTBRVzE0UVVkRVRXeDRVMEpuTkU1TU1sRktZVFpZWm1wS2JsZzRhMEphYlRWMVVtMUZMVGsxWm10cVdUUnNlV3hNZUc1NFFtaHViRE5yU2tsWWEwMUlkRUZCZUVJMlVtdG9XUzFZWmpSMldsVXhZMXBaYm5aRFVSSVhSVk5uWjJGTmJWRkRaa3RyYUdKSlVHbGtVMUkwVVhNYUlrRkRSRmhNTkcxZk5uSnpSMDlPYmpGb2J6TkRVakZaT0VGVmJXVjNkemxRZFZFIiwiZmN2IjoiMyIsImVpIjoiRVNnZ2FNbVFDZktraGJJUGlkU1I0UXMiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdhVzVtYVdWeWJtOGdaVzRnWld3Z2NHRnVkR0Z1YnlCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMW96Ujhfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIGN1ZXN0YSBsYSBlbnRyYWRhIGFsIGNpbmUgbXVsdGlwbGV4PyIsImxrIjoiR2loamRXRnVkRzhnYzJGc1pTQnNZU0JsYm5SeVlXUmhJR0ZzSUdOcGJtVWdiWFZzZEdsd2JHVjQiLCJicyI6ImMtUEs0REk4dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0w4eFRTRW5NUzhsWFNNeklMd0lLNVNuazVCY3JKR2ZtcFJiYlMyeTJNREtRMGlza1NSZFhQSmZlb2YzT3BVQTFKZmtLeWFWQTVZa0tJRzE1SlVXSktZa0tpVGxnZFFxNXBUa2xtUVU1cVJYMkVoMnVSbHBTR3NtbGlTQWR4WWs1cVhqVmN6bHl5VUc5a2xxc0VGRlNsSnFiRDNJQmtvSGZ0SXhrcEtRS1MxTkJLaW93VlFnd0FnQSIsImlkIjoiZmNfRVNnZ2FNbVFDZktraGJJUGlkU1I0UXNfMyJ9"
+    },
+    {
+      "question": "¿Qué es Xtremo en multiplex?",
+      "snippet": "Este sistema permite proyectar en pantallas gigantes y con una impresionante potencia lumínica producto de la sumatoria de luz que emiten los 2 proyectores funcionando al mismo tiempo y mejorando la experiencia de ver cine en 2D y 3D.",
+      "title": "Cine X-tremo - Cines Multiplex",
+      "link": "https://www.multiplex.com.ar/salas/cine-xtremo/#:~:text=Este%20sistema%20permite%20proyectar%20en,cine%20en%202D%20y%203D.",
+      "displayed_link": "https://www.multiplex.com.ar › salas › cine-xtremo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgap720ZkiqRPH-3jlN5H8X7s7gDzW2ZH09C3u19SeQ&s",
+      "source_logo": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f1edf8c7c265a0fbae1d0fcb3f00deaf10a76edb8b7929eaa.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGJFUTBRVzE0UVVkRVRXeDRVMEpuTkU1TU1sRktZVFpZWm1wS2JsZzRhMEphYlRWMVVtMUZMVGsxWm10cVdUUnNlV3hNZUc1NFFtaHViRE5yU2tsWWEwMUlkRUZCZUVJMlVtdG9XUzFZWmpSMldsVXhZMXBaYm5aRFVSSVhSVk5uWjJGTmJWRkRaa3RyYUdKSlVHbGtVMUkwVVhNYUlrRkRSRmhNTkcxZk5uSnpSMDlPYmpGb2J6TkRVakZaT0VGVmJXVjNkemxRZFZFIiwiZmN2IjoiMyIsImVpIjoiRVNnZ2FNbVFDZktraGJJUGlkU1I0UXMiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdhVzVtYVdWeWJtOGdaVzRnWld3Z2NHRnVkR0Z1YnlCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMW96Ujhfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIGVzIFh0cmVtbyBlbiBtdWx0aXBsZXg/IiwibGsiOiJHaHB4ZFdVZ1pYTWdlSFJ5WlcxdklHVnVJRzExYkhScGNHeGxlQSIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWFBKZmVvZjNPcFVBMUpma0t5YVZBNVlrS0lHMTVKVVdKS1lrS2lUbGdkUXE1cFRrbG1RVTVxUlgyRWgydVJscFNHc21saVNBZHhZazVxWGpWY3pseXlVRzlrbHFzRUZGU2xKcWJEM0lCa29IZnRJeGtwS1FLUzFOQktpb3dWUWd3QWdBIiwiaWQiOiJmY19FU2dnYU1tUUNmS2toYklQaWRTUjRRc18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGJFUTBRVzE0UVVkRVRXeDRVMEpuTkU1TU1sRktZVFpZWm1wS2JsZzRhMEphYlRWMVVtMUZMVGsxWm10cVdUUnNlV3hNZUc1NFFtaHViRE5yU2tsWWEwMUlkRUZCZUVJMlVtdG9XUzFZWmpSMldsVXhZMXBaYm5aRFVSSVhSVk5uWjJGTmJWRkRaa3RyYUdKSlVHbGtVMUkwVVhNYUlrRkRSRmhNTkcxZk5uSnpSMDlPYmpGb2J6TkRVakZaT0VGVmJXVjNkemxRZFZFIiwiZmN2IjoiMyIsImVpIjoiRVNnZ2FNbVFDZktraGJJUGlkU1I0UXMiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdhVzVtYVdWeWJtOGdaVzRnWld3Z2NHRnVkR0Z1YnlCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuMW96Ujhfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIGVzIFh0cmVtbyBlbiBtdWx0aXBsZXg%2FIiwibGsiOiJHaHB4ZFdVZ1pYTWdlSFJ5WlcxdklHVnVJRzExYkhScGNHeGxlQSIsImJzIjoiYy1QSzRESTh0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDh4VFNFbk1TOGxYU016SUx3SUs1U25rNUJjckpHZm1wUmJiUzJ5Mk1ES1EwaXNrU1JkWFBKZmVvZjNPcFVBMUpma0t5YVZBNVlrS0lHMTVKVVdKS1lrS2lUbGdkUXE1cFRrbG1RVTVxUlgyRWgydVJscFNHc21saVNBZHhZazVxWGpWY3pseXlVRzlrbHFzRUZGU2xKcWJEM0lCa29IZnRJeGtwS1FLUzFOQktpb3dWUWd3QWdBIiwiaWQiOiJmY19FU2dnYU1tUUNmS2toYklQaWRTUjRRc18zIn0%3D"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Infierno en el pantano. Cartelera de Cine - La Nación",
+    "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/infierno-en-el-pantano-pe19508",
+    "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
+    "date": "1 may 2025",
+    "snippet": "FUNCIONES DE INFIERNO EN EL PANTANO",
+    "snippet_highlighted_words": [
+      "FUNCIONES DE INFIERNO EN EL PANTANO",
+      "INFIERNO EN EL PANTANO"
+    ],
+    "list": [
+      "Boulevard Cine. COMPRAR ENTRADAS. castellano: 22:00.",
+      "Cinema San Martín. COMPRAR ENTRADAS. castellano: 23:00.",
+      "Cinépolis Avellaneda. COMPRAR ENTRADAS. castellano: 17:10.",
+      "Multiplex Lavalle. COMPRAR ENTRADAS. castellano: 13:20, 23:00."
+    ],
+    "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/077e004622b7d5c5028ba6df99a6db55cea8a157a4d24172.png",
+    "source": "La Nación"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Infierno En El Pantano",
+      "link": "https://www.multiplex.com.ar/peliculas/infierno-en-el-pantano/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/infierno-en-el-pantano/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECB0QAQ",
+      "displayed_link": "https://www.multiplex.com.ar › peliculas › infierno-en-el...",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e445c08eb67e6f2d1396693e7fa0c4fc1e71.png",
+      "date": "1 may 2025",
+      "snippet": "Las vacaciones se convierten en un desastre cuando Kyle, una recién graduada de Houston, y sus amigos sobreviven a un accidente de avión en los ...",
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 2,
+      "title": "Infierno en el pantano",
+      "link": "https://m.cinesargentinos.com.ar/pelicula/10082-infierno-en-el-pantano/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/pelicula/10082-infierno-en-el-pantano/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECBwQAQ",
+      "displayed_link": "https://m.cinesargentinos.com.ar › pelicula › 10082-infie...",
+      "thumbnail": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e4453f85baca4d04e5d61ae5cdb8a8985ec5.jpeg",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e44559638b4ba0c2565b0880bc7fa5b50e76.png",
+      "snippet": "Las vacaciones se convierten en un desastre cuando Kyle, una recién graduada de Houston, y sus amigos sobreviven a un accidente de avión en los desolados ...",
+      "missing": [
+        "Aires"
+      ],
+      "must_include": {
+        "word": "Aires",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+%22Aires%22&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ5t4CegQILRAB"
+      },
+      "source": "Cines Argentinos"
+    },
+    {
+      "position": 3,
+      "title": "Infierno en el pantano | Cines | Horarios",
+      "link": "https://m.cinesargentinos.com.ar/horarios/?zona=&cine=&pelicula=10082-infierno-en-el-pantano/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/horarios/%3Fzona%3D%26cine%3D%26pelicula%3D10082-infierno-en-el-pantano/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECBkQAQ",
+      "displayed_link": "https://m.cinesargentinos.com.ar › horarios › pelicula=10...",
+      "thumbnail": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e445ffb49381234de17afd8223b36baadf31.jpeg",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e44594bfa4bc5e8b4c3af8511aafdc10637a.png",
+      "snippet": "Momentáneamente no hay una empresa que reúna los horarios de los cines. Pronto esperamos poder tener nuevamente el servicio de horarios.",
+      "snippet_highlighted_words": [
+        "Momentáneamente no hay una empresa que reúna los horarios de los cines"
+      ],
+      "source": "Cines Argentinos"
+    },
+    {
+      "position": 4,
+      "title": "INFIERNO EN EL PANTANO",
+      "link": "https://www.cinemarkhoyts.com.ar/pelicula/INFIERNO-EN-EL-PANTANO",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/INFIERNO-EN-EL-PANTANO&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECBoQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar › pelicula › INFIERN...",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e445e6c1bf07c7e3ca9af5bf5e047950df80.png",
+      "snippet": "Seleccioná un cine para ver los horarios... · Género: Terror · Duración: 87min · Actores: Athena Strates, Elisha Applebaum · Director: Brad Watson, Taneli Mustonen ...",
+      "snippet_highlighted_words": [
+        "Seleccioná un cine para ver los horarios"
+      ],
+      "missing": [
+        "Buenos"
+      ],
+      "must_include": {
+        "word": "Buenos",
+        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+%22Buenos%22+Aires&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ5t4CegQILBAB"
+      },
+      "source": "Cinemark Hoyts"
+    },
+    {
+      "position": 5,
+      "title": "Cines Multiplex: Películas en Cartelera",
+      "link": "https://www.multiplex.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECBsQAQ",
+      "displayed_link": "https://www.multiplex.com.ar",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e445c43c3ac2a33beb5d2199eda613afabf2.png",
+      "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
+      "snippet_highlighted_words": [
+        "horarios",
+        "películas"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Multiplex Pilar",
+            "link": "https://www.multiplex.com.ar/complejos/multiplex-palmas-del-pilar/"
+          },
+          {
+            "title": "Multiplex Belgrano",
+            "link": "https://www.multiplex.com.ar/complejos/multiplex-belgrano/"
+          },
+          {
+            "title": "Precios",
+            "link": "https://www.multiplex.com.ar/precios/"
+          },
+          {
+            "title": "Multiplex Canning",
+            "link": "https://www.multiplex.com.ar/complejos/multiplex-canning/"
+          }
+        ]
+      },
+      "source": "Cines Multiplex"
+    },
+    {
+      "position": 6,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECDUQAQ",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e4455cd5b5fe69e02e53c16beb5098e0adbf.png",
+      "snippet": "PELICULAS: Película, CONCLAVE, DIAMANTI, ENCERRADO, ESPERANDO LA CARROZA (40 ANIV), INFIERNO EN EL PANTANO, KARATE KID: LEYENDAS, LA CARGA MÁS PRECIADA, LA ...",
+      "snippet_highlighted_words": [
+        "PELICULAS",
+        "Película",
+        "INFIERNO EN EL PANTANO"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 7,
+      "title": "Agenda de Cine – Cartelera y próximos estrenos en Argentina.",
+      "link": "https://agendadecine.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agendadecine.ar/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECDEQAQ",
+      "displayed_link": "https://agendadecine.ar",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e4451ad1fb88ca118ce21664359c83233e3e.png",
+      "snippet": "Infierno en el pantano · VER HORARIOS · 227 lunas · VER HORARIOS · unnamed ... Las arañas han sido desde siempre un disparador natural del miedo en el cine de ...",
+      "snippet_highlighted_words": [
+        "Infierno en el pantano"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cines",
+            "link": "https://agendadecine.ar/cines/"
+          },
+          {
+            "title": "En Cartel",
+            "link": "https://agendadecine.ar/en-cartel/"
+          },
+          {
+            "title": "Próximos Estrenos",
+            "link": "https://agendadecine.ar/proximos-estrenos/"
+          },
+          {
+            "title": "Ciclos y Festivales",
+            "link": "https://agendadecine.ar/ciclos-y-festivales/"
+          }
+        ]
+      },
+      "source": "Agenda de Cine"
+    },
+    {
+      "position": 8,
+      "title": "Horarios y entradas",
+      "link": "https://www.imdb.com/es/showtimes/AR/C1416/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/es/showtimes/AR/C1416/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECDQQAQ",
+      "displayed_link": "https://www.imdb.com › showtimes",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e445108601ab0fee0226837befd0745861eb.png",
+      "snippet": "Malba Cine - Museo de Arte Latinoamericano de Buenos Aires - MALB. Avenida ... Infierno En El Pantano. 20251h 27m. 4.2 (1.5 k) Calificar. Marcar como visto.",
+      "snippet_highlighted_words": [
+        "Buenos Aires",
+        "Infierno En El Pantano"
+      ],
+      "source": "IMDb"
+    },
+    {
+      "position": 9,
+      "title": "Cartelera Cinematográfica en Cinema La Plata",
+      "link": "https://www.cinemalaplata.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemalaplata.com/&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQFnoECDYQAQ",
+      "displayed_link": "https://www.cinemalaplata.com",
+      "favicon": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/985c04db92608dfd82f74e1d7fe7e445414f410e5085cbddb366f8badf8abd08.png",
+      "snippet": "Sitio oficial de la cadena Cinema La Plata. Información de cartelera y salas cinematográficas. Detalles de películas. Futuros estrenos. Trailers y avances.",
+      "snippet_highlighted_words": [
+        "Cinema",
+        "cartelera",
+        "películas"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Una película de minecraft",
+            "link": "https://www.cinemalaplata.com/Titulos/Index/6819"
+          },
+          {
+            "title": "Una película de looney tunes",
+            "link": "https://www.cinemalaplata.com/Titulos/Index/6863"
+          },
+          {
+            "title": "Cinema rocha",
+            "link": "https://www.cinemalaplata.com/Home/Cine/6"
+          },
+          {
+            "title": "Moana 2",
+            "link": "https://www.cinemalaplata.com/Titulos/Index/6652"
+          }
+        ]
+      },
+      "source": "Cinema La Plata"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Multiplex Belgrano",
+          "image": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f6db91c90ec18f50dc626f4f28e70c857c5092f76c13f8cf6c4931b45865e5343.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Multiplex+Belgrano&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEnPKTAyTv_FyLCBheEVCy8XsugrFn4uXhDfMLmoqiK-MqsAIVJQZZiRkZFsBtdTZl5QlVdggjAjuaI8zcIYoSOtxKiy0tyoCCGSZJaenm6cnvKKhY-LBySSkWxSBhS0gBtiZGhYmJueC1dQZWRmUmBUkLaIVci3NKcksyAntULBKTUnvSgxL_8WmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMAzDoeiAgBAAA&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQs9oBKAB6BAgyEAk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Multiplex+Belgrano&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEnPKTAyTv_FyLCBheEVCy8XsugrFn4uXhDfMLmoqiK-MqsAIVJQZZiRkZFsBtdTZl5QlVdggjAjuaI8zcIYoSOtxKiy0tyoCCGSZJaenm6cnvKKhY-LBySSkWxSBhS0gBtiZGhYmJueC1dQZWRmUmBUkLaIVci3NKcksyAntULBKTUnvSgxL_8WmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMAzDoeiAgBAAA"
+        },
+        {
+          "name": "Cinemark Hoyts Dot",
+          "image": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f6db91c90ec18f50dc626f4f28e70c85789bb935e6570c9bd434b13768b5761ee.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+Hoyts+DOT&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuqqqIr8wq-MXIsIGF4RULLxc3SLwkPafAyDj9FQs_F6o6hEhBlWFGRkayGVxPmXlBVV6BCcKM5IryNAtjhI60EqPKSnOjIoRIkll6erpxesorFj4uHpBIRrJJGVDQAm6IkaFhYW56LlxBlZGZSYFRQdoiVj7nzLxUBY_8ypJiBRf_kFtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjAC6kehrBgEAAA&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQs9oBKAB6BAgyEA4",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Hoyts+DOT&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuqqqIr8wq-MXIsIGF4RULLxc3SLwkPafAyDj9FQs_F6o6hEhBlWFGRkayGVxPmXlBVV6BCcKM5IryNAtjhI60EqPKSnOjIoRIkll6erpxesorFj4uHpBIRrJJGVDQAm6IkaFhYW56LlxBlZGZSYFRQdoiVj7nzLxUBY_8ypJiBRf_kFtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjAC6kehrBgEAAA"
+        },
+        {
+          "name": "Atlas Caballito",
+          "image": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f6db91c90ec18f50dc626f4f28e70c857c4be4bf42541ce76a13cd9740d0d2e93.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Atlas+Caballito&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyoMszIyEg2-8XIsIGF4RULLxc3SLwkPafAyDj9FQs_F0RdclFVRXxlVgFCBKYTrqfMvKAqr8AEYUZyRXmahTFCR1qJUWWluVERQiTJLD093Tg95RULHxcPSCQj2aQMKGgBN8TI0LAwNz0XrqDKyMykwKggbRErv2NJTmKxgnNiUmJOTmZJ_i02SYYwv_DPiTMOs73bV5VWnKDIpTkr-tGBe1brFnEIhSTmJmUeXpmnUJyqkFRanHx48woORgAYDoScBwEAAA&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQs9oBKAB6BAgyEBM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Atlas+Caballito&stick=H4sIAAAAAAAAAOMwVOLVT9c3NCyoMszIyEg2-8XIsIGF4RULLxc3SLwkPafAyDj9FQs_F0RdclFVRXxlVgFCBKYTrqfMvKAqr8AEYUZyRXmahTFCR1qJUWWluVERQiTJLD093Tg95RULHxcPSCQj2aQMKGgBN8TI0LAwNz0XrqDKyMykwKggbRErv2NJTmKxgnNiUmJOTmZJ_i02SYYwv_DPiTMOs73bV5VWnKDIpTkr-tGBe1brFnEIhSTmJmUeXpmnUJyqkFRanHx48woORgAYDoScBwEAAA"
+        },
+        {
+          "name": "Hoyts Unicenter | Cinemark H...",
+          "image": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f6db91c90ec18f50dc626f4f28e70c85734ca67dea638b4e02599b47cdf4d3a5a.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCy8XWLQkPafAyDj9FQs_Fy-Ib5hcVFURX5lVgBApqDLMyMhINoPrgZqEMCO5ojzNwhihI63EqLLS3KgIIZJklp6ebpye8oqFj4sHJJKRbFIGFLSAG2JkaFiYm54LV1BlZGZSYFSQtohVwSO_sqRYITQvMzk1ryS1SKFGwTkzLzU3sSgbInWLTZIhzC_8c-KMw2zv9lWlFScocmnOin504J7VukUcQiGJuUmZh1fmKRSnKiSVFicf3ryCgxEATw2yuxYBAAA&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQs9oBKAB6BAgyEBg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCy8XWLQkPafAyDj9FQs_Fy-Ib5hcVFURX5lVgBApqDLMyMhINoPrgZqEMCO5ojzNwhihI63EqLLS3KgIIZJklp6ebpye8oqFj4sHJJKRbFIGFLSAG2JkaFiYm54LV1BlZGZSYFSQtohVwSO_sqRYITQvMzk1ryS1SKFGwTkzLzU3sSgbInWLTZIhzC_8c-KMw2zv9lWlFScocmnOin504J7VukUcQiGJuUmZh1fmKRSnKiSVFicf3ryCgxEATw2yuxYBAAA"
+        },
+        {
+          "name": "Cinemark Palermo",
+          "image": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f6db91c90ec18f50dc626f4f28e70c857a3558fa68ab222d3d441985b9ab32f1a.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cinemark+Palermo&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEmuKE-zMP7FyLCBheEVCy8XRDQ9p8DIOP0VCz8XL4hvmFxUVRFfmVWAECmoMszIyEg2g-spMy-oyiswQZgBMRmhI63EqLLS3KgIIZJklp6ebpye8oqFj4sHJJKRbFIGFLSAG2JkaFiYm54LV1BlZGZSYFSQtohVwDkzLzU3sShbISAxJ7UoN_8WmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMASZ5hrgYBAAA&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQs9oBKAB6BAgyEB0",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cinemark+Palermo&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEmuKE-zMP7FyLCBheEVCy8XRDQ9p8DIOP0VCz8XL4hvmFxUVRFfmVWAECmoMszIyEg2g-spMy-oyiswQZgBMRmhI63EqLLS3KgIIZJklp6ebpye8oqFj4sHJJKRbFIGFLSAG2JkaFiYm54LV1BlZGZSYFSQtohVwDkzLzU3sShbISAxJ7UoN_8WmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMASZ5hrgYBAAA"
+        },
+        {
+          "name": "Cinemark",
+          "image": "https://serpapi.com/searches/68202810f3fc7b0c982f0124/images/285ff674c4d3551f6db91c90ec18f50dc626f4f28e70c857a91f699c72e19acf1056b8d338ce2d7d.gif",
+          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cinemark+Hoyts+Caballito&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwrMaqsNDcq-sXIsIGF4RULLxc3SLwkPafAyDj9FQs_F0RdclFVRXxlVgFCpKDKMCMjI9kMrqfMvKAqr8AEYUZyRXmahTFCB8wuhEiSWXp6unF6yisWPi4ekEhGskkZUNACboiRoWFhbnouXEGVkZlJgVFB2iJWCefMvNTcxKJsBY_8ypJiBefEpMScnMyS_FtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjADxvBSHEAEAAA&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQs9oBKAB6BAgyECI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cinemark+Hoyts+Caballito&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwrMaqsNDcq-sXIsIGF4RULLxc3SLwkPafAyDj9FQs_F0RdclFVRXxlVgFCpKDKMCMjI9kMrqfMvKAqr8AEYUZyRXmahTFCB8wuhEiSWXp6unF6yisWPi4ekEhGskkZUNACboiRoWFhbnouXEGVkZlJgVFB2iJWCefMvNTcxKJsBY_8ypJiBefEpMScnMyS_FtskgxhfuGfE2ccZnu3ryqtOEGRS3NW9KMD96zWLeIQCknMTco8vDJPoThVIam0OPnw5hUcjADxvBSHEAEAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Cuanto esta el cine hoy",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cuanto+esta+el+cine+hoy&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cuanto+esta+el+cine+hoy"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera cine max",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cartelera+cine+max&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+cine+max"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Buenos Aires",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+Buenos+Aires&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Buenos+Aires"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera Cinemark",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cartelera+Cinemark&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+Cinemark"
+    },
+    {
+      "block_position": 1,
+      "query": "Moana cine Canning",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Moana+cine+Canning&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Moana+cine+Canning"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine Monte Grande",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+Monte+Grande&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Monte+Grande"
+    },
+    {
+      "block_position": 1,
+      "query": "Viernes de cine Multiplex",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Viernes+de+cine+Multiplex&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Viernes+de+cine+Multiplex"
+    },
+    {
+      "block_position": 1,
+      "query": "Cine en Canning",
+      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&hl=es&gl=ar&q=Cine+en+Canning&sa=X&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+en+Canning"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=10&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=10&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=20&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=30&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=40&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=50&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=60&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=70&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=80&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&hl=es&gl=ar&ei=ESggaMmQCfKkhbIPidSR4Qs&start=90&sa=N&sstk=Af40H4Wn0NLa_Qdv7TSIhzRyd7EwdP18-CIT8QQAM1hgkCI92SZgrd1IcJ2kLbJTUblaOCbmTkZro44B2YAKa_iYm3lwYkxXEJW4Mw&ved=2ahUKEwiJ3f7aypqNAxVyUkEAHQlqJLwQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+Infierno+en+el+pantano+horarios+cines+Buenos+Aires&start=90"
+    }
+  }
+}
