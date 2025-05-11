@@ -13,8 +13,6 @@ function filtrarFuncionesPasadas(cartelera, mostrarOcultas = false) {
   const fechaHoy = new Date();
   fechaHoy.setHours(0, 0, 0, 0);
   
-  console.log(`🕒 [Filtrado] Fecha actual: ${fechaHoy.toISOString()}, mostrarOcultas=${mostrarOcultas}`);
-  
   let contadorFuncionesFiltradas = 0;
   let contadorCinesFiltrados = 0;
   let contadorEventosFiltrados = 0;
@@ -25,8 +23,6 @@ function filtrarFuncionesPasadas(cartelera, mostrarOcultas = false) {
     if (evento.tipo !== 'cine' || !evento.cines || !Array.isArray(evento.cines)) {
       return evento;
     }
-    
-    console.log(`🎬 [Filtrado] Procesando evento cine: "${evento.nombre}" con ${evento.cines.length} cines`);
     
     // Para eventos de cine, procesar funciones pasadas
     const cinesProcesados = evento.cines.map(cine => {
@@ -48,7 +44,6 @@ function filtrarFuncionesPasadas(cartelera, mostrarOcultas = false) {
           
           if (esPasada && !funcion.oculta) {
             contadorFuncionesFiltradas++;
-            console.log(`🏷️ [Filtrado] Marcar función pasada: ${funcion.fecha} ${funcion.hora || ''} (${funcion.nombreDia || 'sin nombre día'})`);
             return { ...funcion, oculta: true };
           }
           
@@ -57,35 +52,15 @@ function filtrarFuncionesPasadas(cartelera, mostrarOcultas = false) {
       } else {
         // Si no se piden todas, filtrar las que están ocultas o son de fechas pasadas
         funcionesActuales = cine.funciones.filter(funcion => {
-          if (funcion.oculta) {
-            console.log(`⛔ [Filtrado] Excluir función oculta: ${funcion.fecha} ${funcion.hora || ''} (${funcion.nombreDia || 'sin nombre día'})`);
-            return false; // No mostrar las ya marcadas como ocultas
-          }
-          
+          if (funcion.oculta) return false; // No mostrar las ya marcadas como ocultas
           if (!funcion.fecha) return true; // Si no tiene fecha, la mantenemos
           
           const fechaFuncion = new Date(funcion.fecha);
-          
-          // Verificar si la fecha es válida
-          if (isNaN(fechaFuncion.getTime())) {
-            console.log(`⚠️ [Filtrado] Fecha inválida: ${funcion.fecha}`);
-            return true; // Mantener funciones con fecha inválida
-          }
-          
           const mantener = fechaFuncion >= fechaHoy;
-          
-          if (!mantener) {
-            contadorFuncionesFiltradas++;
-            console.log(`❌ [Filtrado] Filtrar función pasada: ${funcion.fecha} ${funcion.hora || ''} (${funcion.nombreDia || 'sin nombre día'}) - ${fechaFuncion.toISOString()} < ${fechaHoy.toISOString()}`);
-          } else {
-            console.log(`✅ [Filtrado] Mantener función futura: ${funcion.fecha} ${funcion.hora || ''} (${funcion.nombreDia || 'sin nombre día'}) - ${fechaFuncion.toISOString()} >= ${fechaHoy.toISOString()}`);
-          }
-          
+          if (!mantener) contadorFuncionesFiltradas++;
           return mantener;
         });
       }
-      
-      console.log(`📊 [Filtrado] Cine "${cine.nombre}": ${funcionesOriginales} originales -> ${funcionesActuales.length} actuales`);
       
       // Devolver cine con funciones actualizadas
       return {
@@ -133,12 +108,10 @@ function filtrarFuncionesPasadas(cartelera, mostrarOcultas = false) {
   
   // Mostrar estadísticas si hay cambios
   if (contadorFuncionesFiltradas > 0 || contadorCinesFiltrados > 0 || contadorEventosFiltrados > 0) {
-    console.log(`🧹 [Filtrado] Resumen de procesamiento:
+    console.log(`🧹 Procesamiento de funciones pasadas:
 - Funciones ${mostrarOcultas ? 'marcadas' : 'filtradas'}: ${contadorFuncionesFiltradas}
 - Cines ${mostrarOcultas ? 'actualizados' : 'filtrados'}: ${contadorCinesFiltrados}
 - Eventos ${mostrarOcultas ? 'actualizados' : 'filtrados'}: ${contadorEventosFiltrados}`);
-  } else {
-    console.log(`ℹ️ [Filtrado] No se encontraron funciones pasadas para procesar.`);
   }
   
   // Devolver el resultado con cambios aplicados
@@ -177,15 +150,13 @@ async function actualizarArchivoCartelera(cartelera) {
  */
 router.get('/', async (req, res) => {
   try {
-    console.log(`📥 [API:cartelera] Request recibido: Query params =`, req.query);
-    
     const carteleraPath = path.join(__dirname, '../data/cartelera.json');
     
     // Verificar si el archivo existe
     try {
       await fs.access(carteleraPath);
     } catch (error) {
-      console.error('❌ [API:cartelera] Error: archivo cartelera.json no encontrado');
+      console.error('Error: archivo cartelera.json no encontrado');
       return res.status(404).json({ 
         mensaje: 'No se encontró la cartelera de eventos', 
         error: 'Archivo no encontrado' 
@@ -196,11 +167,8 @@ router.get('/', async (req, res) => {
     const carteleraRaw = await fs.readFile(carteleraPath, 'utf8');
     let cartelera = JSON.parse(carteleraRaw);
     
-    console.log(`📊 [API:cartelera] Cartelera cargada con ${cartelera.length} eventos`);
-    
     // Determinar si se mostrarán funciones ocultas
     const mostrarOcultas = req.query.incluirPasadas === 'true';
-    console.log(`🔍 [API:cartelera] Parámetro incluirPasadas=${req.query.incluirPasadas}, procesado como mostrarOcultas=${mostrarOcultas}`);
     
     // Para actualizar la BD, siempre procesamos con mostrarOcultas=true
     // para marcar las funciones pasadas sin eliminarlas
@@ -211,14 +179,13 @@ router.get('/', async (req, res) => {
       // Actualizar archivo en segundo plano sin esperar
       actualizarArchivoCartelera(resultadoActualizacion.cartelera).then(exito => {
         if (exito) {
-          console.log('🔄 [API:cartelera] Base de datos actualizada marcando funciones pasadas');
+          console.log('🔄 Base de datos actualizada marcando funciones pasadas');
         }
       });
     }
     
     // Para la respuesta, filtramos según el parámetro mostrarOcultas
     // Si mostrarOcultas es false, se filtrarán las funciones pasadas
-    console.log(`🔄 [API:cartelera] Aplicando segundo filtrado con mostrarOcultas=${mostrarOcultas}`);
     const resultado = mostrarOcultas ? 
       resultadoActualizacion : 
       filtrarFuncionesPasadas(resultadoActualizacion.cartelera, false);
@@ -228,17 +195,15 @@ router.get('/', async (req, res) => {
     // Opcionalmente filtrar por tipo si se proporciona un parámetro en la query
     const { tipo } = req.query;
     if (tipo) {
-      console.log(`🏷️ [API:cartelera] Filtrando por tipo: ${tipo}`);
       const eventosFiltrados = carteleraFinal.filter(
         evento => evento.tipo.toLowerCase() === tipo.toLowerCase()
       );
       return res.json(eventosFiltrados);
     }
     
-    console.log(`📤 [API:cartelera] Enviando respuesta con ${carteleraFinal.length} eventos`);
     res.json(carteleraFinal);
   } catch (error) {
-    console.error('❌ [API:cartelera] Error al obtener la cartelera:', error.message);
+    console.error('Error al obtener la cartelera:', error.message);
     res.status(500).json({ 
       mensaje: 'Error al obtener la cartelera de eventos', 
       error: error.message 
@@ -254,10 +219,8 @@ router.get('/', async (req, res) => {
 router.get('/:tipo', async (req, res) => {
   try {
     const { tipo } = req.params;
-    console.log(`📥 [API:cartelera/${tipo}] Request recibido: Query params =`, req.query);
     
     if (!['cine', 'teatro', 'música'].includes(tipo.toLowerCase())) {
-      console.log(`⚠️ [API:cartelera/${tipo}] Tipo de evento no válido`);
       return res.status(400).json({ 
         mensaje: 'Tipo de evento no válido', 
         tipos_validos: ['cine', 'teatro', 'música'] 
@@ -268,11 +231,8 @@ router.get('/:tipo', async (req, res) => {
     const carteleraRaw = await fs.readFile(carteleraPath, 'utf8');
     let cartelera = JSON.parse(carteleraRaw);
     
-    console.log(`📊 [API:cartelera/${tipo}] Cartelera cargada con ${cartelera.length} eventos`);
-    
     // Determinar si se mostrarán funciones ocultas
     const mostrarOcultas = req.query.incluirPasadas === 'true';
-    console.log(`🔍 [API:cartelera/${tipo}] Parámetro incluirPasadas=${req.query.incluirPasadas}, procesado como mostrarOcultas=${mostrarOcultas}`);
     
     // Para actualizar la BD, siempre procesamos con mostrarOcultas=true
     // para marcar las funciones pasadas sin eliminarlas
@@ -283,13 +243,12 @@ router.get('/:tipo', async (req, res) => {
       // Actualizar archivo en segundo plano sin esperar
       actualizarArchivoCartelera(resultadoActualizacion.cartelera).then(exito => {
         if (exito) {
-          console.log(`🔄 [API:cartelera/${tipo}] Base de datos actualizada marcando funciones pasadas`);
+          console.log('🔄 Base de datos actualizada marcando funciones pasadas');
         }
       });
     }
     
     // Para la respuesta, filtramos según el parámetro mostrarOcultas
-    console.log(`🔄 [API:cartelera/${tipo}] Aplicando segundo filtrado con mostrarOcultas=${mostrarOcultas}`);
     const resultado = mostrarOcultas ? 
       resultadoActualizacion : 
       filtrarFuncionesPasadas(resultadoActualizacion.cartelera, false);
@@ -301,10 +260,9 @@ router.get('/:tipo', async (req, res) => {
       evento => evento.tipo.toLowerCase() === tipo.toLowerCase()
     );
     
-    console.log(`📤 [API:cartelera/${tipo}] Enviando respuesta con ${eventosFiltrados.length} eventos de tipo ${tipo}`);
     res.json(eventosFiltrados);
   } catch (error) {
-    console.error(`❌ [API:cartelera/${tipo}] Error al obtener eventos de ${req.params.tipo}:`, error.message);
+    console.error(`Error al obtener eventos de ${req.params.tipo}:`, error.message);
     res.status(500).json({ 
       mensaje: `Error al obtener eventos de ${req.params.tipo}`, 
       error: error.message 

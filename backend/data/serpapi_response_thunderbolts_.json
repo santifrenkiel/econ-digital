@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6820280a6adf276d2ba56d2f",
+    "id": "6821130022abf790d48bf899",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ed098851c9c88705/6820280a6adf276d2ba56d2f.json",
-    "created_at": "2025-05-11 04:31:06 UTC",
-    "processed_at": "2025-05-11 04:31:06 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ed098851c9c88705/6821130022abf790d48bf899.json",
+    "created_at": "2025-05-11 21:13:36 UTC",
+    "processed_at": "2025-05-11 21:13:36 UTC",
     "google_url": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts%2A+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+Thunderbolts%2A+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
-    "raw_html_file": "https://serpapi.com/searches/ed098851c9c88705/6820280a6adf276d2ba56d2f.html",
-    "total_time_taken": 1.48
+    "raw_html_file": "https://serpapi.com/searches/ed098851c9c88705/6821130022abf790d48bf899.html",
+    "total_time_taken": 2.25
   },
   "search_parameters": {
     "engine": "google",
@@ -19,8 +19,8 @@
   },
   "search_information": {
     "query_displayed": "película Thunderbolts* horarios cines Buenos Aires",
-    "total_results": 37800,
-    "time_taken_displayed": 0.42,
+    "total_results": 29300,
+    "time_taken_displayed": 0.4,
     "organic_results_state": "Results for exact spelling"
   },
   "showtimes": [
@@ -29,17 +29,12 @@
       "theaters": [
         {
           "name": "Multiplex Monumental Lavalle",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQySZ6BQiIARAL",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QySZ6BQiFARAL",
           "distance": "450 metros",
           "address": "Lavalle 780, Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "1:15p. m.",
-                "2:15p. m.",
-                "3:15p. m.",
-                "3:35p. m.",
-                "4:45p. m.",
                 "6:00p. m.",
                 "7:10p. m.",
                 "8:25p. m.",
@@ -53,14 +48,12 @@
         },
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQySZ6BQiIARAZ",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QySZ6BQiFARAU",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "1:30p. m.",
-                "4:30p. m.",
                 "8:30p. m.",
                 "10:00p. m."
               ],
@@ -76,16 +69,12 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQySZ6BQiIARAi",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QySZ6BQiFARAb",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "1:45p. m.",
-                "2:45p. m.",
-                "4:30p. m.",
-                "5:30p. m.",
                 "7:15p. m.",
                 "8:15p. m.",
                 "10:00p. m.",
@@ -105,14 +94,12 @@
         },
         {
           "name": "Cinemark Hoyts Puerto Madero",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQySZ6BQiIARAx",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QySZ6BQiFARAm",
           "distance": "2,5 km",
           "address": "Avenida Alicia Moreau de Justo 1920, C1107AFN Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "1:20p. m.",
-                "4:20p. m.",
                 "7:10p. m.",
                 "7:40p. m.",
                 "10:00p. m.",
@@ -122,8 +109,6 @@
             },
             {
               "time": [
-                "12:30p. m.",
-                "3:20p. m.",
                 "6:10p. m.",
                 "9:00p. m."
               ],
@@ -133,16 +118,12 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQySZ6BQiIARA_",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QySZ6BQiFARAw",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "12:30p. m.",
-                "1:30p. m.",
-                "3:15p. m.",
-                "4:20p. m.",
                 "6:00p. m.",
                 "7:10p. m.",
                 "9:00p. m.",
@@ -152,9 +133,6 @@
             },
             {
               "time": [
-                "1:00p. m.",
-                "3:50p. m.",
-                "5:20p. m.",
                 "6:40p. m.",
                 "8:10p. m.",
                 "9:30p. m.",
@@ -164,8 +142,6 @@
             },
             {
               "time": [
-                "12:30p. m.",
-                "3:15p. m.",
                 "6:00p. m.",
                 "9:00p. m."
               ],
@@ -175,19 +151,12 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQySZ6BQiIARBX",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QySZ6BQiFARA_",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "12:50p. m.",
-                "1:20p. m.",
-                "1:50p. m.",
-                "2:20p. m.",
-                "3:50p. m.",
-                "4:10p. m.",
-                "4:50p. m.",
                 "6:50p. m.",
                 "7:00p. m.",
                 "7:40p. m.",
@@ -200,9 +169,6 @@
             },
             {
               "time": [
-                "2:30p. m.",
-                "5:10p. m.",
-                "5:20p. m.",
                 "8:00p. m.",
                 "11:00p. m."
               ],
@@ -212,7 +178,7 @@
         },
         {
           "name": "Museo del Cine \"Pablo Ducrós Hicken\"",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Museo+del+Cine+%22Pablo+Ducr%C3%B3s+Hicken%22&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rrvkjZ9AETU5AYkCbRkU3p08FuCyDqX90GH2AlNoCkItDzLIsIj-vg0nCzlN6_b1QN5Y01NRGpyxVLV0c9rCW3hEDE996Z0HzihVL0VSwrxb4Z3CpAUoKwZ6FtopqzPkZLPbEnpZeUo-iZkUU-4QeczWTnLyFOtvs633BI0UbTZPZO0EfU1y25cQk21mB3DkJWzMHJiQbqEAy2V0tEGjfXCmSRltWDrmUGRtlBPyiVx62WPSTEuxtNz3gPvCkn9TCnbDZI%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Museo+del+Cine+%22Pablo+Ducr%C3%B3s+Hicken%22&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rrvkjZ9AETU5AYkCbRkU3p08FuCyDqX90GH2AlNoCkItDzLIsIj-vg0nCzlN6_b1QN5Y01NRGpyxVLV0c9rCW3hEDE996Z0HzihVL0VSwrxb4Z3CpAUoKwZ6FtopqzPkZLPbEnpZeUo-iZkUU-4QeczWTnLyFOtvs633BI0UbTZPZO0EfU1y25cQk21mB3DkJWzMHJiQbqEAy2V0tEGjfXCmSRltWDrmUGRtlBPyiVx62WPSTEuxtNz3gPvCkn9TCnbDZI%3D",
           "distance": "3,7 km",
           "address": "La Boca, Agustín R. Caffarena 49, Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
@@ -227,15 +193,12 @@
         },
         {
           "name": "Cinemark Alto Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
           "distance": "8,2 km",
           "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
           "showing": [
             {
               "time": [
-                "1:10p. m.",
-                "3:25p. m.",
-                "4:00p. m.",
                 "7:00p. m.",
                 "9:00p. m.",
                 "10:00p. m."
@@ -244,9 +207,6 @@
             },
             {
               "time": [
-                "12:40p. m.",
-                "1:50p. m.",
-                "4:40p. m.",
                 "6:10p. m.",
                 "7:30p. m.",
                 "10:30p. m."
@@ -256,39 +216,13 @@
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY7luUgG_s8YAlrsDIfCIYMI5_sHAV8MJiAB970RfjzJBcIdRNXX_fKj47Dcc8KoVsJmAiXg9Sud_LuACmVsS-8V7x5Xt50u-fsZvgzPBBprh3RNjHc%3D",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "1:00p. m.",
-                "2:40p. m.",
-                "3:25p. m.",
-                "5:50p. m.",
-                "7:15p. m.",
-                "8:15p. m.",
-                "9:40p. m.",
-                "10:40p. m."
-              ],
-              "type": "Estándar"
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "2:00p. m.",
-                "2:30p. m.",
-                "4:30p. m.",
-                "4:45p. m.",
-                "5:15p. m.",
                 "7:15p. m.",
                 "7:30p. m.",
                 "8:00p. m.",
@@ -300,8 +234,6 @@
             },
             {
               "time": [
-                "2:15p. m.",
-                "5:00p. m.",
                 "7:45p. m.",
                 "10:30p. m."
               ],
@@ -311,16 +243,12 @@
         },
         {
           "name": "Cinépolis Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNvglEBu67pTyEHv3ZRc4DwosaXd2FVUPURDGXYCMfvUV2tk0_1GPhEmiDTe1EGg0e-49LnuOyEY4_9nTeI0Wobmm4je4ojlH5LCzGHF4Nb26UfTUFA%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNvglEBu67pTyEHv3ZRc4DwosaXd2FVUPURDGXYCMfvUV2tk0_1GPhEmiDTe1EGg0e-49LnuOyEY4_9nTeI0Wobmm4je4ojlH5LCzGHF4Nb26UfTUFA%3D",
           "distance": "9,7 km",
           "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
           "showing": [
             {
               "time": [
-                "1:00p. m.",
-                "1:30p. m.",
-                "3:30p. m.",
-                "4:30p. m.",
                 "6:30p. m.",
                 "7:30p. m.",
                 "9:30p. m.",
@@ -333,8 +261,6 @@
             },
             {
               "time": [
-                "4:00p. m.",
-                "5:10p. m.",
                 "7:00p. m.",
                 "8:05p. m."
               ],
@@ -344,18 +270,12 @@
         },
         {
           "name": "Cinemark Hoyts Dot",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
           "distance": "11,6 km",
           "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "12:30p. m.",
-                "1:00p. m.",
-                "1:30p. m.",
-                "4:00p. m.",
-                "4:30p. m.",
-                "5:40p. m.",
                 "7:00p. m.",
                 "7:40p. m.",
                 "10:00p. m.",
@@ -366,8 +286,6 @@
             },
             {
               "time": [
-                "1:30p. m.",
-                "4:30p. m.",
                 "7:30p. m.",
                 "10:30p. m."
               ],
@@ -377,18 +295,12 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
             {
               "time": [
-                "2:15p. m.",
-                "2:30p. m.",
-                "4:15p. m.",
-                "4:30p. m.",
-                "5:00p. m.",
-                "5:15p. m.",
                 "7:00p. m.",
                 "7:15p. m.",
                 "7:45p. m.",
@@ -402,8 +314,6 @@
             },
             {
               "time": [
-                "2:05p. m.",
-                "4:55p. m.",
                 "7:45p. m.",
                 "10:35p. m."
               ],
@@ -411,8 +321,6 @@
             },
             {
               "time": [
-                "2:00p. m.",
-                "4:45p. m.",
                 "7:30p. m.",
                 "10:15p. m."
               ],
@@ -422,18 +330,12 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
             {
               "time": [
-                "1:00p. m.",
-                "1:05p. m.",
-                "2:10p. m.",
-                "3:50p. m.",
-                "3:55p. m.",
-                "5:00p. m.",
                 "6:40p. m.",
                 "6:45p. m.",
                 "7:50p. m.",
@@ -445,12 +347,6 @@
             },
             {
               "time": [
-                "12:40p. m.",
-                "1:20p. m.",
-                "2:00p. m.",
-                "3:20p. m.",
-                "4:10p. m.",
-                "4:50p. m.",
                 "6:10p. m.",
                 "7:00p. m.",
                 "7:40p. m.",
@@ -462,8 +358,6 @@
             },
             {
               "time": [
-                "12:40p. m.",
-                "3:20p. m.",
                 "6:10p. m.",
                 "9:00p. m."
               ],
@@ -472,18 +366,26 @@
           ]
         },
         {
-          "name": "Víctor Show Cinemas",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=V%C3%ADctor+Show+Cinemas&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7gwSTr3XidNYyckXrLrHCbP8ssReeUY8ozhAqLaReDTvkTQ9SS62YyOZQSVMSU7wtTEajzcapPhHE32ON9aXuGCxuyGpB8RRE7MgVmSVi40xXqinWX4Tl47f_r8rxahIqAN_p6asgsKSb2-wBKMqVZx-QQCHj-0Np3Q51FLgeXSScSe8zQG1wg4qdpDRboyw01isMyBXHVF4snsq6hV3w91LlS6V0Wirh_pMgiv9I-N8je3xAOL-oSmxuZ6oUp9UXDa0Iw%3D",
-          "distance": "17,6 km",
-          "address": "Payador 5539, Villa Bosch, BA",
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlsOcSj5pcNcYmQcR_db0-r_e0OwNualkyktRnTBoM8hd1vLRVg3EGWh0LxdtCuH2YyZdHj_sSNkiYNx4XOvQtX60vfPxtCaMb0YwNVr5wKlVeSz73I%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
           "showing": [
             {
               "time": [
-                "2:30p. m.",
-                "5:30p. m.",
+                "7:15p. m.",
+                "7:45p. m.",
+                "10:00p. m.",
                 "10:30p. m."
               ],
               "type": "Estándar"
+            },
+            {
+              "time": [
+                "7:30p. m.",
+                "10:15p. m."
+              ],
+              "type": "3D"
             }
           ]
         }
@@ -494,7 +396,7 @@
       "theaters": [
         {
           "name": "Multiplex Monumental Lavalle",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D",
           "distance": "450 metros",
           "address": "Lavalle 780, Buenos Aires, DF",
           "showing": [
@@ -518,7 +420,7 @@
         },
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
@@ -541,7 +443,7 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
@@ -568,7 +470,7 @@
         },
         {
           "name": "Cinemark Hoyts Puerto Madero",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D",
           "distance": "2,5 km",
           "address": "Avenida Alicia Moreau de Justo 1920, C1107AFN Buenos Aires, DF",
           "showing": [
@@ -593,7 +495,7 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
@@ -635,7 +537,7 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
@@ -673,7 +575,7 @@
         },
         {
           "name": "Cinemark Alto Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
           "distance": "8,2 km",
           "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
           "showing": [
@@ -701,29 +603,8 @@
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY7luUgG_s8YAlrsDIfCIYMI5_sHAV8MJiAB970RfjzJBcIdRNXX_fKj47Dcc8KoVsJmAiXg9Sud_LuACmVsS-8V7x5Xt50u-fsZvgzPBBprh3RNjHc%3D",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "1:00p. m.",
-                "2:40p. m.",
-                "3:25p. m.",
-                "5:50p. m.",
-                "7:15p. m.",
-                "8:15p. m.",
-                "9:40p. m.",
-                "10:40p. m."
-              ],
-              "type": "Estándar"
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
@@ -756,7 +637,7 @@
         },
         {
           "name": "Cinépolis Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNvglEBu67pTyEHv3ZRc4DwosaXd2FVUPURDGXYCMfvUV2tk0_1GPhEmiDTe1EGg0e-49LnuOyEY4_9nTeI0Wobmm4je4ojlH5LCzGHF4Nb26UfTUFA%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNvglEBu67pTyEHv3ZRc4DwosaXd2FVUPURDGXYCMfvUV2tk0_1GPhEmiDTe1EGg0e-49LnuOyEY4_9nTeI0Wobmm4je4ojlH5LCzGHF4Nb26UfTUFA%3D",
           "distance": "9,7 km",
           "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
           "showing": [
@@ -784,7 +665,7 @@
         },
         {
           "name": "Cinemark Hoyts Dot",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
           "distance": "11,6 km",
           "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
           "showing": [
@@ -817,7 +698,7 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
@@ -862,7 +743,7 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
@@ -913,7 +794,7 @@
         },
         {
           "name": "Víctor Show Cinemas",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=V%C3%ADctor+Show+Cinemas&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7gwSTr3XidNYyckXrLrHCbP8ssReeUY8ozhAqLaReDTvkTQ9SS62YyOZQSVMSU7wtTEajzcapPhHE32ON9aXuGCxuyGpB8RRE7MgVmSVi40xXqinWX4Tl47f_r8rxahIqAN_p6asgsKSb2-wBKMqVZx-QQCHj-0Np3Q51FLgeXSScSe8zQG1wg4qdpDRboyw01isMyBXHVF4snsq6hV3w91LlS6V0Wirh_pMgiv9I-N8je3xAOL-oSmxuZ6oUp9UXDa0Iw%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=V%C3%ADctor+Show+Cinemas&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7gwSTr3XidNYyckXrLrHCbP8ssReeUY8ozhAqLaReDTvkTQ9SS62YyOZQSVMSU7wtTEajzcapPhHE32ON9aXuGCxuyGpB8RRE7MgVmSVi40xXqinWX4Tl47f_r8rxahIqAN_p6asgsKSb2-wBKMqVZx-QQCHj-0Np3Q51FLgeXSScSe8zQG1wg4qdpDRboyw01isMyBXHVF4snsq6hV3w91LlS6V0Wirh_pMgiv9I-N8je3xAOL-oSmxuZ6oUp9UXDa0Iw%3D",
           "distance": "17,6 km",
           "address": "Payador 5539, Villa Bosch, BA",
           "showing": [
@@ -924,6 +805,35 @@
                 "10:30p. m."
               ],
               "type": "Estándar"
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlsOcSj5pcNcYmQcR_db0-r_e0OwNualkyktRnTBoM8hd1vLRVg3EGWh0LxdtCuH2YyZdHj_sSNkiYNx4XOvQtX60vfPxtCaMb0YwNVr5wKlVeSz73I%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "2:00p. m.",
+                "2:15p. m.",
+                "4:30p. m.",
+                "5:00p. m.",
+                "7:15p. m.",
+                "7:45p. m.",
+                "10:00p. m.",
+                "10:30p. m."
+              ],
+              "type": "Estándar"
+            },
+            {
+              "time": [
+                "4:45p. m.",
+                "7:30p. m.",
+                "10:15p. m."
+              ],
+              "type": "3D"
             }
           ]
         }
@@ -934,7 +844,7 @@
       "theaters": [
         {
           "name": "Multiplex Monumental Lavalle",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D",
           "distance": "450 metros",
           "address": "Lavalle 780, Buenos Aires, DF",
           "showing": [
@@ -958,7 +868,7 @@
         },
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
@@ -981,7 +891,7 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
@@ -1009,7 +919,7 @@
         },
         {
           "name": "Cinemark Hoyts Puerto Madero",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D",
           "distance": "2,5 km",
           "address": "Avenida Alicia Moreau de Justo 1920, C1107AFN Buenos Aires, DF",
           "showing": [
@@ -1034,7 +944,7 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
@@ -1076,7 +986,7 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
@@ -1114,7 +1024,7 @@
         },
         {
           "name": "Cinemark Alto Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
           "distance": "8,2 km",
           "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
           "showing": [
@@ -1142,29 +1052,8 @@
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY7luUgG_s8YAlrsDIfCIYMI5_sHAV8MJiAB970RfjzJBcIdRNXX_fKj47Dcc8KoVsJmAiXg9Sud_LuACmVsS-8V7x5Xt50u-fsZvgzPBBprh3RNjHc%3D",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "1:00p. m.",
-                "2:40p. m.",
-                "3:25p. m.",
-                "5:50p. m.",
-                "7:15p. m.",
-                "8:15p. m.",
-                "9:40p. m.",
-                "10:40p. m."
-              ],
-              "type": "Estándar"
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
@@ -1196,36 +1085,8 @@
           ]
         },
         {
-          "name": "Cinépolis Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNvglEBu67pTyEHv3ZRc4DwosaXd2FVUPURDGXYCMfvUV2tk0_1GPhEmiDTe1EGg0e-49LnuOyEY4_9nTeI0Wobmm4je4ojlH5LCzGHF4Nb26UfTUFA%3D",
-          "distance": "9,7 km",
-          "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
-          "showing": [
-            {
-              "time": [
-                "1:30p. m.",
-                "3:30p. m.",
-                "4:30p. m.",
-                "7:30p. m.",
-                "9:30p. m.",
-                "10:30p. m.",
-                "11:20p. m."
-              ],
-              "type": "Estándar"
-            },
-            {
-              "time": [
-                "5:10p. m.",
-                "6:30p. m.",
-                "8:05p. m."
-              ],
-              "type": "3D"
-            }
-          ]
-        },
-        {
           "name": "Cinemark Hoyts Dot",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
           "distance": "11,6 km",
           "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
           "showing": [
@@ -1258,7 +1119,7 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
@@ -1302,7 +1163,7 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
@@ -1353,7 +1214,7 @@
         },
         {
           "name": "Víctor Show Cinemas",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=V%C3%ADctor+Show+Cinemas&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7gwSTr3XidNYyckXrLrHCbP8ssReeUY8ozhAqLaReDTvkTQ9SS62YyOZQSVMSU7wtTEajzcapPhHE32ON9aXuGCxuyGpB8RRE7MgVmSVi40xXqinWX4Tl47f_r8rxahIqAN_p6asgsKSb2-wBKMqVZx-QQCHj-0Np3Q51FLgeXSScSe8zQG1wg4qdpDRboyw01isMyBXHVF4snsq6hV3w91LlS6V0Wirh_pMgiv9I-N8je3xAOL-oSmxuZ6oUp9UXDa0Iw%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=V%C3%ADctor+Show+Cinemas&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7gwSTr3XidNYyckXrLrHCbP8ssReeUY8ozhAqLaReDTvkTQ9SS62YyOZQSVMSU7wtTEajzcapPhHE32ON9aXuGCxuyGpB8RRE7MgVmSVi40xXqinWX4Tl47f_r8rxahIqAN_p6asgsKSb2-wBKMqVZx-QQCHj-0Np3Q51FLgeXSScSe8zQG1wg4qdpDRboyw01isMyBXHVF4snsq6hV3w91LlS6V0Wirh_pMgiv9I-N8je3xAOL-oSmxuZ6oUp9UXDa0Iw%3D",
           "distance": "17,6 km",
           "address": "Payador 5539, Villa Bosch, BA",
           "showing": [
@@ -1364,6 +1225,35 @@
                 "10:30p. m."
               ],
               "type": "Estándar"
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlsOcSj5pcNcYmQcR_db0-r_e0OwNualkyktRnTBoM8hd1vLRVg3EGWh0LxdtCuH2YyZdHj_sSNkiYNx4XOvQtX60vfPxtCaMb0YwNVr5wKlVeSz73I%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "2:00p. m.",
+                "2:15p. m.",
+                "4:30p. m.",
+                "5:00p. m.",
+                "7:15p. m.",
+                "7:45p. m.",
+                "10:00p. m.",
+                "10:30p. m."
+              ],
+              "type": "Estándar"
+            },
+            {
+              "time": [
+                "4:45p. m.",
+                "7:30p. m.",
+                "10:15p. m."
+              ],
+              "type": "3D"
             }
           ]
         }
@@ -1374,7 +1264,7 @@
       "theaters": [
         {
           "name": "Multiplex Monumental Lavalle",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Multiplex+Monumental+Lavalle&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj8SUuPcAJlN4bah5PtYVmDjJCN1xPpLxGJKMNx2XX35T31b_NpmRX4kHss2rlBnBY-JRSqjOyrZpa3GXF8yqzYA2ilo_6Vy0AD7zTqVIOYCfmjUCumv6R2qJjHjhdpJ4tnJvsXrpOhf5TCrr0s4hTLS4ZjH58Y2HX_rx9Ecz5TGpIJJ7X_mu9JD_se6QfVVmTAzB8A-zzu-2VJ1LTU9kaZ5xDm7U9n8jRGtuBKAfE4XdUY2y6MBr6MqsrR5jRWv-4oJQJjc%3D",
           "distance": "450 metros",
           "address": "Lavalle 780, Buenos Aires, DF",
           "showing": [
@@ -1398,7 +1288,7 @@
         },
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNzfyCnTeSOBSRlcoCwLhWNJzrSlcm2FVKtrvSu-efDO0PhUaPq2vYVOM1fxAFDSpK9Iisltt1HzaoF6wTk-O44qg0OABRCXf9-jlSmAObJz9SXE4ss%3D",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
@@ -1421,7 +1311,7 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSyE01M-guhhxwS5z8m8l_xI6TLV8nOxS8iDZpiLBuQPeT_I4DraJT4r3Nw0DOhnSUwf7Fubs6sZKGA_2Nm8nES2liAJabgy-yAkUlMToGh0kZcIVT4%3D",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
@@ -1449,7 +1339,7 @@
         },
         {
           "name": "Cinemark Hoyts Puerto Madero",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Puerto+Madero&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33jPirXcsBYLQ_vVKqV9RJxDK-14OKqB-93Sv3crdqTVNq_AWajiHxJSzlDVnzM-QnS-5vqqbOo7IUN1exnCwiu2_YCoSEE2EoRUvqaG-tszEf4NhfmCNKSYkt0u9IEajtWY9cf1wljmKhaUbY1E2fX8NKhASIPiSqZB8tpmrqkFfHxO2y4MNabFMq4R-BuOXL5qUuFh_hGYGXjVps6Cps-kxK78V2thBQIUaAM2cDClrsezUUndSdrJYnbWWm3eEHAKBQxQ%3D",
           "distance": "2,5 km",
           "address": "Avenida Alicia Moreau de Justo 1920, C1107AFN Buenos Aires, DF",
           "showing": [
@@ -1474,7 +1364,7 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHbRB7eUKL0xU8RnMWXCw0wG7zEPcFcibuErcLAPbb804m_60CkT_1bXJ_CVVn-VbiFVe3RuibtiBL-HpfY1iVnw_3FQMDiEQDSpKrprYCVMPZb_1q0%3D",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
@@ -1516,7 +1406,7 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qX7K_D3QCcvWPdxqXNz_OTYcOPw2Tl25JugUas--VEOv7rl5kpRPsH2KejBDqTU_7H-xook8vosLGpjt9dZFab4z9h6-9brR1Atw8g7SgtrDtC41CA%3D",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
@@ -1554,7 +1444,7 @@
         },
         {
           "name": "Cinemark Alto Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Alto+Avellaneda&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh3wHurcMgZDQUV2ImqneZtLyOu3MytL4MW37hISjZizMPnaGUSZlDCdYFNOaTb8W0yRymNZiPugx5XauJPNqYC9uaEfTac79qR7V6qjS_ntgoKACzk9cbKNAm7b2xmQWeXp6Q8JC_eLyDxfNKoOOCS0nCoTOhMWkk16GSzSNDYlxxz1b4IsdytUmSrBW_nc-Z7-W335cGix-iAkQ-PcTzyXufxs_e8fbeFXhb--C6cfh2FTpeSWwjdQ6BRsMIfjRPxmohpc%3D",
           "distance": "8,2 km",
           "address": "Avenida Gral. Guemes 896, B1873 Avellaneda, BA",
           "showing": [
@@ -1582,29 +1472,8 @@
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY7luUgG_s8YAlrsDIfCIYMI5_sHAV8MJiAB970RfjzJBcIdRNXX_fKj47Dcc8KoVsJmAiXg9Sud_LuACmVsS-8V7x5Xt50u-fsZvgzPBBprh3RNjHc%3D",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "1:00p. m.",
-                "2:40p. m.",
-                "3:25p. m.",
-                "5:50p. m.",
-                "7:15p. m.",
-                "8:15p. m.",
-                "9:40p. m.",
-                "10:40p. m."
-              ],
-              "type": "Estándar"
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymZX56Nur3Jsi4QUlbU0BXPK50yB5gzaMveg24Cf3WoUEWEFAAsWW1J9adOsDeauslfd64gptmUPrBGs02b28UxIIp4lHt5HRhW1_PDQHSD-g_2NY0%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
@@ -1637,7 +1506,7 @@
         },
         {
           "name": "Cinépolis Avellaneda",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNvglEBu67pTyEHv3ZRc4DwosaXd2FVUPURDGXYCMfvUV2tk0_1GPhEmiDTe1EGg0e-49LnuOyEY4_9nTeI0Wobmm4je4ojlH5LCzGHF4Nb26UfTUFA%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Avellaneda&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33gAEShedO_1aBK6NIv1HFJTtLOeWTmJiB04ZQrTpDn_z3CMoGlobl0_hcInboUczfIz7_joheaR7T82Ny2n8krQCRRB9cmw1Evxyn8-P4q1lGXrGLAtPlKUg_eJPtcIfwgzA3vdQvYDMGRndMfTGoNvglEBu67pTyEHv3ZRc4DwosaXd2FVUPURDGXYCMfvUV2tk0_1GPhEmiDTe1EGg0e-49LnuOyEY4_9nTeI0Wobmm4je4ojlH5LCzGHF4Nb26UfTUFA%3D",
           "distance": "9,7 km",
           "address": "Parque Comercial Avellaneda, Autopista Bs As La Plata Km 8 y 1/2, cir Avellaneda, BA",
           "showing": [
@@ -1665,7 +1534,7 @@
         },
         {
           "name": "Cinemark Hoyts Dot",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cinemark+Hoyts+Dot&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhyCUOt_j9KVBvmtfUrYMr1N_dtM2X0aDmd2HcaRZjub7xWgXZfuorWC91sO2zMLc1wngS3w8H6bJztmSNdJx-ReD7Tbq4OT1coXYOx_1-5StFYxaGH16PowA9Hii0wFZ4_zLukvAo3ItwwftMgB5dlsMjm74kCcnBe9jTcX3ZvEdWjXtNA6_RdV6US5NmmGG9m6UVqx00zWWEz6KTaEd6hR-aIjmx5LKwKaeRmXMlYY09aM8RBdVflkRcSv7tlqMP5osDMc%3D",
           "distance": "11,6 km",
           "address": "Saavedra, Vedia 3626 DOT Baires Mall, 1430 Buenos Aires, DF",
           "showing": [
@@ -1698,7 +1567,7 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7Vupxot6J43y0hTm0HxQNymL7RdmtdxmD8TJyeKiNoA5sSvI5VG5A6vaarFmvshqufX-TPLUHZAf1r-823ZhD48gGMVYZ2j1rDT8rT8XVseXtbjR4Kb5UxQ%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
@@ -1743,7 +1612,7 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJ6DUKaE1rX3DZy2fsbOMj6PJIKy2QS6KUdcXEegAjGI3NF4NSGyjZvyihlRiDekc1xwwx1OlnEQk9YiZ2exyHCimWbdRtiRnmBs84S8NM7vRz2kmg%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
@@ -1794,7 +1663,7 @@
         },
         {
           "name": "Víctor Show Cinemas",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=V%C3%ADctor+Show+Cinemas&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7gwSTr3XidNYyckXrLrHCbP8ssReeUY8ozhAqLaReDTvkTQ9SS62YyOZQSVMSU7wtTEajzcapPhHE32ON9aXuGCxuyGpB8RRE7MgVmSVi40xXqinWX4Tl47f_r8rxahIqAN_p6asgsKSb2-wBKMqVZx-QQCHj-0Np3Q51FLgeXSScSe8zQG1wg4qdpDRboyw01isMyBXHVF4snsq6hV3w91LlS6V0Wirh_pMgiv9I-N8je3xAOL-oSmxuZ6oUp9UXDa0Iw%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=V%C3%ADctor+Show+Cinemas&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7gwSTr3XidNYyckXrLrHCbP8ssReeUY8ozhAqLaReDTvkTQ9SS62YyOZQSVMSU7wtTEajzcapPhHE32ON9aXuGCxuyGpB8RRE7MgVmSVi40xXqinWX4Tl47f_r8rxahIqAN_p6asgsKSb2-wBKMqVZx-QQCHj-0Np3Q51FLgeXSScSe8zQG1wg4qdpDRboyw01isMyBXHVF4snsq6hV3w91LlS6V0Wirh_pMgiv9I-N8je3xAOL-oSmxuZ6oUp9UXDa0Iw%3D",
           "distance": "17,6 km",
           "address": "Payador 5539, Villa Bosch, BA",
           "showing": [
@@ -1805,6 +1674,35 @@
                 "10:30p. m."
               ],
               "type": "Estándar"
+            }
+          ]
+        },
+        {
+          "name": "Showcase Cinemas",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Showcase+Cinemas&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rT9s4D_VIHtvZQ-14lZYtMJneOtOkUgCkTODxqSe56xNK_qzgToQGYs5LNMLJ8eKU1SAH_KSoVa-2tTwwhim7GVyi8CPdVBw14_HbrhuolF7DFlMh-Nm4P05rBn_ya0C1E3UTwda88xMulrRKnDSlsOcSj5pcNcYmQcR_db0-r_e0OwNualkyktRnTBoM8hd1vLRVg3EGWh0LxdtCuH2YyZdHj_sSNkiYNx4XOvQtX60vfPxtCaMb0YwNVr5wKlVeSz73I%3D",
+          "distance": "17,8 km",
+          "address": "Humberto Primo y Lavalle, Quilmes, BA",
+          "showing": [
+            {
+              "time": [
+                "2:00p. m.",
+                "2:15p. m.",
+                "4:30p. m.",
+                "5:00p. m.",
+                "7:15p. m.",
+                "7:45p. m.",
+                "10:00p. m.",
+                "10:30p. m."
+              ],
+              "type": "Estándar"
+            },
+            {
+              "time": [
+                "4:45p. m.",
+                "7:30p. m.",
+                "10:15p. m."
+              ],
+              "type": "3D"
             }
           ]
         }
@@ -1845,42 +1743,42 @@
     "fecha_de_estreno_links": [
       {
         "text": "Argentina",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Argentina&stick=H4sIAAAAAAAAAOPgE-LVT9c3NCw2NSuwNDJOV2LXz9U3yEpP0TLKTrbST8vMyQUTViUZqYklRZnJiTkKRanpmfl5ConliUWpQE5OamJxqkJKYknqIlZOx6L01LySzLzEHayMu9iZOBgAOI7aKmIAAAA&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQmxMoAHoECCQQAg"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Argentina&stick=H4sIAAAAAAAAAOPgE-LVT9c3NCw2NSuwNDJOV2LXz9U3yEpP0TLKTrbST8vMyQUTViUZqYklRZnJiTkKRanpmfl5ConliUWpQE5OamJxqkJKYknqIlZOx6L01LySzLzEHayMu9iZOBgAOI7aKmIAAAA&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QmxMoAHoECCUQAg"
       }
     ],
     "director": "Jake Schreier",
     "director_links": [
       {
         "text": "Jake Schreier",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Jake+Schreier&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-t3lir6Qadi44Qus9P45gj054lxnZ6t9wRr0Q2aRliyO_Uk0KOb2bIlKFMiwP61OOI8np_6-7LxfHOsO1pkkmCbFvgnDaaH14eWDAligiWpkXmDGMYWZ1YyIn-MbGZLx-Lg0Pztz2Hb1waNhAfJypEgdshyZEKBw1lPBJ3cnumeENWLvCw%3D%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQmxMoAHoECCMQAg"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Jake+Schreier&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-t3lir6Qadi44Qus9P45gj054lxnZ6t9wRr0Q2aRliyO_Uk0KOb2bIlKFMiwP61OOI8np_6-7LxfHOsO1pkkmCbFvgnDaaH14eWDAligiWpkXmDGMYWZ1YyIn-MbGZLx-Lg0Pztz2Hb1waNhAfJypEgdshyZEKBw1lPBJ3cnumeENWLvCw%3D%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QmxMoAHoECCYQAg"
       }
     ],
     "distribuidor": "Walt Disney Studios Motion Pictures",
     "distribuidor_links": [
       {
         "text": "Walt Disney Studios Motion Pictures",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Walt+Disney+Studios+Motion+Pictures&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRaVsF_4sExYMQ0KfET1TNcRCAxnV2VQirJA4679jlIiw-cENQRzhVcnjsnutdUeqiZpwkyvkQLHDRa4BEqbkEPQ45bKMv3IurwV89Nwe58sbgzwqCqUqxz3flaAQwiBcMfBgxMUPWkBt86JWK8Sm-toA_V-Pbq9yCtsyV7DbkoKmBwxz71Wid2Czjs7krNtVKi0QhG4%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQmxMoAHoECCIQAg"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Walt+Disney+Studios+Motion+Pictures&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRaVsF_4sExYMQ0KfET1TNcRCAxnV2VQirJA4679jlIiw-cENQRzhVcnjsnutdUeqiZpwkyvkQLHDRa4BEqbkEPQ45bKMv3IurwV89Nwe58sbgzwqCqUqxz3flaAQwiBcMfBgxMUPWkBt86JWK8Sm-toA_V-Pbq9yCtsyV7DbkoKmBwxz71Wid2Czjs7krNtVKi0QhG4%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QmxMoAHoECCQQAg"
       }
     ],
     "director_artístico": "Michael Hersey",
     "director_artístico_links": [
       {
         "text": "Michael Hersey",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=thunderbolts*+michael+hersey&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-iAwnhUGyjRn2pCg024T7gDoAluB7LlHe5a2vpY5L_dwG3cDPximy0gSlyGaOCVNS7yNVJsBy9AEEBY1Ou7Y4oF_1w3qjM29JZeEZdMAlf5WN1lArRcE3sX19okjhtBdqAwGJq8FgJtuV0ke12YDAQ05BfU3yxZnNEsyjtYnTN1TO50fQbpidgDs_TqBxuh4ioLSDes%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQmxMoAHoECCAQAg"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=thunderbolts*+michael+hersey&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-iAwnhUGyjRn2pCg024T7gDoAluB7LlHe5a2vpY5L_dwG3cDPximy0gSlyGaOCVNS7yNVJsBy9AEEBY1Ou7Y4oF_1w3qjM29JZeEZdMAlf5WN1lArRcE3sX19okjhtBdqAwGJq8FgJtuV0ke12YDAQ05BfU3yxZnNEsyjtYnTN1TO50fQbpidgDs_TqBxuh4ioLSDes%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QmxMoAHoECCMQAg"
       }
     ],
     "cinematografía": "Andrew Droz Palermo",
     "cinematografía_links": [
       {
         "text": "Andrew Droz Palermo",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Andrew+Droz+Palermo&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-t7cTr5XyHiJlZhvHj3qz03DgeW-MkDTqMSBiY0LNgVl-oBzUHuEhZ2zO08CmsdiJg_AyEw4khastkRpeXyx90lqxss43lpIGm9zx8oDVumJ7XPLwTbrslvn-hfP7NCaM79lBGwayfOJN4gl9NaAINBNC6-dvem_DUZ4MEdWWDvjoDmbcg%3D%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQmxMoAHoECCcQAg"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Andrew+Droz+Palermo&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-t7cTr5XyHiJlZhvHj3qz03DgeW-MkDTqMSBiY0LNgVl-oBzUHuEhZ2zO08CmsdiJg_AyEw4khastkRpeXyx90lqxss43lpIGm9zx8oDVumJ7XPLwTbrslvn-hfP7NCaM79lBGwayfOJN4gl9NaAINBNC6-dvem_DUZ4MEdWWDvjoDmbcg%3D%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QmxMoAHoECCEQAg"
       }
     ],
     "diseño_de_vestuario": "Sanja Milkovic Hays",
     "diseño_de_vestuario_links": [
       {
         "text": "Sanja Milkovic Hays",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Sanja+Milkovic+Hays&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-rJvKOBQqXJcqbeVXVCtQ5-60Abhb2TXXpaCFv385u8FbyEm8aI06OXfoWs3DvlsfKvtWtaL9y08j57NpYOVOVbhi0iWc9DMBMPrHFnYu9Q290Pu3-TV44XlZX6N5q12t__euh6Y9cuk3vduckGZCQNNTvf2siuhxyK5WWfk6NIH5QlG3A%3D%3D&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQmxMoAHoECCEQAg"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Sanja+Milkovic+Hays&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-rJvKOBQqXJcqbeVXVCtQ5-60Abhb2TXXpaCFv385u8FbyEm8aI06OXfoWs3DvlsfKvtWtaL9y08j57NpYOVOVbhi0iWc9DMBMPrHFnYu9Q290Pu3-TV44XlZX6N5q12t__euh6Y9cuk3vduckGZCQNNTvf2siuhxyK5WWfk6NIH5QlG3A%3D%3D&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QmxMoAHoECCIQAg"
       }
     ],
     "audience_reviews": [
@@ -1899,12 +1797,12 @@
       "position": 1,
       "title": "Thunderbolts",
       "link": "https://www.multiplex.com.ar/peliculas/thunderbolts/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/thunderbolts/&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoECDwQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/thunderbolts/&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoECEMQAQ",
       "displayed_link": "https://www.multiplex.com.ar › peliculas › thunderbolts",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc815d057c7cc2db99c728068ffa31716295c.png",
-      "snippet": "Ver Horarios y Comprar Entradas ; Seleccioná el Complejo. Multiplex San Juan; Multiplex Belgrano; Multiplex Canning; Multiplex Lavalle; Multiplex Pilar.",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc815d057c7cc2db99c728068ffa31716295c.png",
+      "snippet": "Ver Horarios y Comprar Entradas ; Seleccioná el Complejo. Multiplex San Juan; Multiplex Belgrano ; Seleccioná el Tipo de Sala. Todas; 2D ; Seleccioná el Idioma.",
       "snippet_highlighted_words": [
-        "Horarios"
+        "Ver Horarios y Comprar Entradas"
       ],
       "source": "Cines Multiplex"
     },
@@ -1912,10 +1810,10 @@
       "position": 2,
       "title": "Thunderbolts",
       "link": "https://m.cinesargentinos.com.ar/pelicula/9921-thunderbolts-/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/pelicula/9921-thunderbolts-/&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoECEUQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/pelicula/9921-thunderbolts-/&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoECDwQAQ",
       "displayed_link": "https://m.cinesargentinos.com.ar › 9921-thunderbolts-",
-      "thumbnail": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc815463c753c3a5b97a8067cdd56cd7364d8.jpeg",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc815ea8d410040b351ff1b65bde950db4041.png",
+      "thumbnail": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc815463c753c3a5b97a8067cdd56cd7364d8.jpeg",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc815ea8d410040b351ff1b65bde950db4041.png",
       "snippet": "Thunderbolts ofrece un nuevo exponente del cine insípido y desapasionado al que nos tiene acostumbrados el MCU de los últimos años con una adición positiva ...",
       "snippet_highlighted_words": [
         "Thunderbolts"
@@ -1925,7 +1823,7 @@
       ],
       "must_include": {
         "word": "Aires",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+%22Aires%22&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ5t4CegQIThAB"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+%22Aires%22&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q5t4CegQITRAB"
       },
       "source": "Cines Argentinos"
     },
@@ -1933,9 +1831,9 @@
       "position": 3,
       "title": "Cines Multiplex: Películas en Cartelera",
       "link": "https://www.multiplex.com.ar/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoECDgQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoECDcQAQ",
       "displayed_link": "https://www.multiplex.com.ar",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc8150d9facacc697a178d24bcd38001c1d53.png",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc8150d9facacc697a178d24bcd38001c1d53.png",
       "snippet": "Te esperamos en nuestros complejos de CABA y GBA · anticipada. Lilo & Stitch · Thunderbolts* · anticipada. Destino Final: Lazos De Sangre · anticipada. Mision ...",
       "snippet_highlighted_words": [
         "Thunderbolts"
@@ -1944,12 +1842,40 @@
     },
     {
       "position": 4,
+      "title": "Cinemark",
+      "link": "https://www.cinemarkhoyts.com.ar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoECDgQAQ",
+      "displayed_link": "https://www.cinemarkhoyts.com.ar",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc8154e80f9f2c45824a7731dca1bc347fe89.png",
+      "snippet": "Películas en cartelera · THUNDERBOLTS · KARATE KID LEYENDAS · UNA PELICULA DE MINECRAFT · MAZEL TOV · ENCERRADO · BJÖRK CORNUCOPIA · EL CLAN (2015) · ESPERANDO LA ...",
+      "snippet_highlighted_words": [
+        "THUNDERBOLTS"
+      ],
+      "source": "Cinemark"
+    },
+    {
+      "position": 5,
+      "title": "Thunderbolts*. Cartelera de Cine - LA NACION",
+      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/thunderbolts-pe19500",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/thunderbolts-pe19500&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoECD0QAQ",
+      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
+      "thumbnail": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc8151161372836138f2adf16f3b2b1010849.jpeg",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc8156851719ebbf027381417f83a5d534b7b.png",
+      "date": "24 abr 2025",
+      "snippet": "FUNCIONES DE THUNDERBOLTS* ; Alfa · castellano: 17:00, 22:00 ; Annuar Shopping · castellano: 16:10, 17:45, 20:10, 22:30 ; Atlas Monteagudo.",
+      "snippet_highlighted_words": [
+        "FUNCIONES DE THUNDERBOLTS"
+      ],
+      "source": "La Nación"
+    },
+    {
+      "position": 6,
       "title": "thunderbolts",
       "link": "https://www.cinemarkhoyts.com.ar/pelicula/THUNDERBOLTS",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/THUNDERBOLTS&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoECEMQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/THUNDERBOLTS&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoECD8QAQ",
       "displayed_link": "https://www.cinemarkhoyts.com.ar › pelicula › THUND...",
-      "thumbnail": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc815f333b30ecb4e024c311c2f5690a01934.jpeg",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc8154e80f9f2c45824a7731dca1bc347fe89.png",
+      "thumbnail": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc8150a42bf1045b15d4a16ff5e0d207cfc0b.jpeg",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc81561e44c0cafb99b505d54d8b1b168e191.png",
       "snippet": "Elegí Película. THUNDERBOLTS. 2h 6m. S13. THUNDERBOLTS. Acción. Un grupo de supervillanos es reclutado para hacer misiones para el ... Horarios Sobre. Seguínos ...",
       "snippet_highlighted_words": [
         "THUNDERBOLTS"
@@ -1959,46 +1885,18 @@
       ],
       "must_include": {
         "word": "Buenos",
-        "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=pel%C3%ADcula+Thunderbolts*+horarios+cines+%22Buenos%22+Aires&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ5t4CegQITRAB"
+        "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=pel%C3%ADcula+Thunderbolts*+horarios+cines+%22Buenos%22+Aires&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q5t4CegQITBAB"
       },
-      "source": "Cinemark"
-    },
-    {
-      "position": 5,
-      "title": "Thunderbolts*. Cartelera de Cine - LA NACION",
-      "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/thunderbolts-pe19500",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/thunderbolts-pe19500&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoECDkQAQ",
-      "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc8156851719ebbf027381417f83a5d534b7b.png",
-      "date": "24 abr 2025",
-      "snippet": "FUNCIONES DE THUNDERBOLTS* ; Alfa · castellano: 17:00, 22:00 ; Atlas Monteagudo · castellano: 20:00 subtitulada: 22:20 ; Belgrano Multiplex.",
-      "snippet_highlighted_words": [
-        "FUNCIONES DE THUNDERBOLTS"
-      ],
-      "source": "La Nación"
-    },
-    {
-      "position": 6,
-      "title": "Cinemark",
-      "link": "https://www.cinemarkhoyts.com.ar/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoECEQQAQ",
-      "displayed_link": "https://www.cinemarkhoyts.com.ar",
-      "thumbnail": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc8150a42bf1045b15d4a16ff5e0d207cfc0b.jpeg",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc81561e44c0cafb99b505d54d8b1b168e191.png",
-      "snippet": "Películas en cartelera · THUNDERBOLTS · KARATE KID LEYENDAS · UNA PELICULA DE MINECRAFT · MAZEL TOV · ENCERRADO · BJÖRK CORNUCOPIA · EL CLAN (2015) · ESPERANDO LA ...",
-      "snippet_highlighted_words": [
-        "THUNDERBOLTS"
-      ],
       "source": "Cinemark"
     },
     {
       "position": 7,
       "title": "Thunderbolts* | Cines | Horarios",
       "link": "https://m.cinesargentinos.com.ar/horarios/?zona=&cine=&pelicula=9921-thunderbolts-/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/horarios/%3Fzona%3D%26cine%3D%26pelicula%3D9921-thunderbolts-/&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoFCI4BEAE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.cinesargentinos.com.ar/horarios/%3Fzona%3D%26cine%3D%26pelicula%3D9921-thunderbolts-/&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoFCJMBEAE",
       "displayed_link": "https://m.cinesargentinos.com.ar › horarios › pelicula=99...",
-      "thumbnail": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc8152991fcd3ef164fa157fdb9661f8158cd.jpeg",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc8153184e5556c8cc968a622dd731cc8ee38.png",
+      "thumbnail": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc8152991fcd3ef164fa157fdb9661f8158cd.jpeg",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc8153184e5556c8cc968a622dd731cc8ee38.png",
       "snippet": "Momentáneamente no hay una empresa que reúna los horarios de los cines. Pronto esperamos poder tener nuevamente el servicio de horarios.",
       "snippet_highlighted_words": [
         "Momentáneamente no hay una empresa que reúna los horarios de los cines"
@@ -2009,9 +1907,9 @@
       "position": 8,
       "title": "Thunderbolts* - Horarios y entradas",
       "link": "https://www.imdb.com/es/showtimes/title/tt20969586/AR/B1650/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/es/showtimes/title/tt20969586/AR/B1650/&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoFCIwBEAE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/es/showtimes/title/tt20969586/AR/B1650/&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoFCIgBEAE",
       "displayed_link": "https://www.imdb.com › showtimes › title",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc81535833f9082dbb9f266196a8fec0d70ca.png",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc81535833f9082dbb9f266196a8fec0d70ca.png",
       "snippet": "Todos los teatros cercanos. Cine Hoyts DOT. Vedia 3626 DOT Baires Mall, Buenos Aires DF 1430 5 kilometers0810-122-46987. Standard: 12:45 PM2:30 PM3:20 PM3: ...",
       "snippet_highlighted_words": [
         "12:45 PM"
@@ -2022,10 +1920,10 @@
       "position": 9,
       "title": "Cartelera del Cine Arenas",
       "link": "https://cineslacosta.com.ar/salas.php?sala=AR",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cineslacosta.com.ar/salas.php%3Fsala%3DAR&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoFCI0BEAE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cineslacosta.com.ar/salas.php%3Fsala%3DAR&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoFCIoBEAE",
       "displayed_link": "https://cineslacosta.com.ar › salas",
-      "thumbnail": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc815b9176a023642681e7fb1b2e7fe67e9d3.jpeg",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc815c4185366956d15495e5a0c141b96bd7e.png",
+      "thumbnail": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc815b9176a023642681e7fb1b2e7fe67e9d3.jpeg",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc815c4185366956d15495e5a0c141b96bd7e.png",
       "snippet": "Thunderbolts*. Sala, Sala 1. Género, Acción / Aventura. Clasificación, SAM13. Duración, 2h 6m. [ ver otras funciones de la película ]. 18:00. 3D - CASTELLANO $ ...",
       "snippet_highlighted_words": [
         "Thunderbolts"
@@ -2034,15 +1932,35 @@
     },
     {
       "position": 10,
-      "title": "CINES SHOWCASE | Cartelera belgrano",
-      "link": "https://www.todoshowcase.com/cartelera/belgrano",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/cartelera/belgrano&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQFnoFCIsBEAE",
-      "displayed_link": "https://www.todoshowcase.com › cartelera › belgrano",
-      "favicon": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/d0d9f3e2528d0582cb28e049099cc815acf277a416f0f4c9161715dab7a4e102.png",
-      "snippet": "Thunderbolts*. Duración: 126 minutos. Calificación: SM13S. Ver Tráiler · COMPRAR ... Una película de Minecraft. Duración: 101 minutos. Calificación: ATPCL. Ver ...",
+      "title": "Cartelera de Cines Showcase | IMAX - Consultá Entradas 2x1",
+      "link": "https://www.todoshowcase.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0QFnoFCI0BEAE",
+      "displayed_link": "https://www.todoshowcase.com",
+      "favicon": "https://serpapi.com/searches/6821130022abf790d48bf899/images/d0d9f3e2528d0582cb28e049099cc815acf277a416f0f4c9161715dab7a4e102.png",
+      "snippet": "Cines Showcase ofrece salas en Norcenter, IMAX, Belgrano, Haedo, Quilmes, Córdoba (Villa Cabrera y Villa Allende) y Rosario.Estacionamiento disponible.",
       "snippet_highlighted_words": [
-        "Thunderbolts"
+        "Cines"
       ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Thunderbolts",
+            "link": "https://entradas.todoshowcase.com/showcase/pelicula?filmid=4481"
+          },
+          {
+            "title": "Una película de Minecraft",
+            "link": "https://entradas.todoshowcase.com/showcase/pelicula?filmid=4374"
+          },
+          {
+            "title": "Sonic 3: la película",
+            "link": "https://entradas.todoshowcase.com/showcase/pelicula?filmid=4127"
+          },
+          {
+            "title": "Promociones",
+            "link": "https://www.todoshowcase.com/promocion"
+          }
+        ]
+      },
       "source": "Showcase Belgrano"
     }
   ],
@@ -2052,38 +1970,38 @@
       "items": [
         {
           "name": "Cinemark Hoyts",
-          "image": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9e26cd1c6f7c4d31b9ac8c38f83f5eed6.gif",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Hoyts+Rosario&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEw2LjewNEky_8XIsIGF4RULPxeq-CsWXi5ukEiZeUFVXoEJkoqiqor4yqwChEhSZXyGZUWuKVxPSXpOgZFxOpKe4kJLszLTSoSKlAIzs4ICBD8tzaK4qALBTy6pLKysRLLDvNAoKSkvaxGrkHNmXqqCR35lSbFCUH5xYlFm_i02SYYwv_DPiTMOs73bV5VWnKDIpTkr-tGBe1brFnEIhSTmJmUeXpmnUJyqkFRanHx48woORgAwOu5MCgEAAA&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQs9oBKAB6BQiTARAJ",
+          "image": "https://serpapi.com/searches/6821130022abf790d48bf899/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9e26cd1c6f7c4d31b9ac8c38f83f5eed6.gif",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cine+Hoyts+Rosario&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEw2LjewNEky_8XIsIGF4RULPxeq-CsWXi5ukEiZeUFVXoEJkoqiqor4yqwChEhSZXyGZUWuKVxPSXpOgZFxOpKe4kJLszLTSoSKlAIzs4ICBD8tzaK4qALBTy6pLKysRLLDvNAoKSkvaxGrkHNmXqqCR35lSbFCUH5xYlFm_i02SYYwv_DPiTMOs73bV5VWnKDIpTkr-tGBe1brFnEIhSTmJmUeXpmnUJyqkFRanHx48woORgAwOu5MCgEAAA&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Qs9oBKAB6BQiQARAJ",
           "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Hoyts+Rosario&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEw2LjewNEky_8XIsIGF4RULPxeq-CsWXi5ukEiZeUFVXoEJkoqiqor4yqwChEhSZXyGZUWuKVxPSXpOgZFxOpKe4kJLszLTSoSKlAIzs4ICBD8tzaK4qALBTy6pLKysRLLDvNAoKSkvaxGrkHNmXqqCR35lSbFCUH5xYlFm_i02SYYwv_DPiTMOs73bV5VWnKDIpTkr-tGBe1brFnEIhSTmJmUeXpmnUJyqkFRanHx48woORgAwOu5MCgEAAA"
         },
         {
           "name": "Hoyts Unicenter | Cinemark H...",
-          "image": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9ccaafd6e7bacb174c8648d1522ab72a6.gif",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF7I6JBVFVRXxlVkFCJGkyvgMy4pcU7iekvScAiPjdCQ9xYWWZmWmlQgVKQVmZgUFCH5amkVxUQWCn1xSWVhZiWSHeaFRUlJe1iJWBY_8ypJihdC8zOTUvJLUIoUaBefMvNTcxKJsiNQtNkmGML_wz4kzDrO921eVVpygyKU5K_rRgXtW6xZxCIUk5iZlHl6Zp1CcqpBUWpx8ePMKDkYAazWzYRYBAAA&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQs9oBKAB6BQiTARAO",
-          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF7I6JBVFVRXxlVkFCJGkyvgMy4pcU7iekvScAiPjdCQ9xYWWZmWmlQgVKQVmZgUFCH5amkVxUQWCn1xSWVhZiWSHeaFRUlJe1iJWBY_8ypJihdC8zOTUvJLUIoUaBefMvNTcxKJsiNQtNkmGML_wz4kzDrO921eVVpygyKU5K_rRgXtW6xZxCIUk5iZlHl6Zp1CcqpBUWpx8ePMKDkYAazWzYRYBAAA"
+          "image": "https://serpapi.com/searches/6821130022abf790d48bf899/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9ccaafd6e7bacb174c8648d1522ab72a6.gif",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cine+Hoyts+Unicenter&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF7I6JBVFVRXxlVkFCJGkyvgMy4pcU7iekvScAiPjdCQ9xYWWZmWmlQgVKQVmZgUFCH5amkVxUQWCn1xSWVhZiWSHeaFRUlJe1iJWEefMvFQFj_zKkmKF0LzM5NS8ktSiW2ySDGF-4Z8TZxxme7evKq04QZFLc1b0owP3rNYt4hAKScxNyjy8Mk-hOFUhqbQ4-fDmFRyMAAINN88KAQAA&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Qs9oBKAB6BQiQARAO",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Hoyts+Unicenter&stick=H4sIAAAAAAAAAOMwVOLWT9c3LDMvqMorMPnFyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF7I6JBVFVRXxlVkFCJGkyvgMy4pcU7iekvScAiPjdCQ9xYWWZmWmlQgVKQVmZgUFCH5amkVxUQWCn1xSWVhZiWSHeaFRUlJe1iJWEefMvFQFj_zKkmKF0LzM5NS8ktSiW2ySDGF-4Z8TZxxme7evKq04QZFLc1b0owP3rNYt4hAKScxNyjy8Mk-hOFUhqbQ4-fDmFRyMAAINN88KAQAA"
         },
         {
           "name": "Cinemark Hoyts Dot",
-          "image": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9b9d6a8e3a6e38e6c82137f8574ccfa3f.gif",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Hoyts+DOT&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuqqqIr8wq-MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABEkFVCdCJKkyPsOyItcUrqckPafAyDgdSU9xoaVZmWklQkVKgZlZQQGCn5ZmUVxUgeAnl1QWVlYi2WFeaJSUlJe1iJXPOTMvVcEjv7KkWMHFP-QWmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMAGnWElwYBAAA&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQs9oBKAB6BQiTARAT",
+          "image": "https://serpapi.com/searches/6821130022abf790d48bf899/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9b9d6a8e3a6e38e6c82137f8574ccfa3f.gif",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cine+Hoyts+DOT&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuqqqIr8wq-MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABEkFVCdCJKkyPsOyItcUrqckPafAyDgdSU9xoaVZmWklQkVKgZlZQQGCn5ZmUVxUgeAnl1QWVlYi2WFeaJSUlJe1iJXPOTMvVcEjv7KkWMHFP-QWmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMAGnWElwYBAAA&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Qs9oBKAB6BQiQARAT",
           "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Hoyts+DOT&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuqqqIr8wq-MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABEkFVCdCJKkyPsOyItcUrqckPafAyDgdSU9xoaVZmWklQkVKgZlZQQGCn5ZmUVxUgeAnl1QWVlYi2WFeaJSUlJe1iJXPOTMvVcEjv7KkWMHFP-QWmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4hEISc5MyD6_MUyhOVUgqLU4-vHkFByMAGnWElwYBAAA"
         },
         {
           "name": "Cinépolis Recoleta",
-          "image": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c98351ec1f1138ebdc3321acd17ac75f81.gif",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEyqjM-wrMg1_cXIsIGF4RULPxdEPNm43MDSJMn8FQsvFzdIpMy8oCqvwARJRVFVRXxlVgFCBGYWXE9Jek6BkXE6kp7iQkuzMtNKhIqUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauwc2be4ZUF-TmZxQpBqcn5OaklibfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAGQ9S7TCwEAAA&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQs9oBKAB6BQiTARAY",
+          "image": "https://serpapi.com/searches/6821130022abf790d48bf899/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c98351ec1f1138ebdc3321acd17ac75f81.gif",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Recoleta&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEyqjM-wrMg1_cXIsIGF4RULPxdEPNm43MDSJMn8FQsvFzdIpMy8oCqvwARJRVFVRXxlVgFCBGYWXE9Jek6BkXE6kp7iQkuzMtNKhIqUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauwc2be4ZUF-TmZxQpBqcn5OaklibfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAGQ9S7TCwEAAA&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Qs9oBKAB6BQiQARAY",
           "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cin%C3%A9polis+Recoleta&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEyqjM-wrMg1_cXIsIGF4RULPxdEPNm43MDSJMn8FQsvFzdIpMy8oCqvwARJRVFVRXxlVgFCBGYWXE9Jek6BkXE6kp7iQkuzMtNKhIqUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauwc2be4ZUF-TmZxQpBqcn5OaklibfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAGQ9S7TCwEAAA"
         },
         {
           "name": "Multiplex Belgrano",
-          "image": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c95ace727ca6519fc04b478a13d8a1919f.gif",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Multiplex+Belgrano&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEnPKTAyTv_FyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF1hdmXlBVV6BCZKKoqqK-MqsAoRIUmV8hmVFrilcD9RsJD3FhZZmZaaVCBUpBWZmBQUIflqaRXFRBYKfXFJZWFmJZId5oVFSUl7WIlYh39KcksyCnNQKBafUnPSixLz8W2ySDGF-4Z8TZxxme7evKq04QZFLc1b0owP3rNYt4hAKScxNyjy8Mk-hOFUhqbQ4-fDmFRyMACnB3RYIAQAA&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQs9oBKAB6BQiTARAd",
+          "image": "https://serpapi.com/searches/6821130022abf790d48bf899/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c95ace727ca6519fc04b478a13d8a1919f.gif",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Multiplex+Belgrano&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEnPKTAyTv_FyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF1hdmXlBVV6BCZKKoqqK-MqsAoRIUmV8hmVFrilcD9RsJD3FhZZmZaaVCBUpBWZmBQUIflqaRXFRBYKfXFJZWFmJZId5oVFSUl7WIlYh39KcksyCnNQKBafUnPSixLz8W2ySDGF-4Z8TZxxme7evKq04QZFLc1b0owP3rNYt4hAKScxNyjy8Mk-hOFUhqbQ4-fDmFRyMACnB3RYIAQAA&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Qs9oBKAB6BQiQARAd",
           "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Multiplex+Belgrano&stick=H4sIAAAAAAAAAOMwVOLWT9c3LEnPKTAyTv_FyLCBheEVCz8XL0jUMNm43MDSJMn8FQsvF1hdmXlBVV6BCZKKoqqK-MqsAoRIUmV8hmVFrilcD9RsJD3FhZZmZaaVCBUpBWZmBQUIflqaRXFRBYKfXFJZWFmJZId5oVFSUl7WIlYh39KcksyCnNQKBafUnPSixLz8W2ySDGF-4Z8TZxxme7evKq04QZFLc1b0owP3rNYt4hAKScxNyjy8Mk-hOFUhqbQ4-fDmFRyMACnB3RYIAQAA"
         },
         {
           "name": "Cinépolis Merlo",
-          "image": "https://serpapi.com/searches/6820280a6adf276d2ba56d2f/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9cbe699048f6a9152082b17d668558d31.gif",
-          "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cin%C3%A9polis+Merlo&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuLrQ0KzOt_MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABElFUVVFfGVWAUIkqTI-w7Ii1xSupyQ9p8DIOB1JD9Q2hIqUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauAc2be4ZUF-TmZxQq-qUU5-bfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAGsKAXuCAEAAA&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQs9oBKAB6BQiTARAi",
+          "image": "https://serpapi.com/searches/6821130022abf790d48bf899/images/32924c1f7536403f3c7f6a0a6e18ee007bac8e78d43a90c9cbe699048f6a9152082b17d668558d31.gif",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cin%C3%A9polis+Merlo&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuLrQ0KzOt_MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABElFUVVFfGVWAUIkqTI-w7Ii1xSupyQ9p8DIOB1JD9Q2hIqUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauAc2be4ZUF-TmZxQq-qUU5-bfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAGsKAXuCAEAAA&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Qs9oBKAB6BQiQARAi",
           "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cin%C3%A9polis+Merlo&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwuLrQ0KzOt_MXIsIGF4RULPxdU3LjcwNIkyfwVCy8XN0ikzLygKq_ABElFUVVFfGVWAUIkqTI-w7Ii1xSupyQ9p8DIOB1JD9Q2hIqUAjOzggIEPy3NorioAsFPLqksrKxEssO80CgpKS9rEauAc2be4ZUF-TmZxQq-qUU5-bfYJBnC_MI_J844zPZuX1VacYIil-as6EcH7lmtW8QhFJKYm5R5eGWeQnGqQlJpcfLhzSs4GAGsKAXuCAEAAA"
         }
       ]
@@ -2091,65 +2009,65 @@
     {
       "block_position": 1,
       "query": "Horarios de salas de cine en Buenos Aires",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQihARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQigARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires"
     },
     {
       "block_position": 1,
       "query": "Cartelera de cine Cinemark",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+cine+Cinemark&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQiiARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cartelera+de+cine+Cinemark&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQiZARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+Cinemark"
     },
     {
       "block_position": 1,
       "query": "Cartelera de cine hoyts",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cartelera+de+cine+hoyts&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQieARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cartelera+de+cine+hoyts&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQiaARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+hoyts"
     },
     {
       "block_position": 1,
       "query": "Cine Las Toscas canning Cartelera horarios y precios",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQicARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQibARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios"
     },
     {
       "block_position": 1,
       "query": "Cine múltiplex Cartelera",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+m%C3%BAltiplex+Cartelera&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQidARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cine+m%C3%BAltiplex+Cartelera&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQifARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+m%C3%BAltiplex+Cartelera"
     },
     {
       "block_position": 1,
       "query": "Cine Lavalle cartelera",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Lavalle+cartelera&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQifARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cine+Lavalle+cartelera&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQicARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Lavalle+cartelera"
     },
     {
       "block_position": 1,
       "query": "Mejores películas en cartelera hoy",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQiZARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQidARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy"
     },
     {
       "block_position": 1,
       "query": "Cine Belgrano Cartelera",
-      "link": "https://www.google.com/search?sca_esv=94cd03490605ca63&gl=ar&hl=es&q=Cine+Belgrano+Cartelera&sa=X&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ1QJ6BQigARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&q=Cine+Belgrano+Cartelera&sa=X&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q1QJ6BQieARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Belgrano+Cartelera"
     }
   ],
   "pagination": {
     "current": 1,
-    "next": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=10&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8NMDegQICRAW",
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=10&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8NMDegQICRAW",
     "other_pages": {
-      "2": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=10&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAE",
-      "3": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=20&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAG",
-      "4": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=30&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAI",
-      "5": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=40&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAK",
-      "6": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=50&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAM",
-      "7": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=60&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAO",
-      "8": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=70&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAQ",
-      "9": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=80&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAS",
-      "10": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=94cd03490605ca63&gl=ar&hl=es&ei=CyggaLmKG5WLwbkP65b1wQw&start=90&sa=N&sstk=Af40H4V6csealIRrAGfPFWt-B5rxjFfVbCQIPIXfoV2jmkT067Krh9tqeOJJak29louOgcR63-1LSGH2rDWyl4Bq6UKsAvPWtHJd3Q&ved=2ahUKEwj5u6LYypqNAxWVRTABHWtLPcgQ8tMDegQICRAU"
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=10&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=20&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=30&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=40&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=50&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=60&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=70&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=80&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=pel%C3%ADcula+Thunderbolts*+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&gl=ar&hl=es&ei=AhMhaK3lC96x0PEP-Y3S6Qg&start=90&sa=N&sstk=Af40H4W3-6fZ_XA_Q5fWmfRr8jvGfPNYgVl8lU1zTlJPImBWGIHLCN5di-zmLbFDHo1ziZRCFddBRQ_VsFuuiHLZuN_-lYa5J4zE3w&ved=2ahUKEwit7rDiqpyNAxXeGDQIHfmGNI0Q8tMDegQICRAU"
     }
   },
   "serpapi_pagination": {

@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "68202bcb73d2245e4ac4cc23",
+    "id": "6821130399d5f4440cf2d0f0",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/88d38b2474d1ab7d/68202bcb73d2245e4ac4cc23.json",
-    "created_at": "2025-05-11 04:47:07 UTC",
-    "processed_at": "2025-05-11 04:47:07 UTC",
+    "json_endpoint": "https://serpapi.com/searches/88d38b2474d1ab7d/6821130399d5f4440cf2d0f0.json",
+    "created_at": "2025-05-11 21:13:39 UTC",
+    "processed_at": "2025-05-11 21:13:39 UTC",
     "google_url": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&oq=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&hl=es&gl=ar&sourceid=chrome&ie=UTF-8",
-    "raw_html_file": "https://serpapi.com/searches/88d38b2474d1ab7d/68202bcb73d2245e4ac4cc23.html",
-    "total_time_taken": 1.22
+    "raw_html_file": "https://serpapi.com/searches/88d38b2474d1ab7d/6821130399d5f4440cf2d0f0.html",
+    "total_time_taken": 1.54
   },
   "search_parameters": {
     "engine": "google",
@@ -19,8 +19,8 @@
   },
   "search_information": {
     "query_displayed": "película La carga más preciada horarios cines Buenos Aires",
-    "total_results": 34200,
-    "time_taken_displayed": 0.29,
+    "total_results": 21800,
+    "time_taken_displayed": 0.43,
     "organic_results_state": "Results for exact spelling"
   },
   "showtimes": [
@@ -29,13 +29,12 @@
       "theaters": [
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QySZ6BAh0EAs",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQySZ6BAhYEAs",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "3:50p. m.",
                 "5:45p. m."
               ]
             }
@@ -43,13 +42,12 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QySZ6BAh0EBA",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQySZ6BAhYEA8",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "3:15p. m.",
                 "8:00p. m."
               ]
             }
@@ -57,13 +55,12 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QySZ6BAh0EBU",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQySZ6BAhYEBM",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "1:00p. m.",
                 "10:30p. m."
               ]
             }
@@ -71,41 +68,25 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QySZ6BAh0EBo",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "1:00p. m.",
                 "6:10p. m."
               ]
             }
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY4-3E-VzU_wQwpIDzUdAMfdWEFsXNUY0gevVXGaiHguZOf7j2z20itl2snWVrsPJAkRcNr9EP-ZEssKCXHqLohqkiEHu1GiBjBO90boayXEdak-gRU%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QySZ6BAh0EB8",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "4:30p. m.",
-                "9:00p. m."
-              ]
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QySZ6BAh0ECQ",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
             {
               "time": [
-                "4:15p. m.",
                 "8:20p. m."
               ]
             }
@@ -113,14 +94,12 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
             {
               "time": [
-                "2:05p. m.",
-                "4:05p. m.",
                 "8:05p. m."
               ]
             }
@@ -128,13 +107,12 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
             {
               "time": [
-                "1:25p. m.",
                 "7:45p. m."
               ]
             }
@@ -142,14 +120,12 @@
         },
         {
           "name": "Showcase Cinemas Haedo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
           "distance": "18,8 km",
           "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
           "showing": [
             {
               "time": [
-                "2:10p. m.",
-                "4:10p. m.",
                 "8:20p. m."
               ]
             }
@@ -157,13 +133,12 @@
         },
         {
           "name": "Cinépolis Pilar",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
           "distance": "48,3 km",
           "address": "Panamericana Km 50, Pilar, BA",
           "showing": [
             {
               "time": [
-                "3:50p. m.",
                 "8:10p. m."
               ]
             }
@@ -171,7 +146,7 @@
         },
         {
           "name": "Cinema Paradiso",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
           "distance": "52,1 km",
           "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
           "showing": [
@@ -190,7 +165,7 @@
       "theaters": [
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
@@ -204,7 +179,7 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
@@ -218,7 +193,7 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
@@ -232,7 +207,7 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
@@ -245,22 +220,8 @@
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY4-3E-VzU_wQwpIDzUdAMfdWEFsXNUY0gevVXGaiHguZOf7j2z20itl2snWVrsPJAkRcNr9EP-ZEssKCXHqLohqkiEHu1GiBjBO90boayXEdak-gRU%3D",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "4:30p. m.",
-                "9:00p. m."
-              ]
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
@@ -274,7 +235,7 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
@@ -289,7 +250,7 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
@@ -303,7 +264,7 @@
         },
         {
           "name": "Showcase Cinemas Haedo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
           "distance": "18,8 km",
           "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
           "showing": [
@@ -318,7 +279,7 @@
         },
         {
           "name": "Cinépolis Pilar",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
           "distance": "48,3 km",
           "address": "Panamericana Km 50, Pilar, BA",
           "showing": [
@@ -332,7 +293,7 @@
         },
         {
           "name": "Cinema Paradiso",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
           "distance": "52,1 km",
           "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
           "showing": [
@@ -351,7 +312,7 @@
       "theaters": [
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
@@ -365,7 +326,7 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
@@ -379,7 +340,7 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
@@ -393,7 +354,7 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
@@ -406,22 +367,8 @@
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY4-3E-VzU_wQwpIDzUdAMfdWEFsXNUY0gevVXGaiHguZOf7j2z20itl2snWVrsPJAkRcNr9EP-ZEssKCXHqLohqkiEHu1GiBjBO90boayXEdak-gRU%3D",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "4:30p. m.",
-                "9:00p. m."
-              ]
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
@@ -435,7 +382,7 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
@@ -450,7 +397,7 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
@@ -464,7 +411,7 @@
         },
         {
           "name": "Showcase Cinemas Haedo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
           "distance": "18,8 km",
           "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
           "showing": [
@@ -479,7 +426,7 @@
         },
         {
           "name": "Cinépolis Pilar",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
           "distance": "48,3 km",
           "address": "Panamericana Km 50, Pilar, BA",
           "showing": [
@@ -493,7 +440,7 @@
         },
         {
           "name": "Cinema Paradiso",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
           "distance": "52,1 km",
           "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
           "showing": [
@@ -512,7 +459,7 @@
       "theaters": [
         {
           "name": "Cinepolis Plaza Houssay",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinepolis+Plaza+Houssay&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh2uoyEQzCFbov62993W96hUcSAOXop8K9PzVPooD4y24ukDBaDqsI3X42ko9hpXlT17YpgHsxr-s7VHg2g6tMqp890pUsaHJgd5d78LV-cIGiPZmp-1lJuOIVZYEJIFSryADF7zoOOZbNJfx2ZJ4PNxJ2mMLIfLJJMO7KdOWaJidllL7t0ntGe3rhj3oMOuF5iZIZXM7WUQC0diASeD8OD6wqVcNTi8aVk8kcz9sCZD9EBdh6kAQ_UWfh8AVcX5DKDvEngg%3D",
           "distance": "1,6 km",
           "address": "Avenida Córdoba 2135 - Paseo Houssay, C1120 Ciudad Autónoma de Buenos Aires, DF",
           "showing": [
@@ -526,7 +473,7 @@
         },
         {
           "name": "Cinépolis Recoleta",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Recoleta&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8RhzGReaUNHjmpy87kaor_6j6_3vwfgzvGfl5HsID1FNJ0J8-jbFuroyQ4qAzep8Az9b3XF-dGqPRmkmfxtYYnVROGI0LRFAZMi2TzgKDC_YsJexSv3KCaEhHjY0HsSCir3ClNFCQl0Tbw6ijsPOCvGSy5oShXNIwFoZMf0z2ADAPmhqomsaMS8uQSOhGydagNLxqjGINrGNfq9KRbvbc4QWZ6DnYqDOq4sHRCIlL78s69X04CiPYxzqIdy4eBv5R_nLuOFr0%3D",
           "distance": "2,0 km",
           "address": "Vicente Lopez 2050 Recoleta, Buenos Aires, DF",
           "showing": [
@@ -540,7 +487,7 @@
         },
         {
           "name": "Hoyts Abasto | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Abasto+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33qWvbs7sa9IWajEHwlL2vs_H0qXOsNN39B1YpJ0Ly2p0pXdq9ugUe3ce-ECNt1TQM-X1_yK0Ffq0R5pSmzjdfrADxA6412hMr6DgP9o1hn_XDbfz84JNw-VEZGzByvLY2NHfaQ2U0k6BnfgfFz7mgHYJL1whqhxzjs2mFDZGpU5DKkyqpMThv_5jOiXWbR_Zv2KalonhJpo-d9Sg6z1kW2rpCrnzuJ483a_rP4SEkB9-Hjbs81NPG0OViNwUv2aEA4RWBbo%3D",
           "distance": "2,7 km",
           "address": "Abasto Shopping, Avenida Corrientes 3247, 1193 Buenos Aires, DF",
           "showing": [
@@ -554,7 +501,7 @@
         },
         {
           "name": "Cinemark Palermo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinemark+Palermo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33lvrOzPZvXlNpWwj8yODIhOhyFO2vCl999nXliWU6DLOROBcoecUK8ndn-gORbLJ7b_nCwPDi7tEuYq7TtDCqu2Il57-VIa4WyX5J2ZmVh80FDx679OHgqSwbSE5QXariorNvrDwvgpnuoTukxIU4qWwDmBgNGInyVAKZNOgF8lFchnhPIe0Iq42dUWNUtIzaQIGIxI-dyTqbQ7DUKoS9xDwzH5OpuAs-TydrcpYP27w2lMK8wJ54a5WO2zb_GYBv10h31A%3D",
           "distance": "3,2 km",
           "address": "Avenida La Plata 96, C1184AAN Buenos Aires, DF",
           "showing": [
@@ -567,22 +514,8 @@
           ]
         },
         {
-          "name": "Multiplex Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Multiplex+Belgrano&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33rbZXL300Kl3b5XUgRaUpUuC0jJbOl7MaUeG3C3BSFZMkL6PdQmpwDXyp1-Ts8MYdxB8_WiEXLBnUs7s7der2s1-UZJsGNyDl0BzVKHu1RFZ85WSL512f_86mSMGULWhGDUsUY9ZIXeDDA_W0aVjvY4-3E-VzU_wQwpIDzUdAMfdWEFsXNUY0gevVXGaiHguZOf7j2z20itl2snWVrsPJAkRcNr9EP-ZEssKCXHqLohqkiEHu1GiBjBO90boayXEdak-gRU%3D",
-          "distance": "8,4 km",
-          "address": "Vuelta de Obligado 2199, Buenos Aires, DF",
-          "showing": [
-            {
-              "time": [
-                "4:30p. m.",
-                "9:00p. m."
-              ]
-            }
-          ]
-        },
-        {
           "name": "Showcase Belgrano",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Belgrano&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcj4NB6XINX7TR6wSw0FiLilFMpfPz2ZilTa0JDZB2fj-4U0AFElVSTDQFFoJ_8_P1WqjOkbmo-EbjosbOBUNeo28vK8YMJkBFoPVTJCFL3eNUF9F0inj9nPygQvfaLYDTEHWLhUkMvINIHIH0mWtA2ymMcHGTbyTe7FyD_vJu11Jmr7fYErt8-1pNPf2NFG3juiWq1BBThEmne4DzamjN5QxkDwZ63dPNb0nDqcaSj8NzIhFnCd-xYxe-uPS2b6lTUCITtUY%3D",
           "distance": "8,6 km",
           "address": "Monroe 1655, C1428BKS Buenos Aires, DF",
           "showing": [
@@ -596,7 +529,7 @@
         },
         {
           "name": "Showcase Norcenter Cines",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Norcenter+Cines&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjzEw869NFZlafdF5SFPQ7RF5pAsgdqnTK7Fo6jfaoTWWMjDDedjpLl7oAZANIi5NhJ8dCJZXEVHmQUp1yDwfFUZJfUVD8sAkFwsLUlVxj_mbQT-DrS_HV2kqWYjZn6WlzvjapnnFzjgqpuvM7VupxouBSexE1_SGUEjcBnGkF3vQG9rLEAtoJIw8VF6pOJaymZxFPsEJJvvfMmBQhULDzeMJfd0y8G89Rwz9H9GzjUhQCRpJbmL9CCu5q8gTRKfB9oaTllY%3D",
           "distance": "16,4 km",
           "address": "Esteban Echeverria 3750, B1605DT Vicente López, BA",
           "showing": [
@@ -611,7 +544,7 @@
         },
         {
           "name": "Hoyts Unicenter | Cinemark Hoyts",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Hoyts+Unicenter+%7C+Cinemark+Hoyts&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33hSpSp5HIYEDn-heGMLdbqv2_4PAfFTLtcDKlwSt_HVrQRzXO2gMf7uvT_17a9IuWF0D9t_0CLVWKFCOYlUicp2u1erllMq2WxouLD7_7LIFBffYWV0ywW1AVd7PDB4rva1-6DDcJdrIBmDAFKrKGhJG_DGNEzTjtqDpF7ZRuJn7TJcISGJ2qMDILuGQL_CpV42q-oXjNzpHihrPRqqNQeVyKTSzT1sH2cBuv4eS0Nbi2iky4Xy2uQX3rNwdjPIzv9lu_xc%3D",
           "distance": "16,8 km",
           "address": "Unicenter Shopping, Paraná 3745, 1640 MARTINEZ ESTAFETA No.4, DF",
           "showing": [
@@ -625,7 +558,7 @@
         },
         {
           "name": "Showcase Cinemas Haedo",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Showcase+Cinemas+Haedo&si=APYL9btZkf4kdGhzReFKIi4_F4HlfAbNt65clXF8w4EPLuE33kbtK8NMDAmGLwMbfNyjwRi9N8cf5aZsXquSQPVLgMNEklCySmTogeTriQNPJAp3V8DbsifOLHDzNuTzEkhL5YrGktQ-Tm8ye4PblaBE1Wicky-Btdv8q8Z6drX7s3KTjEDBj52qg-sFn-o6dDeaukkVICaJ4BTIVZWeC_P2O9zYEkWg3H-atbl5YplCANDBIfV6Ja8fWSdflsrLJ3h_LsSR6XT2OwyxkFw0Q1GPoElXOWnU8o3t6k-_GOxEUncPmSPgoI4%3D",
           "distance": "18,8 km",
           "address": "Avenida Dr. Luis Guemes 393, 1706 Haedo, BA",
           "showing": [
@@ -640,7 +573,7 @@
         },
         {
           "name": "Cinépolis Pilar",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cin%C3%A9polis+Pilar&si=APYL9bvbTYBlvjo9HgsKokb80VOuw9zV-z5EXyhbMKCadi8Rh7Ux3kmYwTYbAI1Uw7eC_vpqY_VGR8XfVt9hNG-8oPSZs4L0hThflox81qTHC0-ykdfioPX4xD9bkVcdug8GVxZqcKxmGhwS7gYuMdQatsFSy9IP8LioNTsPrDDJa-2JWGzwvyMrtgP-dLzRhb74YHFGXRrgDwMD7QcPZ4zZsq725_1-_Tetf97JgkkNfS_jmfR1W-fSfSfVA_uaF_q4aXF75r2Z6Y_DMLM8AFr9owpWz1bWfvp3lLP7KBuxoHEHz3PqyTw%3D",
           "distance": "48,3 km",
           "address": "Panamericana Km 50, Pilar, BA",
           "showing": [
@@ -654,7 +587,7 @@
         },
         {
           "name": "Cinema Paradiso",
-          "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
+          "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cinema+Paradiso&si=APYL9buQYiZSc7WhCRZzTuNZJsLJaTet96b7l-fQKYoyvutcjwLz2wAxTw0ixOKibw5VTSvmFbjWAIzFA3OFCPpk3vlHO7XKi3UMU5gQrvGrYiE3m_KPHtoYAYKFzXRB01lGENiaYZ-SpV6Qn9HfyXCREqp-qPuP7Y7GuSTeN_z_St_UkngEsBz2DDijjYElMbxNt0aDZzUWgSE7sxl3N25QUc-PaXGM2Y3cSQo-CiU05dZuz9bf4IUNyyGoepQoINMv_WOwgmpB8oj3fWlUJ-zMG_y5UzZfxRe_TkB7l150U3ZRx37OWvk%3D",
           "distance": "52,1 km",
           "address": "Calle 46 - 780 entre 10 y 11, La Plata, BA",
           "showing": [
@@ -673,95 +606,79 @@
     "title": "La Plus Précieuse Des Marchandises",
     "type": "2024 ‧ Drama/Animación ‧ 1h 21m",
     "entity_type": "film, tvm",
-    "main_tab_text": "Información general",
     "kgmid": "/g/11tf8gs0t6",
-    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11tf8gs0t6&hl=es-AR&q=La+Plus+Pr%C3%A9cieuse+Des+Marchandises&shndl=17&shem=vidc&source=sh/x/kp/osrp/m5/1",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11tf8gs0t6&hl=es-AR&q=La+Plus+Pr%C3%A9cieuse+Des+Marchandises",
     "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es-AR&kgmid=%2Fg%2F11tf8gs0t6&q=La+Plus+Pr%C3%A9cieuse+Des+Marchandises",
-    "tabs": [
-      {
-        "text": "Reparto",
-        "si": "APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6adlbp8uENIv9yXun9FQDkvkYMfh8d6CGaacgWaf8feAwhvUNm7lFrBQIh9Q_2J1JDW8c4jNGww5xdd7KK8cP49k9h-A7vyvMw2uFmrc3-W5JeUbHUA=",
-        "link": "https://www.google.com/search?si=APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6adlbp8uENIv9yXun9FQDkvkYMfh8d6CGaacgWaf8feAwhvUNm7lFrBQIh9Q_2J1JDW8c4jNGww5xdd7KK8cP49k9h-A7vyvMw2uFmrc3-W5JeUbHUA=",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&si=APYL9bsF1hbtz4P8VHLgjdmkj6j6M43DLFOTOiH_VLPAfwHDwTBvAJP-C4yrYO_c7D2g6adlbp8uENIv9yXun9FQDkvkYMfh8d6CGaacgWaf8feAwhvUNm7lFrBQIh9Q_2J1JDW8c4jNGww5xdd7KK8cP49k9h-A7vyvMw2uFmrc3-W5JeUbHUA%3D"
-      },
-      {
-        "text": "Cartelera",
-        "si": "APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxJxn_g8TdnPzp60nhKFkA-XFNMZM9pVM_v_vIlSp_Lw04BMjNb01slsqkhFBC8ccpdBNltdjyUcoW6_ewcMW__LUZ8A1bw6nrVAdwaWPzDWxUOtbIA==",
-        "link": "https://www.google.com/search?si=APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxJxn_g8TdnPzp60nhKFkA-XFNMZM9pVM_v_vIlSp_Lw04BMjNb01slsqkhFBC8ccpdBNltdjyUcoW6_ewcMW__LUZ8A1bw6nrVAdwaWPzDWxUOtbIA==",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&si=APYL9bv0VAqsL7GqoSibNlS7vRt8xH31igfORoS0tTId75kwxJxn_g8TdnPzp60nhKFkA-XFNMZM9pVM_v_vIlSp_Lw04BMjNb01slsqkhFBC8ccpdBNltdjyUcoW6_ewcMW__LUZ8A1bw6nrVAdwaWPzDWxUOtbIA%3D%3D"
-      }
-    ],
-    "description": "Traducción del inglés-",
-    "source": {
-      "name": "Wikipedia (Inglés)",
-      "link": "https://en.wikipedia.org/wiki/The_Most_Precious_of_Cargoes_(film)"
-    },
-    "fecha_de_estreno": "20 de noviembre de 2024 (Francia)",
-    "fecha_de_estreno_links": [
-      {
-        "text": "Francia",
-        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Francia&stick=H4sIAAAAAAAAAOPgE-LVT9c3NCxJs0gvNigxU-LUz9U3SLPIsUzWMs9OttJPy8zJBRNWJRmpiSVFmcmJOQrJ-aV5JUWVCvlpCvlFmemZeQpFqTmpicWpCimJJamLWNndihLzkjMTd7Ay7mJn4mAAAKBw839nAAAA&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QmxMoAHoECCMQAg"
-      }
-    ],
-    "director": "Michel Hazanavicius",
-    "director_links": [
-      {
-        "text": "Michel Hazanavicius",
-        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Michel+Hazanavicius&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-nEH-EmadFXu4mirJ0EGbdy1TFMlnEZfXcwu3UspkoJ_ppoXbdSDoMV2r6ks3MjxuJCNT0DHb2K4hZn-YtJKL3Sh3qHTdvnLTC7KjYlw6ULiLTXtR7jaHYiZHbJfulBZaa8qY3VDdQfc09Fq_nF8yY81-IRPJE1ofgci61IvnC8NlX2rcw%3D%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QmxMoAHoECCAQAg"
-      }
-    ],
-    "distribuidor": "StudioCanal",
-    "distribuidor_links": [
-      {
-        "text": "StudioCanal",
-        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=StudioCanal&si=APYL9btMsmZl0P9CyeA1NmMZFYv4xkDb-_Q4WCJadY9pxozSRYBcHV_m_Rvsw8WUu0q3uN2qXfaU2mpK90IFkGVX3h9dEWMAo5dt_F-rtrlUFMe78heocjVxb7nyrmFX2MVK5gjzZY2QS2PLqV2X9D54GhuUlIowKjtvxtv6__0W94TGBAjMUAVlbB2xkL008KJDIBdVZGKQ905uH2Ckfl7XORIVzHR8zg%3D%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QmxMoAHoECB4QAg"
-      }
-    ],
-    "nominaciones": "Premio César a la Mejor Película Animada",
-    "nominaciones_links": [
-      {
-        "text": "Premio César a la Mejor Película Animada",
-        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Premio+C%C3%A9sar+a+la+Mejor+Pel%C3%ADcula+Animada&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-pVhuaWAFLxkgHQg5lWSbQwNbKcq-O9A9BH9cJz8yZduSET9x7yAa67VKO-zNxLp3VNm6_G6A5PxuXjkprZXYqq27UinazCEELjGfImxkKq4dHPGLYqFuiUgThyvIkZZUDXIH-CaNjoYIYAMaHEKXCEnMXqd5Y9Z0J0d_7M30Qp4rZ7FMqsVgESkRpqNoytGLKTP_js96jd-wtfiv6MM3sLu366xKS8vbCNwLWcROdXd1hKF1slSXZkkIo-BNP7h3xHELgElxUt_3-YWZNfrwbcvBqCb&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QmxMoAHoECCIQAg"
-      },
-      {
-        "text": "Ver más",
-        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=la+plus+pr%C3%A9cieuse+des+marchandises+nominaciones&stick=H4sIAAAAAAAAAOPgE-LVT9c3NCxJs0gvNigx01LKTrbSTyxPLEqBkPHlmXl5qUVWefm5mXmJJZn5ecWLWA1yEhUKckqLFQqKDq9MzkwtLU5VSEktVshNLErOSMxLySwGciA6koE6UosBEJoHvWgAAAA&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q44YBKAF6BAgiEAM"
-      }
-    ],
-    "editor": "Michel Hazanavicius",
-    "editor_links": [
-      {
-        "text": "Michel Hazanavicius",
-        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Michel+Hazanavicius&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-nEH-EmadFXu4mirJ0EGbdy1TFMlnEZfXcwu3UspkoJ_ppoXbdSDoMV2r6ks3MjxuJCNT0DHb2K4hZn-YtJKL3Sh3qHTdvnLTC7KjYlw6ULiLTXtR7jaHYiZHbJfulBZaa8qY3VDdQfc09Fq_nF8yY81-IRPJE1ofgci61IvnC8NlX2rcw%3D%3D&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QmxMoAHoECB8QAg"
-      }
-    ],
-    "idioma": "Francés",
-    "idioma_links": [
-      {
-        "text": "Francés",
-        "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=&si=APYL9btKi1TLoawpxIKkhA47KIc3RH36yjJAdk2TmwBtOZld-hMkGEluETSCInQzYYNMVsEgNjZ0GhTsT7AV4rXlhgBqolQcLjdxCmu31lIm4ubazPo8X29V2NUyN-Nlhknm0bomleorvsimtxgsKghnH66M4y5g3IEWvcciRGsgfkt0ZKCvOcrj2CoJ6K8BXWOKjHpR9NRM&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QmxMoAHoECCUQAg"
-      }
-    ],
-    "audience_reviews": [
-      {
-        "rating": 5,
-        "summary": "NADIE GANA ALGO SIN PERDER ALGO Polonia 1943, es pleno invierno y una pobre pareja de leñadores apenas llega a fin de mes. Todos los días la mujer reza a Dios para que le ..."
-      }
-    ],
-    "user_statistics": {
-      "platform": "Usuarios de Google",
-      "statistic": "Al 86% le gustó esta película"
-    }
+    "image": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/b0754775c9727f30f2e0a6cd7a43d5a4dddcf37e7ace07d3.jpeg"
   },
+  "related_questions": [
+    {
+      "question": "¿Qué película está dando ahora en el cine?",
+      "snippet": null,
+      "title": "Vení a disfrutar del mejor cine!",
+      "link": "https://www.multiplex.com.ar/",
+      "list": [
+        "anticipada. Lilo & Stitch.",
+        "Thunderbolts*",
+        "anticipada. Destino Final: Lazos De Sangre.",
+        "anticipada. Mision Imposible: La Sentencia Final.",
+        "Una Pelicula De Minecraft.",
+        "estreno. Karate Kid: Leyendas.",
+        "Mazel Tov.",
+        "estreno. Encerrado."
+      ],
+      "displayed_link": null,
+      "source_logo": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/b542572f0152028b7647e9b17bb2396358177a668b9f76b3d6652cc4c232eb5a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFMyWjZVWFl5VFhKaFpYcENSMjV3YlhVeVluUlJMVEJWY0VweGRHWkdhSGhMVlc5cE1rVm5TWGhEVGtsWmRqRmZSRVpvT0dSRFNqUnJiV2M0Y0RaalJIQjRaMFowZFd0bFduazVZMlJsTkdWNmMzRTFRVkl0VUVkNlFSSVhRa0pOYUdGS1RIZEJZWEZqYUdKSlVHdzFlbk13VVRRYUlrRkRSRmhNTkcxUlMybFFXVkJ4VkVkVGIyeE9YekEzUlhsckxVMDBSa2hhYUVFIiwiZmN2IjoiMyIsImVpIjoiQkJNaGFKTHdBYXFjaGJJUGw1enMwUTQiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiR0VnWTJGeVoyRWdiY09oY3lCd2NtVmphV0ZrWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuM0pkaDRfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoSBkYW5kbyBhaG9yYSBlbiBlbCBjaW5lPyIsImxrIjoiR2l0eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9TQmtZVzVrYnlCaGFHOXlZU0JsYmlCbGJDQmphVzVsIiwiYnMiOiJjLU5LNHRJN3RELXc5UEJLaFlMVW5NTnJrMHR6RWhWU2kwc09MMVJJU2N4THlWZEl6TWd2QW9ya0thVG1LQ1JuNXFYYVMyeTJNTktWMGk0a1hndFhQTWdPNTlMRENfTks4aFdTUzRGcUV4VkFldkpLaWhKVEVoVVNJY29VY2t0elNqSUxjbElyN0NVNlhJMjBwRFNTU3hOQk9vb1RjMUx4cXVkeTVKS0RlaUsxV0NHaXBDZzFOeDlrUDVLQjM3U01aS1NrQ2t0VFFTb3FNRlVJTUFJQSIsImlkIjoiZmNfQkJNaGFKTHdBYXFjaGJJUGw1enMwUTRfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFMyWjZVWFl5VFhKaFpYcENSMjV3YlhVeVluUlJMVEJWY0VweGRHWkdhSGhMVlc5cE1rVm5TWGhEVGtsWmRqRmZSRVpvT0dSRFNqUnJiV2M0Y0RaalJIQjRaMFowZFd0bFduazVZMlJsTkdWNmMzRTFRVkl0VUVkNlFSSVhRa0pOYUdGS1RIZEJZWEZqYUdKSlVHdzFlbk13VVRRYUlrRkRSRmhNTkcxUlMybFFXVkJ4VkVkVGIyeE9YekEzUlhsckxVMDBSa2hhYUVFIiwiZmN2IjoiMyIsImVpIjoiQkJNaGFKTHdBYXFjaGJJUGw1enMwUTQiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiR0VnWTJGeVoyRWdiY09oY3lCd2NtVmphV0ZrWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuM0pkaDRfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIHBlbMOtY3VsYSBlc3TDoSBkYW5kbyBhaG9yYSBlbiBlbCBjaW5lPyIsImxrIjoiR2l0eGRjT3BJSEJsYk1PdFkzVnNZU0JsYzNURG9TQmtZVzVrYnlCaGFHOXlZU0JsYmlCbGJDQmphVzVsIiwiYnMiOiJjLU5LNHRJN3RELXc5UEJLaFlMVW5NTnJrMHR6RWhWU2kwc09MMVJJU2N4THlWZEl6TWd2QW9ya0thVG1LQ1JuNXFYYVMyeTJNTktWMGk0a1hndFhQTWdPNTlMRENfTks4aFdTUzRGcUV4VkFldkpLaWhKVEVoVVNJY29VY2t0elNqSUxjbElyN0NVNlhJMjBwRFNTU3hOQk9vb1RjMUx4cXVkeTVKS0RlaUsxV0NHaXBDZzFOeDlrUDVLQjM3U01aS1NrQ2t0VFFTb3FNRlVJTUFJQSIsImlkIjoiZmNfQkJNaGFKTHdBYXFjaGJJUGw1enMwUTRfNCJ9"
+    },
+    {
+      "question": "¿Cuánto cuesta la entrada al cine multiplex?",
+      "snippet": null,
+      "title": "Visión general creada por IA",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=es-AR",
+      "list": [
+        "Multiplex Lavalle: Entradas 2D: $5.000 Entradas 2D XTREMO: $5.000 Entradas 3D: $6.000 Entradas 3D XTREMO: $6.000  ",
+        "Entradas 2D: $5.000 ",
+        "Entradas 2D XTREMO: $5.000 ",
+        "Entradas 3D: $6.000 ",
+        "Entradas 3D XTREMO: $6.000  ",
+        "Cinépolis (Salas tradicionales): Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  Entrada general 2D: $11.600.  Entrada general 3D: $11.600.  Niños y mayores de 65 años: $8.200.  ",
+        "Lunes, martes y miércoles (50% de descuento): $5.000 para 2D y $5.800 para 3D.  ",
+        "Entrada general 2D: $11.600.  ",
+        "Entrada general 3D: $11.600.  ",
+        "Niños y mayores de 65 años: $8.200.  ",
+        "Promociones: En algunos cines, hay promociones de 50% de descuento en días específicos.  Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  Cines Multiplex también tiene promociones 2x1 online.  ",
+        "En algunos cines, hay promociones de 50% de descuento en días específicos.  ",
+        "Algunos cines ofrecen precios especiales en ciertos días de la semana, como los viernes, según Cines Argentinos.  ",
+        "Cines Multiplex también tiene promociones 2x1 online.  ",
+        "Cargo por servicio: En las compras online se puede agregar un cargo por servicio de $400 por entrada.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFMyWjZVWFl5VFhKaFpYcENSMjV3YlhVeVluUlJMVEJWY0VweGRHWkdhSGhMVlc5cE1rVm5TWGhEVGtsWmRqRmZSRVpvT0dSRFNqUnJiV2M0Y0RaalJIQjRaMFowZFd0bFduazVZMlJsTkdWNmMzRTFRVkl0VUVkNlFSSVhRa0pOYUdGS1RIZEJZWEZqYUdKSlVHdzFlbk13VVRRYUlrRkRSRmhNTkcxUlMybFFXVkJ4VkVkVGIyeE9YekEzUlhsckxVMDBSa2hhYUVFIiwiZmN2IjoiMyIsImVpIjoiQkJNaGFKTHdBYXFjaGJJUGw1enMwUTQiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiR0VnWTJGeVoyRWdiY09oY3lCd2NtVmphV0ZrWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuM0pkaDRfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIGN1ZXN0YSBsYSBlbnRyYWRhIGFsIGNpbmUgbXVsdGlwbGV4PyIsImxrIjoiR2loamRXRnVkRzhnYzJGc1pTQnNZU0JsYm5SeVlXUmhJR0ZzSUdOcGJtVWdiWFZzZEdsd2JHVjQiLCJicyI6ImMtTks0dEk3dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0wxUklTY3hMeVZkSXpNZ3ZBb3JrS2FUbUtDUm41cVhhUzJ5Mk1OS1YwaTRrWGd0WFBNZ081OUxEQ19OSzhoV1NTNEZxRXhWQWV2SktpaEpURWhVU0ljb1Vja3R6U2pJTGNsSXI3Q1U2WEkyMHBEU1NTeE5CT29vVGMxTHhxdWR5NUpLRGVpSzFXQ0dpcENnMU54OWtQNUtCMzdTTVpLU2tDa3RUUVNvcU1GVUlNQUlBIiwiaWQiOiJmY19CQk1oYUpMd0FhcWNoYklQbDV6czBRNF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFMyWjZVWFl5VFhKaFpYcENSMjV3YlhVeVluUlJMVEJWY0VweGRHWkdhSGhMVlc5cE1rVm5TWGhEVGtsWmRqRmZSRVpvT0dSRFNqUnJiV2M0Y0RaalJIQjRaMFowZFd0bFduazVZMlJsTkdWNmMzRTFRVkl0VUVkNlFSSVhRa0pOYUdGS1RIZEJZWEZqYUdKSlVHdzFlbk13VVRRYUlrRkRSRmhNTkcxUlMybFFXVkJ4VkVkVGIyeE9YekEzUlhsckxVMDBSa2hhYUVFIiwiZmN2IjoiMyIsImVpIjoiQkJNaGFKTHdBYXFjaGJJUGw1enMwUTQiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiR0VnWTJGeVoyRWdiY09oY3lCd2NtVmphV0ZrWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuM0pkaDRfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9DdcOhbnRvIGN1ZXN0YSBsYSBlbnRyYWRhIGFsIGNpbmUgbXVsdGlwbGV4PyIsImxrIjoiR2loamRXRnVkRzhnYzJGc1pTQnNZU0JsYm5SeVlXUmhJR0ZzSUdOcGJtVWdiWFZzZEdsd2JHVjQiLCJicyI6ImMtTks0dEk3dEQtdzlQQktoWUxVbk1OcmswdHpFaFZTaTBzT0wxUklTY3hMeVZkSXpNZ3ZBb3JrS2FUbUtDUm41cVhhUzJ5Mk1OS1YwaTRrWGd0WFBNZ081OUxEQ19OSzhoV1NTNEZxRXhWQWV2SktpaEpURWhVU0ljb1Vja3R6U2pJTGNsSXI3Q1U2WEkyMHBEU1NTeE5CT29vVGMxTHhxdWR5NUpLRGVpSzFXQ0dpcENnMU54OWtQNUtCMzdTTVpLU2tDa3RUUVNvcU1GVUlNQUlBIiwiaWQiOiJmY19CQk1oYUpMd0FhcWNoYklQbDV6czBRNF80In0%3D"
+    },
+    {
+      "question": "¿Qué es Xtremo en multiplex?",
+      "snippet": "Este sistema permite proyectar en pantallas gigantes y con una impresionante potencia lumínica producto de la sumatoria de luz que emiten los 2 proyectores funcionando al mismo tiempo y mejorando la experiencia de ver cine en 2D y 3D.",
+      "title": "Cine X-tremo - Cines Multiplex",
+      "link": "https://www.multiplex.com.ar/salas/cine-xtremo/#:~:text=Este%20sistema%20permite%20proyectar%20en,cine%20en%202D%20y%203D.",
+      "displayed_link": "https://www.multiplex.com.ar › salas › cine-xtremo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgap720ZkiqRPH-3jlN5H8X7s7gDzW2ZH09C3u19SeQ&s",
+      "source_logo": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/b542572f0152028b7647e9b17bb23963416fd9c820f19dbf98805d6d4accbb06.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFMyWjZVWFl5VFhKaFpYcENSMjV3YlhVeVluUlJMVEJWY0VweGRHWkdhSGhMVlc5cE1rVm5TWGhEVGtsWmRqRmZSRVpvT0dSRFNqUnJiV2M0Y0RaalJIQjRaMFowZFd0bFduazVZMlJsTkdWNmMzRTFRVkl0VUVkNlFSSVhRa0pOYUdGS1RIZEJZWEZqYUdKSlVHdzFlbk13VVRRYUlrRkRSRmhNTkcxUlMybFFXVkJ4VkVkVGIyeE9YekEzUlhsckxVMDBSa2hhYUVFIiwiZmN2IjoiMyIsImVpIjoiQkJNaGFKTHdBYXFjaGJJUGw1enMwUTQiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiR0VnWTJGeVoyRWdiY09oY3lCd2NtVmphV0ZrWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuM0pkaDRfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIGVzIFh0cmVtbyBlbiBtdWx0aXBsZXg/IiwibGsiOiJHaHB4ZFdVZ1pYTWdlSFJ5WlcxdklHVnVJRzExYkhScGNHeGxlQSIsImJzIjoiYy1OSzR0STd0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDFSSVNjeEx5VmRJek1ndkFvcmtLYVRtS0NSbjVxWGFTMnkyTU5LVjBpNGtYZ3RYUE1nTzU5TERDX05LOGhXU1M0RnFFeFZBZXZKS2loSlRFaFVTSWNvVWNrdHpTaklMY2xJcjdDVTZYSTIwcERTU1N4TkJPb29UYzFMeHF1ZHk1SktEZWlLMVdDR2lwQ2cxTng5a1A1S0IzN1NNWktTa0NrdFRRU29xTUZVSU1BSUEiLCJpZCI6ImZjX0JCTWhhSkx3QWFxY2hiSVBsNXpzMFE0XzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobFMyWjZVWFl5VFhKaFpYcENSMjV3YlhVeVluUlJMVEJWY0VweGRHWkdhSGhMVlc5cE1rVm5TWGhEVGtsWmRqRmZSRVpvT0dSRFNqUnJiV2M0Y0RaalJIQjRaMFowZFd0bFduazVZMlJsTkdWNmMzRTFRVkl0VUVkNlFSSVhRa0pOYUdGS1RIZEJZWEZqYUdKSlVHdzFlbk13VVRRYUlrRkRSRmhNTkcxUlMybFFXVkJ4VkVkVGIyeE9YekEzUlhsckxVMDBSa2hhYUVFIiwiZmN2IjoiMyIsImVpIjoiQkJNaGFKTHdBYXFjaGJJUGw1enMwUTQiLCJxYyI6IkNqeHdaV3pEcldOMWJHRWdiR0VnWTJGeVoyRWdiY09oY3lCd2NtVmphV0ZrWVNCb2IzSmhjbWx2Y3lCamFXNWxjeUJpZFdWdWIzTWdZV2x5WlhNUURuM0pkaDRfb2dFQ1pYTSIsInF1ZXN0aW9uIjoiwr9RdcOpIGVzIFh0cmVtbyBlbiBtdWx0aXBsZXg%2FIiwibGsiOiJHaHB4ZFdVZ1pYTWdlSFJ5WlcxdklHVnVJRzExYkhScGNHeGxlQSIsImJzIjoiYy1OSzR0STd0RC13OVBCS2hZTFVuTU5yazB0ekVoVlNpMHNPTDFSSVNjeEx5VmRJek1ndkFvcmtLYVRtS0NSbjVxWGFTMnkyTU5LVjBpNGtYZ3RYUE1nTzU5TERDX05LOGhXU1M0RnFFeFZBZXZKS2loSlRFaFVTSWNvVWNrdHpTaklMY2xJcjdDVTZYSTIwcERTU1N4TkJPb29UYzFMeHF1ZHk1SktEZWlLMVdDR2lwQ2cxTng5a1A1S0IzN1NNWktTa0NrdFRRU29xTUZVSU1BSUEiLCJpZCI6ImZjX0JCTWhhSkx3QWFxY2hiSVBsNXpzMFE0XzQifQ%3D%3D"
+    }
+  ],
   "organic_results": [
     {
       "position": 1,
       "title": "La Carga Mas Preciada",
       "link": "https://www.multiplex.com.ar/peliculas/la-carga-mas-preciada/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/la-carga-mas-preciada/&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECD8QAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/peliculas/la-carga-mas-preciada/&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECGEQAQ",
       "displayed_link": "https://www.multiplex.com.ar › peliculas › la-carga-mas-...",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88b7721c44887b61f27ab75757c75c3ef7b.png",
-      "date": "hace 3 días",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88b7721c44887b61f27ab75757c75c3ef7b.png",
+      "date": "hace 4 días",
       "snippet": "En un gran bosque, durante los tiempos oscuros de la guerra, un pobre leñador y su esposa luchan por sobrevivir entre el frío y la pobreza. Todo ...",
       "source": "Cines Multiplex"
     },
@@ -769,9 +686,9 @@
       "position": 2,
       "title": "Cines Multiplex: Películas en Cartelera",
       "link": "https://www.multiplex.com.ar/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECD4QAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.multiplex.com.ar/&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECF0QAQ",
       "displayed_link": "https://www.multiplex.com.ar",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88bb47414b497088e9d98cb97363f5b8d5e.png",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88bb47414b497088e9d98cb97363f5b8d5e.png",
       "snippet": "Conocé los estrenos y promociones en las salas 2D, 3D 4D y SALA PLATINUM! Mirá los horarios de las películas y comprá on-line con increíbles descuentos!",
       "snippet_highlighted_words": [
         "horarios",
@@ -783,9 +700,9 @@
       "position": 3,
       "title": "La carga más preciada. Cartelera de Cine - LA NACION",
       "link": "https://www.lanacion.com.ar/cartelera-de-cine/pelicula/la-carga-mas-preciada-pe19485",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/la-carga-mas-preciada-pe19485&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECDcQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/pelicula/la-carga-mas-preciada-pe19485&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECGIQAQ",
       "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › pelicula",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88b4862166723d8e0af98871b1c05da89ed.png",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88b4862166723d8e0af98871b1c05da89ed.png",
       "date": "24 abr 2025",
       "snippet": "FUNCIONES DE LA CARGA MÁS PRECIADA ; Belgrano Multiplex · subtitulada: 16:15, 16:30, 20:20, 21:00 ; Cinema Devoto · subtitulada: 20:30 ; Cinema ...",
       "snippet_highlighted_words": [
@@ -797,9 +714,9 @@
       "position": 4,
       "title": "la carga mas preciada",
       "link": "https://www.cinemarkhoyts.com.ar/pelicula/la-carga-mas-preciada",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/la-carga-mas-preciada&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECDgQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemarkhoyts.com.ar/pelicula/la-carga-mas-preciada&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoFCIoBEAE",
       "displayed_link": "https://www.cinemarkhoyts.com.ar › pelicula › la-carga-...",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88b53cbf911e525475ca25cf42b75e312ba.png",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88b53cbf911e525475ca25cf42b75e312ba.png",
       "snippet": "Un pobre leñador y su mujer vivían en un gran bosque. El frío, el hambre, la pobreza y una guerra a su alrededor hacían que sus vidas fueran muy duras.",
       "missing": [
         "Buenos",
@@ -809,11 +726,24 @@
     },
     {
       "position": 5,
+      "title": "Cines Atlas",
+      "link": "https://www.atlascines.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECGAQAQ",
+      "displayed_link": "https://www.atlascines.com",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88beafdeb7a39d89918d65b07f02c379f72.png",
+      "snippet": "EN CARTELERA. pel2. 2D. LA CARGA MÁS PRECIADA. 77 min | SAM13. Animacion. LA CARGA MÁS PRECIADA. EN CARTELERA. pel2. 2D. MENSAJE EN UNA BOTELLA. 126 min | SAM13.",
+      "snippet_highlighted_words": [
+        "LA CARGA MÁS PRECIADA"
+      ],
+      "source": "Atlas Cines"
+    },
+    {
+      "position": 6,
       "title": "Cartelera de Cines Showcase | IMAX - Consultá Entradas 2x1",
       "link": "https://www.todoshowcase.com/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECDUQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECFsQAQ",
       "displayed_link": "https://www.todoshowcase.com",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88beafdeb7a39d89918d65b07f02c379f72.png",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88b0999312a643ea4873f89cf71e4abee9a.png",
       "snippet": "Showcase Belgrano. Monroe 1655 (C1428BKS)Buenos Aires. (011) 4780 3334. Salas ... Encerrado. ESTRENO. La carga más preciada. ESTRENO. Mars express. ESTRENO. La ...",
       "snippet_highlighted_words": [
         "Buenos Aires",
@@ -822,73 +752,40 @@
       "source": "Showcase Belgrano"
     },
     {
-      "position": 6,
-      "title": "Cines Atlas",
-      "link": "https://www.atlascines.com/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atlascines.com/&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECDYQAQ",
-      "displayed_link": "https://www.atlascines.com",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88b0999312a643ea4873f89cf71e4abee9a.png",
-      "snippet": "CARTELERA · PROMOCIONES · PRECIO DE ENTRADAS · INFORMACIÓN GENERAL · PREGUNTAS FRECUENTES · COMPLEJOS. Iniciar sesión. Entra con tu usuario registrado.",
-      "snippet_highlighted_words": [
-        "CARTELERA"
-      ],
-      "source": "Atlas Cines"
-    },
-    {
       "position": 7,
-      "title": "CINES SHOWCASE | Cartelera belgrano",
-      "link": "https://www.todoshowcase.com/cartelera/belgrano",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/cartelera/belgrano&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECHoQAQ",
-      "displayed_link": "https://www.todoshowcase.com › cartelera › belgrano",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88bfad4daca96dc67c1997b587e8b2bd6f6.png",
-      "snippet": "Formatos y horarios. 2D-Subtitulado 21:45. Sinopsis. ESTRENO. La carga más preciada. Duración: 80 minutos. Calificación: SM13S. Ver Tráiler · COMPRAR. Formatos ...",
-      "snippet_highlighted_words": [
-        "Formatos y horarios"
-      ],
-      "source": "Showcase Belgrano"
-    },
-    {
-      "position": 8,
       "title": "Cartelera Cinematográfica en Cinema La Plata",
       "link": "https://www.cinemalaplata.com/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemalaplata.com/&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECH4QAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemalaplata.com/&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECF4QAQ",
       "displayed_link": "https://www.cinemalaplata.com",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88b017c5ba4e766772d227caea25da1804b.png",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88bfad4daca96dc67c1997b587e8b2bd6f6.png",
       "snippet": "Sitio oficial de la cadena Cinema La Plata. Información de cartelera y salas cinematográficas. Detalles de películas. Futuros estrenos. Trailers y avances.",
       "snippet_highlighted_words": [
         "Cinema",
         "cartelera",
         "películas"
       ],
-      "sitelinks": {
-        "inline": [
-          {
-            "title": "Una película de minecraft",
-            "link": "https://www.cinemalaplata.com/Titulos/Index/6819"
-          },
-          {
-            "title": "Una película de looney tunes",
-            "link": "https://www.cinemalaplata.com/Titulos/Index/6863"
-          },
-          {
-            "title": "Cinema rocha",
-            "link": "https://www.cinemalaplata.com/Home/Cine/6"
-          },
-          {
-            "title": "Moana 2",
-            "link": "https://www.cinemalaplata.com/Titulos/Index/6652"
-          }
-        ]
-      },
       "source": "Cinema La Plata"
+    },
+    {
+      "position": 8,
+      "title": "CINES SHOWCASE | Cartelera belgrano",
+      "link": "https://www.todoshowcase.com/cartelera/belgrano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todoshowcase.com/cartelera/belgrano&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECFwQAQ",
+      "displayed_link": "https://www.todoshowcase.com › cartelera › belgrano",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88b017c5ba4e766772d227caea25da1804b.png",
+      "snippet": "ESTRENO. La carga más preciada. Duración: 80 minutos. Calificación: SM13S. Ver Tráiler · COMPRAR. Formatos y horarios. 2D-Subtitulado 16:15 20:20. Sinopsis.",
+      "snippet_highlighted_words": [
+        "La carga más preciada"
+      ],
+      "source": "Showcase Belgrano"
     },
     {
       "position": 9,
       "title": "Agenda de Cine – Cartelera y próximos estrenos en Argentina.",
       "link": "https://agendadecine.ar/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agendadecine.ar/&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECHkQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://agendadecine.ar/&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoFCJIBEAE",
       "displayed_link": "https://agendadecine.ar",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88b0ba74c3457205e060a7f23d77abc3393.png",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88b0ba74c3457205e060a7f23d77abc3393.png",
       "snippet": "La carga más preciada · VER HORARIOS · BATATA - LA NOCHE DE LOS TRES FUEGOS. La ... Cartelera de cine y próximos estrenos en Argentina.- ©2024 Todos los derechos ...",
       "snippet_highlighted_words": [
         "La carga más preciada"
@@ -919,9 +816,9 @@
       "position": 10,
       "title": "Cartelera de cine Hoyts Abasto de Buenos Aires",
       "link": "https://www.lanacion.com.ar/cartelera-de-cine/sala/hoyts-abasto-de-buenos-aires-sa95",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/sala/hoyts-abasto-de-buenos-aires-sa95&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0QFnoECHwQAQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lanacion.com.ar/cartelera-de-cine/sala/hoyts-abasto-de-buenos-aires-sa95&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQFnoECF8QAQ",
       "displayed_link": "https://www.lanacion.com.ar › cartelera-de-cine › sala",
-      "favicon": "https://serpapi.com/searches/68202bcb73d2245e4ac4cc23/images/8c1699b4cc9713b0ca1fcb36ef93d88b5ee86164197c7efd9a040d0b1e26dbf9.png",
+      "favicon": "https://serpapi.com/searches/6821130399d5f4440cf2d0f0/images/8c1699b4cc9713b0ca1fcb36ef93d88b5ee86164197c7efd9a040d0b1e26dbf9.png",
       "snippet": "Ver Horarios. Karate Kid: Leyendas. Acción. Ver Horarios. La carga más preciada. Animación. Ver Horarios ...",
       "snippet_highlighted_words": [
         "La carga más preciada"
@@ -933,63 +830,61 @@
     {
       "block_position": 1,
       "query": "Horarios de salas de cine en Buenos Aires",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Horarios+de+salas+de+cine+en+Buenos+Aires&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BQiNARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Horarios+de+salas+de+cine+en+Buenos+Aires&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BAh9EAE",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Horarios+de+salas+de+cine+en+Buenos+Aires"
     },
     {
       "block_position": 1,
       "query": "Mejores películas en cartelera hoy",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Mejores+pel%C3%ADculas+en+cartelera+hoy&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BQiLARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Mejores+pel%C3%ADculas+en+cartelera+hoy&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BAh7EAE",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Mejores+pel%C3%ADculas+en+cartelera+hoy"
     },
     {
       "block_position": 1,
       "query": "Cine Las Toscas canning Cartelera horarios y precios",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BQiKARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BAh-EAE",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Las+Toscas+canning+Cartelera+horarios+y+precios"
     },
     {
       "block_position": 1,
       "query": "Cartelera de cine hoyts",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cartelera+de+cine+hoyts&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BQiGARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cartelera+de+cine+hoyts&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BAh8EAE",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+hoyts"
     },
     {
       "block_position": 1,
       "query": "Cine Lavalle cartelera",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cine+Lavalle+cartelera&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BQiDARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cine+Lavalle+cartelera&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BQiPARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Lavalle+cartelera"
     },
     {
       "block_position": 1,
+      "query": "Cine Atlas Flores cartelera precios",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cine+Atlas+Flores+cartelera+precios&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Atlas+Flores+cartelera+precios"
+    },
+    {
+      "block_position": 1,
+      "query": "Cartelera de cine múltiplex",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cartelera+de+cine+m%C3%BAltiplex&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cartelera+de+cine+m%C3%BAltiplex"
+    },
+    {
+      "block_position": 1,
       "query": "Cine Belgrano Cartelera",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cine+Belgrano+Cartelera&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BQiCARAB",
+      "link": "https://www.google.com/search?sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&q=Cine+Belgrano+Cartelera&sa=X&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ1QJ6BQiCARAB",
       "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Belgrano+Cartelera"
-    },
-    {
-      "block_position": 1,
-      "query": "Multiplex CARTELERA",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Multiplex+CARTELERA&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BQiAARAB",
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Multiplex+CARTELERA"
-    },
-    {
-      "block_position": 1,
-      "query": "Cine Multiplex",
-      "link": "https://www.google.com/search?sca_esv=2e3acacb63e2c097&hl=es&gl=ar&q=Cine+Multiplex&sa=X&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q1QJ6BAh9EAE",
-      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=Cine+Multiplex"
     }
   ],
   "pagination": {
     "current": 1,
-    "next": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=10&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8NMDegQIBxAS",
+    "next": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&ei=BBMhaJLwAaqchbIPl5zs0Q4&start=10&sa=N&sstk=Af40H4Uo-t_e7K-Y81M6J-4NCQGgxHpyQYvcCPh1532x8y0uHS0W6LYNe71ol7tnua6BB--nmd0AMJK5XbNWAOMgNld1aff_j9sIug&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ8NMDegQIChAO",
     "other_pages": {
-      "2": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=10&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8tMDegQIBxAE",
-      "3": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=20&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8tMDegQIBxAG",
-      "4": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=30&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8tMDegQIBxAI",
-      "5": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=40&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8tMDegQIBxAK",
-      "6": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=50&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8tMDegQIBxAM",
-      "7": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=60&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8tMDegQIBxAO",
-      "8": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=2e3acacb63e2c097&hl=es&gl=ar&ei=zCsgaKrdCaqwptQP3rbh6Qo&start=70&sa=N&sstk=Af40H4Viou5plXspwt3JDMKYUn72PId4TOSjoEnzcATPLrCGgJVxG1WnG-BJcK6bOrag_M_ee1OKMmq057G8NAG6GiteCoiqiDrCew&ved=2ahUKEwiq86-izpqNAxUqmIkEHV5bOK0Q8tMDegQIBxAQ"
+      "2": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&ei=BBMhaJLwAaqchbIPl5zs0Q4&start=10&sa=N&sstk=Af40H4Uo-t_e7K-Y81M6J-4NCQGgxHpyQYvcCPh1532x8y0uHS0W6LYNe71ol7tnua6BB--nmd0AMJK5XbNWAOMgNld1aff_j9sIug&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&ei=BBMhaJLwAaqchbIPl5zs0Q4&start=20&sa=N&sstk=Af40H4Uo-t_e7K-Y81M6J-4NCQGgxHpyQYvcCPh1532x8y0uHS0W6LYNe71ol7tnua6BB--nmd0AMJK5XbNWAOMgNld1aff_j9sIug&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&ei=BBMhaJLwAaqchbIPl5zs0Q4&start=30&sa=N&sstk=Af40H4Uo-t_e7K-Y81M6J-4NCQGgxHpyQYvcCPh1532x8y0uHS0W6LYNe71ol7tnua6BB--nmd0AMJK5XbNWAOMgNld1aff_j9sIug&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&ei=BBMhaJLwAaqchbIPl5zs0Q4&start=40&sa=N&sstk=Af40H4Uo-t_e7K-Y81M6J-4NCQGgxHpyQYvcCPh1532x8y0uHS0W6LYNe71ol7tnua6BB--nmd0AMJK5XbNWAOMgNld1aff_j9sIug&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&sca_esv=6de5c0e273ce3e55&hl=es&gl=ar&ei=BBMhaJLwAaqchbIPl5zs0Q4&start=50&sa=N&sstk=Af40H4Uo-t_e7K-Y81M6J-4NCQGgxHpyQYvcCPh1532x8y0uHS0W6LYNe71ol7tnua6BB--nmd0AMJK5XbNWAOMgNld1aff_j9sIug&ved=2ahUKEwiSgqHjqpyNAxUqTkEAHRcOO-oQ8tMDegQIChAM"
     }
   },
   "serpapi_pagination": {
@@ -1001,9 +896,7 @@
       "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&start=20",
       "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&start=30",
       "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&start=40",
-      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&start=50",
-      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&start=60",
-      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&start=70"
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ar&google_domain=google.com&hl=es&q=pel%C3%ADcula+La+carga+m%C3%A1s+preciada+horarios+cines+Buenos+Aires&start=50"
     }
   }
 }
