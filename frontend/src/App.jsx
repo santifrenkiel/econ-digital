@@ -33,7 +33,9 @@ function App() {
     const obtenerCartelera = async () => {
       try {
         setLoadingCartelera(true);
-        const response = await axios.get('/cartelera');
+        const response = await axios.get('/cartelera', {
+          params: { incluirPasadas: false }
+        });
         setCartelera(response.data);
         setEventosFiltrados(response.data);
         setError(null);
@@ -69,12 +71,27 @@ function App() {
   }, []);
   
   // Filtrar eventos por tipo
-  const filtrarEventos = (tipo) => {
-    if (tipo === 'todos') {
-      setEventosFiltrados(cartelera);
-    } else {
-      const filtrados = cartelera.filter(evento => evento.tipo === tipo);
-      setEventosFiltrados(filtrados);
+  const filtrarEventos = async (tipo) => {
+    setLoadingCartelera(true);
+    try {
+      if (tipo === 'todos') {
+        // Para todos los eventos
+        const response = await axios.get('/cartelera', {
+          params: { incluirPasadas: false }
+        });
+        setEventosFiltrados(response.data);
+      } else {
+        // Para un tipo específico (cine, teatro, música)
+        const response = await axios.get(`/cartelera/${tipo}`, {
+          params: { incluirPasadas: false }
+        });
+        setEventosFiltrados(response.data);
+      }
+    } catch (err) {
+      console.error(`Error al filtrar eventos por ${tipo}:`, err);
+      setError(`No se pudieron cargar los eventos de ${tipo}. Intente nuevamente más tarde.`);
+    } finally {
+      setLoadingCartelera(false);
     }
   };
 
@@ -158,13 +175,13 @@ function App() {
                 <CarteleraList eventos={eventosFiltrados} />
               </TabPanel>
               <TabPanel>
-                <CarteleraList eventos={cartelera.filter(e => e.tipo === 'cine')} />
+                <CarteleraList eventos={eventosFiltrados} />
               </TabPanel>
               <TabPanel>
-                <CarteleraList eventos={cartelera.filter(e => e.tipo === 'teatro')} />
+                <CarteleraList eventos={eventosFiltrados} />
               </TabPanel>
               <TabPanel>
-                <CarteleraList eventos={cartelera.filter(e => e.tipo === 'música')} />
+                <CarteleraList eventos={eventosFiltrados} />
               </TabPanel>
             </Tabs>
           )}
