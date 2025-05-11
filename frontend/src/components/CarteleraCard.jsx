@@ -1,5 +1,5 @@
 import { FaCalendarAlt, FaClock, FaMapMarkerAlt, FaInfoCircle, FaTheaterMasks, FaTicketAlt, FaAngleDown, FaAngleUp } from 'react-icons/fa';
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 
 const CarteleraCard = ({ evento, icon }) => {
   const [mostrarDescripcion, setMostrarDescripcion] = useState(false);
@@ -7,21 +7,54 @@ const CarteleraCard = ({ evento, icon }) => {
   const [cinesExpandidos, setCinesExpandidos] = useState({});
   const [diasExpandidos, setDiasExpandidos] = useState({});
   
+  // Referencias para mantener el scroll
+  const cineRefs = useRef({});
+  const diaRefs = useRef({});
+  const popupRef = useRef(null);
+  
   // Manejar expansión/colapso de funciones para un cine específico
   const toggleCineExpandido = (cineIndex) => {
-    setCinesExpandidos(prev => ({
-      ...prev,
-      [cineIndex]: !prev[cineIndex]
-    }));
+    setCinesExpandidos(prev => {
+      const newState = {
+        ...prev,
+        [cineIndex]: !prev[cineIndex]
+      };
+      
+      // Programar scroll para después de la renderización
+      setTimeout(() => {
+        if (newState[cineIndex] && cineRefs.current[cineIndex]) {
+          cineRefs.current[cineIndex].scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        }
+      }, 100);
+      
+      return newState;
+    });
   };
   
   // Manejar expansión/colapso de funciones para un día específico dentro de un cine
   const toggleDiaExpandido = (cineIndex, diaIndex) => {
     const key = `${cineIndex}-${diaIndex}`;
-    setDiasExpandidos(prev => ({
-      ...prev,
-      [key]: !prev[key]
-    }));
+    setDiasExpandidos(prev => {
+      const newState = {
+        ...prev,
+        [key]: !prev[key]
+      };
+      
+      // Programar scroll para después de la renderización
+      setTimeout(() => {
+        if (newState[key] && diaRefs.current[key]) {
+          diaRefs.current[key].scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        }
+      }, 100);
+      
+      return newState;
+    });
   };
   
   // Formatear fecha para mostrar en formato legible
@@ -133,7 +166,10 @@ const CarteleraCard = ({ evento, icon }) => {
   // Componente para popup
   const Popup = ({ titulo, contenido, onClose }) => (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-70">
-      <div className="bg-white rounded-lg p-6 max-w-3xl max-h-[80vh] overflow-y-auto shadow-2xl">
+      <div 
+        ref={popupRef}
+        className="bg-white rounded-lg p-6 max-w-3xl max-h-[80vh] overflow-y-auto shadow-2xl"
+      >
         <div className="flex justify-between items-center mb-4">
           <h3 className="text-xl font-bold">{titulo}</h3>
           <button 
@@ -211,11 +247,21 @@ const CarteleraCard = ({ evento, icon }) => {
                 fecha,
                 // Usar la función para obtener el nombre del día correcto
                 nombreDia: obtenerNombreDiaCorrecto({ fecha }) || formatearFechaCorta(fecha),
-                funciones: funcionesPorDia[fecha]
+                // Ordenar las funciones por hora antes de devolverlas
+                funciones: funcionesPorDia[fecha].sort((a, b) => {
+                  // Convertir a números para comparación (ej: "14:30" -> [14, 30] -> 14.5)
+                  const horaA = a.hora ? a.hora.split(':').reduce((h, m) => parseFloat(h) + parseFloat(m) / 60, 0) : 0;
+                  const horaB = b.hora ? b.hora.split(':').reduce((h, m) => parseFloat(h) + parseFloat(m) / 60, 0) : 0;
+                  return horaA - horaB;
+                })
               }));
             
             return (
-              <div key={cineIndex} className="mb-6 bg-white rounded-lg border border-gray-100 shadow-sm">
+              <div 
+                key={cineIndex} 
+                className="mb-6 bg-white rounded-lg border border-gray-100 shadow-sm"
+                ref={el => cineRefs.current[cineIndex] = el}
+              >
                 <div className="p-4 border-b border-gray-100 bg-gray-50 rounded-t-lg">
                   <div className="flex justify-between items-center">
                     <div>
@@ -271,9 +317,14 @@ const CarteleraCard = ({ evento, icon }) => {
                     <div className="space-y-3">
                       {diasOrdenados.map((dia, diaIndex) => {
                         const diaExpandido = !!diasExpandidos[`${cineIndex}-${diaIndex}`];
+                        const refKey = `${cineIndex}-${diaIndex}`;
                         
                         return (
-                          <div key={diaIndex} className="border border-gray-100 rounded-lg overflow-hidden">
+                          <div 
+                            key={diaIndex} 
+                            className="border border-gray-100 rounded-lg overflow-hidden"
+                            ref={el => diaRefs.current[refKey] = el}
+                          >
                             <div 
                               className="p-3 bg-gray-50 flex justify-between items-center cursor-pointer"
                               onClick={() => toggleDiaExpandido(cineIndex, diaIndex)}
