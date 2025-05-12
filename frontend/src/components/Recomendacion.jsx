@@ -684,14 +684,20 @@ const Recomendacion = ({ data }) => {
       setCinesExpandidos(newState);
       
       // Hacemos scroll al elemento con un pequeño delay para permitir la renderización
+      // Pero con offset para que quede bien visible y no justo en el borde superior
       setTimeout(() => {
         if (cineRefs.current[cineIndex]) {
-          const headerElement = cineRefs.current[cineIndex].querySelector('.p-4'); // Seleccionamos el header
-          if (headerElement) {
-            headerElement.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-          }
+          const element = cineRefs.current[cineIndex];
+          const headerRect = element.getBoundingClientRect();
+          const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+          const targetPosition = scrollTop + headerRect.top - 80; // 80px de margen superior
+          
+          window.scrollTo({
+            top: targetPosition,
+            behavior: 'smooth'
+          });
         }
-      }, 50);
+      }, 100); // Mayor delay para asegurar que la UI se haya actualizado
     }
   };
   
@@ -714,14 +720,20 @@ const Recomendacion = ({ data }) => {
       }));
       
       // Hacemos scroll al elemento con un pequeño delay para permitir la renderización
+      // Pero con offset para que quede bien visible
       setTimeout(() => {
         if (diaRefs.current[key]) {
-          const headerElement = diaRefs.current[key].querySelector('.p-3'); // Seleccionamos el header
-          if (headerElement) {
-            headerElement.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-          }
+          const element = diaRefs.current[key];
+          const headerRect = element.getBoundingClientRect();
+          const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+          const targetPosition = scrollTop + headerRect.top - 100; // 100px de margen superior
+          
+          window.scrollTo({
+            top: targetPosition,
+            behavior: 'smooth'
+          });
         }
-      }, 50);
+      }, 100); // Mayor delay para asegurar que la UI se haya actualizado
     }
   };
   
