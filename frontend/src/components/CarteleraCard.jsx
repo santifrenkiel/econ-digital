@@ -6,12 +6,31 @@ const CarteleraCard = ({ evento, icon }) => {
   const [mostrarFuncionesPopup, setMostrarFuncionesPopup] = useState(false);
   const [cinesExpandidos, setCinesExpandidos] = useState({});
   const [diasExpandidos, setDiasExpandidos] = useState({});
+  const [scrollPosition, setScrollPosition] = useState(0);
   
   // Referencia al contenedor del popup
   const popupRef = useRef(null);
   
+  // Preservar la posición del scroll cuando se expanden/colapsan elementos
+  useEffect(() => {
+    if (popupRef.current && mostrarFuncionesPopup) {
+      popupRef.current.scrollTop = scrollPosition;
+    }
+  }, [cinesExpandidos, diasExpandidos, scrollPosition, mostrarFuncionesPopup]);
+  
   // Manejar expansión/colapso de funciones para un cine específico
-  const toggleCineExpandido = (cineIndex) => {
+  const toggleCineExpandido = (cineIndex, event) => {
+    // Evitar la propagación para prevenir comportamientos inesperados
+    if (event) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
+    
+    // Guardar la posición actual del scroll
+    if (popupRef.current) {
+      setScrollPosition(popupRef.current.scrollTop);
+    }
+    
     // Si el cine que se va a expandir ya está expandido, colapsarlo
     const isCurrentlyExpanded = !!cinesExpandidos[cineIndex];
     
@@ -32,7 +51,18 @@ const CarteleraCard = ({ evento, icon }) => {
   };
   
   // Manejar expansión/colapso de funciones para un día específico dentro de un cine
-  const toggleDiaExpandido = (cineIndex, diaIndex) => {
+  const toggleDiaExpandido = (cineIndex, diaIndex, event) => {
+    // Evitar la propagación para prevenir comportamientos inesperados
+    if (event) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
+    
+    // Guardar la posición actual del scroll
+    if (popupRef.current) {
+      setScrollPosition(popupRef.current.scrollTop);
+    }
+    
     const key = `${cineIndex}-${diaIndex}`;
     const isCurrentlyExpanded = !!diasExpandidos[key];
     
@@ -315,7 +345,7 @@ const CarteleraCard = ({ evento, icon }) => {
                     
                     {cantidadFunciones > 0 && (
                       <button 
-                        onClick={() => toggleCineExpandido(cineIndex)}
+                        onClick={(e) => toggleCineExpandido(cineIndex, e)}
                         className="flex items-center text-primary-600 hover:text-primary-800 px-3 py-1 rounded-full bg-gray-100 hover:bg-gray-200 transition-colors"
                       >
                         {expandido ? (
@@ -364,7 +394,7 @@ const CarteleraCard = ({ evento, icon }) => {
                           >
                             <div 
                               className="p-3 bg-gray-50 flex justify-between items-center cursor-pointer"
-                              onClick={() => toggleDiaExpandido(cineIndex, diaIndex)}
+                              onClick={(e) => toggleDiaExpandido(cineIndex, diaIndex, e)}
                             >
                               <div className="flex items-center">
                                 <FaCalendarAlt className="text-primary-500 mr-2" />
@@ -372,7 +402,10 @@ const CarteleraCard = ({ evento, icon }) => {
                                   {dia.nombreDia} {new Date(dia.fecha).getDate()}
                                 </span>
                               </div>
-                              <button className="text-primary-600 hover:text-primary-800 flex items-center">
+                              <button 
+                                className="text-primary-600 hover:text-primary-800 flex items-center"
+                                onClick={(e) => toggleDiaExpandido(cineIndex, diaIndex, e)}
+                              >
                                 {diaExpandido ? (
                                   <>
                                     <FaAngleUp className="mr-1" />
@@ -428,13 +461,16 @@ const CarteleraCard = ({ evento, icon }) => {
                 <div key={index} className="border border-gray-200 rounded-lg overflow-hidden">
                   <div 
                     className="p-3 bg-gray-50 flex justify-between items-center cursor-pointer"
-                    onClick={() => toggleDiaExpandido(`grupo`, index)}
+                    onClick={(e) => toggleDiaExpandido(`grupo`, index, e)}
                   >
                     <div className="flex items-center">
                       <FaCalendarAlt className="mr-2 text-primary-500" />
                       <span className="font-medium">{formatearFecha(grupo.fecha)}</span>
                     </div>
-                    <button className="text-primary-600 hover:text-primary-800 flex items-center">
+                    <button 
+                      className="text-primary-600 hover:text-primary-800 flex items-center"
+                      onClick={(e) => toggleDiaExpandido(`grupo`, index, e)}
+                    >
                       {diaExpandido ? (
                         <>
                           <FaAngleUp className="mr-1" />
