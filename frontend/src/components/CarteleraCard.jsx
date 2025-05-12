@@ -14,83 +14,19 @@ const CarteleraCard = ({ evento, icon }) => {
   
   // Manejar expansión/colapso de funciones para un cine específico
   const toggleCineExpandido = (cineIndex) => {
-    setCinesExpandidos(prev => {
-      const newState = {
-        ...prev,
-        [cineIndex]: !prev[cineIndex]
-      };
-      
-      // Solo hacer scroll si estamos expandiendo, no al colapsar
-      if (newState[cineIndex] && cineRefs.current[cineIndex]) {
-        // Usamos requestAnimationFrame para asegurarnos que el DOM se ha actualizado
-        requestAnimationFrame(() => {
-          const element = cineRefs.current[cineIndex];
-          if (!element) return;
-
-          // Verificar si el elemento está fuera de la vista
-          const rect = element.getBoundingClientRect();
-          const isVisible = (
-            rect.top >= 0 &&
-            rect.left >= 0 &&
-            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-          );
-
-          // Solo hacer scroll si el elemento no está completamente visible
-          if (!isVisible) {
-            // Usamos scrollIntoView con behavior: 'smooth' para un desplazamiento suave
-            // y block: 'nearest' para minimizar el desplazamiento
-            element.scrollIntoView({
-              behavior: 'smooth',
-              block: 'nearest'
-            });
-          }
-        });
-      }
-      
-      return newState;
-    });
+    setCinesExpandidos(prev => ({
+      ...prev,
+      [cineIndex]: !prev[cineIndex]
+    }));
   };
   
   // Manejar expansión/colapso de funciones para un día específico dentro de un cine
   const toggleDiaExpandido = (cineIndex, diaIndex) => {
     const key = `${cineIndex}-${diaIndex}`;
-    setDiasExpandidos(prev => {
-      const newState = {
-        ...prev,
-        [key]: !prev[key]
-      };
-      
-      // Solo hacer scroll si estamos expandiendo, no al colapsar
-      if (newState[key] && diaRefs.current[key]) {
-        // Usamos requestAnimationFrame para asegurarnos que el DOM se ha actualizado
-        requestAnimationFrame(() => {
-          const element = diaRefs.current[key];
-          if (!element) return;
-
-          // Verificar si el elemento está fuera de la vista
-          const rect = element.getBoundingClientRect();
-          const isVisible = (
-            rect.top >= 0 &&
-            rect.left >= 0 &&
-            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-          );
-
-          // Solo hacer scroll si el elemento no está completamente visible
-          if (!isVisible) {
-            // Usamos scrollIntoView con behavior: 'smooth' para un desplazamiento suave
-            // y block: 'nearest' para minimizar el desplazamiento
-            element.scrollIntoView({
-              behavior: 'smooth',
-              block: 'nearest'
-            });
-          }
-        });
-      }
-      
-      return newState;
-    });
+    setDiasExpandidos(prev => ({
+      ...prev,
+      [key]: !prev[key]
+    }));
   };
   
   // Formatear fecha para mostrar en formato legible
