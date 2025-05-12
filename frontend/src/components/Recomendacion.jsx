@@ -125,7 +125,13 @@ const Recomendacion = ({ data }) => {
         className="bg-white rounded-lg p-6 max-w-3xl max-h-[80vh] overflow-y-auto shadow-2xl"
         style={{ overscrollBehavior: 'contain' }} // Evitar que el scroll se propague a la página
       >
-        <div className="flex justify-between items-center mb-4 sticky top-0 bg-white z-10 pb-2 border-b">
+        <div className="flex justify-between items-center mb-4 sticky top-0 bg-white z-10 pb-2 border-b shadow-sm"
+          style={{ 
+            backgroundColor: 'white', 
+            backdropFilter: 'blur(8px)',
+            boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)'
+          }}
+        >
           <h3 className="text-xl font-bold">{titulo}</h3>
           <button 
             onClick={onClose}
