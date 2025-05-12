@@ -7,13 +7,12 @@ const CarteleraCard = ({ evento, icon }) => {
   const [cinesExpandidos, setCinesExpandidos] = useState({});
   const [diasExpandidos, setDiasExpandidos] = useState({});
   
-  // Referencias para mantener el scroll
-  const cineRefs = useRef({});
-  const diaRefs = useRef({});
+  // Referencia al contenedor del popup
   const popupRef = useRef(null);
   
   // Manejar expansión/colapso de funciones para un cine específico
   const toggleCineExpandido = (cineIndex) => {
+    // Si el cine que se va a expandir ya está expandido, colapsarlo
     const isCurrentlyExpanded = !!cinesExpandidos[cineIndex];
     
     if (isCurrentlyExpanded) {
@@ -29,22 +28,6 @@ const CarteleraCard = ({ evento, icon }) => {
       // Solo activamos el cine actual
       newState[cineIndex] = true;
       setCinesExpandidos(newState);
-      
-      // Hacemos scroll al elemento con un pequeño delay para permitir la renderización
-      // Pero con offset para que quede bien visible y no justo en el borde superior
-      setTimeout(() => {
-        if (cineRefs.current[cineIndex]) {
-          const element = cineRefs.current[cineIndex];
-          const headerRect = element.getBoundingClientRect();
-          const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-          const targetPosition = scrollTop + headerRect.top - 80; // 80px de margen superior
-          
-          window.scrollTo({
-            top: targetPosition,
-            behavior: 'smooth'
-          });
-        }
-      }, 100); // Mayor delay para asegurar que la UI se haya actualizado
     }
   };
   
@@ -53,35 +36,10 @@ const CarteleraCard = ({ evento, icon }) => {
     const key = `${cineIndex}-${diaIndex}`;
     const isCurrentlyExpanded = !!diasExpandidos[key];
     
-    if (isCurrentlyExpanded) {
-      // Si está expandido, simplemente lo cerramos
-      setDiasExpandidos(prev => ({
-        ...prev,
-        [key]: false
-      }));
-    } else {
-      // Si no está expandido, lo abrimos y hacemos scroll
-      setDiasExpandidos(prev => ({
-        ...prev,
-        [key]: true
-      }));
-      
-      // Hacemos scroll al elemento con un pequeño delay para permitir la renderización
-      // Pero con offset para que quede bien visible
-      setTimeout(() => {
-        if (diaRefs.current[key]) {
-          const element = diaRefs.current[key];
-          const headerRect = element.getBoundingClientRect();
-          const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-          const targetPosition = scrollTop + headerRect.top - 100; // 100px de margen superior
-          
-          window.scrollTo({
-            top: targetPosition,
-            behavior: 'smooth'
-          });
-        }
-      }, 100); // Mayor delay para asegurar que la UI se haya actualizado
-    }
+    setDiasExpandidos(prev => ({
+      ...prev,
+      [key]: !isCurrentlyExpanded
+    }));
   };
   
   // Formatear fecha para mostrar en formato legible
@@ -196,8 +154,9 @@ const CarteleraCard = ({ evento, icon }) => {
       <div 
         ref={popupRef}
         className="bg-white rounded-lg p-6 max-w-3xl max-h-[80vh] overflow-y-auto shadow-2xl"
+        style={{ overscrollBehavior: 'contain' }} // Evitar que el scroll se propague a la página
       >
-        <div className="flex justify-between items-center mb-4">
+        <div className="flex justify-between items-center mb-4 sticky top-0 bg-white z-10 pb-2 border-b">
           <h3 className="text-xl font-bold">{titulo}</h3>
           <button 
             onClick={onClose}
@@ -341,7 +300,6 @@ const CarteleraCard = ({ evento, icon }) => {
               <div 
                 key={cineIndex} 
                 className="mb-6 bg-white rounded-lg border border-gray-100 shadow-sm"
-                ref={el => cineRefs.current[cineIndex] = el}
               >
                 <div className="p-4 border-b border-gray-100 bg-gray-50 rounded-t-lg">
                   <div className="flex justify-between items-center">
@@ -398,13 +356,11 @@ const CarteleraCard = ({ evento, icon }) => {
                     <div className="space-y-3">
                       {diasOrdenados.map((dia, diaIndex) => {
                         const diaExpandido = !!diasExpandidos[`${cineIndex}-${diaIndex}`];
-                        const refKey = `${cineIndex}-${diaIndex}`;
                         
                         return (
                           <div 
                             key={diaIndex} 
                             className="border border-gray-100 rounded-lg overflow-hidden"
-                            ref={el => diaRefs.current[refKey] = el}
                           >
                             <div 
                               className="p-3 bg-gray-50 flex justify-between items-center cursor-pointer"
