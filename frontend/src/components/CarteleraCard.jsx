@@ -199,15 +199,46 @@ const CarteleraCard = ({ evento, icon }) => {
       funcionesPorFecha[funcion.fecha].push(funcion);
     });
     
-    // Convertir el mapa a un array y ordenar por fecha
-    return Object.entries(funcionesPorFecha)
-      .map(([fecha, funciones]) => ({ 
-        fecha, 
-        // Usar obtenerNombreDiaCorrecto para garantizar nombres correctos
-        nombreDia: obtenerNombreDiaCorrecto({ fecha }) || formatearFechaCorta(fecha),
-        funciones
-      }))
-      .sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
+    // Convertir a array y ordenar por fecha
+    const diasOrdenados = Object.keys(funcionesPorFecha)
+      .sort((a, b) => new Date(a) - new Date(b))
+      .map(fecha => {
+        // Obtener todas las funciones para esta fecha
+        const funcionesParaFecha = funcionesPorFecha[fecha];
+        
+        // Ordenar las funciones por hora antes de devolverlas
+        const funcionesOrdenadas = funcionesParaFecha.sort((a, b) => {
+          // Función para convertir hora en formato "HH:MM" a minutos desde medianoche
+          const convertirAMinutos = (hora) => {
+            if (!hora) return 0;
+            
+            const partes = hora.split(':');
+            if (partes.length !== 2) return 0;
+            
+            const horas = parseInt(partes[0], 10);
+            const minutos = parseInt(partes[1], 10);
+            
+            if (isNaN(horas) || isNaN(minutos)) return 0;
+            
+            return (horas * 60) + minutos;
+          };
+          
+          // Convertir cada hora a minutos y comparar
+          const minutosA = convertirAMinutos(a.hora);
+          const minutosB = convertirAMinutos(b.hora);
+          
+          return minutosA - minutosB;
+        });
+        
+        return {
+          fecha,
+          // Usar la función para obtener el nombre del día correcto
+          nombreDia: obtenerNombreDiaCorrecto({ fecha }) || formatearFechaCorta(fecha),
+          funciones: funcionesOrdenadas
+        };
+      });
+    
+    return diasOrdenados;
   };
   
   const funcionesAgrupadas = agruparPorFecha();
@@ -243,18 +274,41 @@ const CarteleraCard = ({ evento, icon }) => {
             // Convertir a array y ordenar por fecha
             const diasOrdenados = Object.keys(funcionesPorDia)
               .sort((a, b) => new Date(a) - new Date(b))
-              .map(fecha => ({
-                fecha,
-                // Usar la función para obtener el nombre del día correcto
-                nombreDia: obtenerNombreDiaCorrecto({ fecha }) || formatearFechaCorta(fecha),
+              .map(fecha => {
+                // Obtener todas las funciones para esta fecha
+                const funcionesParaFecha = funcionesPorDia[fecha];
+                
                 // Ordenar las funciones por hora antes de devolverlas
-                funciones: funcionesPorDia[fecha].sort((a, b) => {
-                  // Convertir a números para comparación (ej: "14:30" -> [14, 30] -> 14.5)
-                  const horaA = a.hora ? a.hora.split(':').reduce((h, m) => parseFloat(h) + parseFloat(m) / 60, 0) : 0;
-                  const horaB = b.hora ? b.hora.split(':').reduce((h, m) => parseFloat(h) + parseFloat(m) / 60, 0) : 0;
-                  return horaA - horaB;
-                })
-              }));
+                const funcionesOrdenadas = funcionesParaFecha.sort((a, b) => {
+                  // Función para convertir hora en formato "HH:MM" a minutos desde medianoche
+                  const convertirAMinutos = (hora) => {
+                    if (!hora) return 0;
+                    
+                    const partes = hora.split(':');
+                    if (partes.length !== 2) return 0;
+                    
+                    const horas = parseInt(partes[0], 10);
+                    const minutos = parseInt(partes[1], 10);
+                    
+                    if (isNaN(horas) || isNaN(minutos)) return 0;
+                    
+                    return (horas * 60) + minutos;
+                  };
+                  
+                  // Convertir cada hora a minutos y comparar
+                  const minutosA = convertirAMinutos(a.hora);
+                  const minutosB = convertirAMinutos(b.hora);
+                  
+                  return minutosA - minutosB;
+                });
+                
+                return {
+                  fecha,
+                  // Usar la función para obtener el nombre del día correcto
+                  nombreDia: obtenerNombreDiaCorrecto({ fecha }) || formatearFechaCorta(fecha),
+                  funciones: funcionesOrdenadas
+                };
+              });
             
             return (
               <div 
