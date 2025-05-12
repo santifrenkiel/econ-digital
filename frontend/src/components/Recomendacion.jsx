@@ -666,19 +666,63 @@ const Recomendacion = ({ data }) => {
   
   // Manejar expansión/colapso de funciones para un cine específico
   const toggleCineExpandido = (cineIndex) => {
-    setCinesExpandidos(prev => ({
-      ...prev,
-      [cineIndex]: !prev[cineIndex]
-    }));
+    // Si el cine que se va a expandir ya está expandido, colapsarlo
+    const isCurrentlyExpanded = !!cinesExpandidos[cineIndex];
+    
+    if (isCurrentlyExpanded) {
+      // Si está expandido, simplemente lo cerramos
+      setCinesExpandidos(prev => ({
+        ...prev,
+        [cineIndex]: false
+      }));
+    } else {
+      // Si no está expandido, cerramos todos los otros cines y abrimos este
+      // Creamos un nuevo objeto vacío para resetear todos los estados
+      const newState = {};
+      // Solo activamos el cine actual
+      newState[cineIndex] = true;
+      setCinesExpandidos(newState);
+      
+      // Hacemos scroll al elemento con un pequeño delay para permitir la renderización
+      setTimeout(() => {
+        if (cineRefs.current[cineIndex]) {
+          const headerElement = cineRefs.current[cineIndex].querySelector('.p-4'); // Seleccionamos el header
+          if (headerElement) {
+            headerElement.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          }
+        }
+      }, 50);
+    }
   };
   
   // Manejar expansión/colapso de funciones para un día específico dentro de un cine
   const toggleDiaExpandido = (cineIndex, diaIndex) => {
     const key = `${cineIndex}-${diaIndex}`;
-    setDiasExpandidos(prev => ({
-      ...prev,
-      [key]: !prev[key]
-    }));
+    const isCurrentlyExpanded = !!diasExpandidos[key];
+    
+    if (isCurrentlyExpanded) {
+      // Si está expandido, simplemente lo cerramos
+      setDiasExpandidos(prev => ({
+        ...prev,
+        [key]: false
+      }));
+    } else {
+      // Si no está expandido, lo abrimos y hacemos scroll
+      setDiasExpandidos(prev => ({
+        ...prev,
+        [key]: true
+      }));
+      
+      // Hacemos scroll al elemento con un pequeño delay para permitir la renderización
+      setTimeout(() => {
+        if (diaRefs.current[key]) {
+          const headerElement = diaRefs.current[key].querySelector('.p-3'); // Seleccionamos el header
+          if (headerElement) {
+            headerElement.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          }
+        }
+      }, 50);
+    }
   };
   
   // Formatear fecha corta (para funciones)
