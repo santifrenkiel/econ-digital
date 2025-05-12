@@ -20,15 +20,33 @@ const CarteleraCard = ({ evento, icon }) => {
         [cineIndex]: !prev[cineIndex]
       };
       
-      // Programar scroll para después de la renderización
-      setTimeout(() => {
-        if (newState[cineIndex] && cineRefs.current[cineIndex]) {
-          cineRefs.current[cineIndex].scrollIntoView({
-            behavior: 'smooth',
-            block: 'start'
-          });
-        }
-      }, 100);
+      // Solo hacer scroll si estamos expandiendo, no al colapsar
+      if (newState[cineIndex] && cineRefs.current[cineIndex]) {
+        // Usamos requestAnimationFrame para asegurarnos que el DOM se ha actualizado
+        requestAnimationFrame(() => {
+          const element = cineRefs.current[cineIndex];
+          if (!element) return;
+
+          // Verificar si el elemento está fuera de la vista
+          const rect = element.getBoundingClientRect();
+          const isVisible = (
+            rect.top >= 0 &&
+            rect.left >= 0 &&
+            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+          );
+
+          // Solo hacer scroll si el elemento no está completamente visible
+          if (!isVisible) {
+            // Usamos scrollIntoView con behavior: 'smooth' para un desplazamiento suave
+            // y block: 'nearest' para minimizar el desplazamiento
+            element.scrollIntoView({
+              behavior: 'smooth',
+              block: 'nearest'
+            });
+          }
+        });
+      }
       
       return newState;
     });
@@ -43,15 +61,33 @@ const CarteleraCard = ({ evento, icon }) => {
         [key]: !prev[key]
       };
       
-      // Programar scroll para después de la renderización
-      setTimeout(() => {
-        if (newState[key] && diaRefs.current[key]) {
-          diaRefs.current[key].scrollIntoView({
-            behavior: 'smooth',
-            block: 'start'
-          });
-        }
-      }, 100);
+      // Solo hacer scroll si estamos expandiendo, no al colapsar
+      if (newState[key] && diaRefs.current[key]) {
+        // Usamos requestAnimationFrame para asegurarnos que el DOM se ha actualizado
+        requestAnimationFrame(() => {
+          const element = diaRefs.current[key];
+          if (!element) return;
+
+          // Verificar si el elemento está fuera de la vista
+          const rect = element.getBoundingClientRect();
+          const isVisible = (
+            rect.top >= 0 &&
+            rect.left >= 0 &&
+            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+          );
+
+          // Solo hacer scroll si el elemento no está completamente visible
+          if (!isVisible) {
+            // Usamos scrollIntoView con behavior: 'smooth' para un desplazamiento suave
+            // y block: 'nearest' para minimizar el desplazamiento
+            element.scrollIntoView({
+              behavior: 'smooth',
+              block: 'nearest'
+            });
+          }
+        });
+      }
       
       return newState;
     });
