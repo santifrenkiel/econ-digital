@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-05-12T01:32:28.936Z",
+  "total_eventos": 29,
+  "detalles": {
+    "cine": 3,
+    "teatro": 24,
+    "música": 2
+  }
+}
