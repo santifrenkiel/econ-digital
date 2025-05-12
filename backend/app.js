@@ -3,6 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const path = require('path');
 const cron = require('node-cron');
+const fs = require('fs').promises;
 const ejecutarScrapers = require('./scrapers');
 
 // Importar rutas
@@ -32,20 +33,108 @@ app.get('/', (req, res) => {
       { ruta: '/cartelera/:tipo', método: 'GET', descripción: 'Obtiene eventos filtrados por tipo (cine, teatro, música)' },
       { ruta: '/reviews', método: 'GET', descripción: 'Obtiene todos los restaurantes' },
       { ruta: '/reviews/:id', método: 'GET', descripción: 'Obtiene un restaurante por ID' },
-      { ruta: '/recomendar', método: 'POST', descripción: 'Genera una recomendación basada en el mensaje del usuario', body: { mensaje: 'Texto del usuario' } }
+      { ruta: '/recomendar', método: 'POST', descripción: 'Genera una recomendación basada en el mensaje del usuario', body: { mensaje: 'Texto del usuario' } },
+      { ruta: '/admin/actualizar-cartelera', método: 'POST', descripción: 'Fuerza una actualización manual de la cartelera' },
+      { ruta: '/admin/estado-actualizacion', método: 'GET', descripción: 'Muestra la información de la última actualización' }
     ]
   });
 });
 
-// Configurar tarea CRON para ejecutar los scrapers diariamente a las 3am
-// Este script debe ejecutarse en el servidor de Render
-cron.schedule('0 3 * * *', async () => {
-  console.log('Ejecutando scrapers programados...');
+// Configurar tarea CRON para ejecutar los scrapers diariamente a las 10AM UTC
+// Railway mantiene la aplicación activa constantemente, por lo que este cron funcionará de manera confiable
+cron.schedule('0 10 * * *', async () => {
+  console.log('🔄 Ejecutando actualización diaria de cartelera - ' + new Date().toISOString());
   try {
-    await ejecutarScrapers();
-    console.log('Scrapers completados con éxito.');
+    // Ejecutar todos los scrapers
+    const cartelera = await ejecutarScrapers();
+    console.log(`✅ Actualización completada con éxito - ${cartelera.length} eventos obtenidos`);
+    
+    // Guardar un registro detallado de la actualización
+    const eventosXTipo = cartelera.reduce((acc, evento) => {
+      acc[evento.tipo] = (acc[evento.tipo] || 0) + 1;
+      return acc;
+    }, {});
+    
+    // Guardar timestamp de última actualización
+    const timestampFile = path.join(__dirname, 'data', 'ultima_actualizacion.json');
+    const updateData = {
+      timestamp: new Date().toISOString(),
+      total_eventos: cartelera.length,
+      detalles: eventosXTipo
+    };
+    
+    // Usar writeFileSync para garantizar que se escriba adecuadamente
+    require('fs').writeFileSync(
+      timestampFile, 
+      JSON.stringify(updateData, null, 2), 
+      'utf8'
+    );
+    
+    console.log('📊 Resumen de eventos actualizados:', eventosXTipo);
   } catch (error) {
-    console.error('Error al ejecutar scrapers programados:', error.message);
+    console.error('❌ Error en actualización programada:', error.message);
+  }
+});
+
+// Ruta para forzar una actualización manual (útil para testing)
+app.post('/admin/actualizar-cartelera', async (req, res) => {
+  console.log('🔄 Iniciando actualización manual de cartelera - ' + new Date().toISOString());
+  try {
+    // Ejecutar todos los scrapers
+    const cartelera = await ejecutarScrapers();
+    console.log(`✅ Actualización manual completada con éxito - ${cartelera.length} eventos obtenidos`);
+    
+    // Guardar un registro detallado de la actualización
+    const eventosXTipo = cartelera.reduce((acc, evento) => {
+      acc[evento.tipo] = (acc[evento.tipo] || 0) + 1;
+      return acc;
+    }, {});
+    
+    // Guardar timestamp de última actualización
+    const timestampFile = path.join(__dirname, 'data', 'ultima_actualizacion.json');
+    const updateData = {
+      timestamp: new Date().toISOString(),
+      total_eventos: cartelera.length,
+      detalles: eventosXTipo
+    };
+    
+    // Usar writeFileSync para garantizar que se escriba antes de enviar la respuesta
+    require('fs').writeFileSync(
+      timestampFile, 
+      JSON.stringify(updateData, null, 2), 
+      'utf8'
+    );
+    
+    console.log('📊 Resumen de eventos actualizados:', eventosXTipo);
+    res.json({
+      success: true,
+      message: `Cartelera actualizada con éxito. ${cartelera.length} eventos obtenidos.`,
+      update_info: updateData
+    });
+  } catch (error) {
+    console.error('❌ Error en actualización manual:', error.message);
+    res.status(500).json({
+      success: false,
+      message: 'Error al actualizar la cartelera',
+      error: error.message
+    });
+  }
+});
+
+// Ruta para verificar cuándo fue la última actualización
+app.get('/admin/estado-actualizacion', async (req, res) => {
+  try {
+    const timestampFile = path.join(__dirname, 'data', 'ultima_actualizacion.json');
+    const data = await fs.readFile(timestampFile, 'utf8')
+      .then(content => JSON.parse(content))
+      .catch(() => ({ timestamp: 'Nunca', mensaje: 'No hay registro de actualizaciones' }));
+    
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({
+      error: 'Error al obtener información de actualización',
+      mensaje: error.message
+    });
   }
 });
 
