@@ -18,6 +18,7 @@ const obtenerTitulosPeliculas = require('./titulos-cine');
 async function buscarFuncionesPorTitulo(titulo, apiKey, ubicacionReferencia = '') {
   try {
     console.log(`🔍 Buscando información para: "${titulo}"`);
+    console.log(`🚀 Enviando solicitud a SerpAPI para: "${titulo}" - ${new Date().toISOString()}`);
     const response = await axios.get('https://serpapi.com/search.json', {
       params: {
         api_key: apiKey,
@@ -29,6 +30,8 @@ async function buscarFuncionesPorTitulo(titulo, apiKey, ubicacionReferencia = ''
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
       }
     });
+    console.log(`✅ Respuesta recibida de SerpAPI para: "${titulo}" - ${new Date().toISOString()}`);
+    console.log(`📊 Estado de la respuesta: ${response.status} - Tamaño de datos: ${JSON.stringify(response.data).length} bytes`);
     
     // Guardar todas las respuestas de SerpAPI para análisis
     try {
