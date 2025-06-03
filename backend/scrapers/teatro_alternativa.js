@@ -20,22 +20,28 @@ const formatearFecha = (fecha) => {
  * Obtiene información de obras de teatro desde Alternativa Teatral
  * @returns {Promise<Array>} - Obras de teatro formateadas según el esquema requerido
  */
-async function obtenerTeatroAlternativa() {
+async function obtenerTeatroAlternativa(reintentos = 2) {
   let browser;
   try {
-    console.log('Obteniendo información de teatro desde Alternativa Teatral...');
+    console.log(`Obteniendo información de teatro desde Alternativa Teatral (intento ${3-reintentos}/3)...`);
     
     // Iniciar browser
     browser = await puppeteer.launch({
       headless: "new",
-      args: ['--no-sandbox', '--disable-setuid-sandbox']
+      args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage'],
+      protocolTimeout: 120000 // Aumentar el tiempo de espera a 2 minutos
     });
     
+    // Configurar página con timeouts más generosos
     const page = await browser.newPage();
+    await page.setDefaultNavigationTimeout(60000); // 1 minuto para navegación
+    await page.setDefaultTimeout(60000); // 1 minuto para otras operaciones
     
     // Ir a la página principal de la cartelera
+    console.log('Navegando a Alternativa Teatral...');
     await page.goto('https://www.alternativateatral.com/cartelera.asp', {
-      waitUntil: 'networkidle2'
+      waitUntil: 'networkidle2',
+      timeout: 60000 // Aumentar el tiempo de espera a 1 minuto
     });
     
     // Hacer scroll para cargar más contenido (unas 10-15 veces para llegar a ~40-50 obras)
@@ -44,12 +50,12 @@ async function obtenerTeatroAlternativa() {
       await page.evaluate(() => {
         window.scrollBy(0, 1000);
       });
-      // Esperar un poco para que cargue el contenido
-      await delay(300);
+      // Esperar un poco más entre cada scroll
+      await delay(500);
     }
     
     // Esperar a que se cargue el contenido dinámicamente
-    await page.waitForSelector('#cartelera .espectaculo', { timeout: 10000 })
+    await page.waitForSelector('#cartelera .espectaculo', { timeout: 30000 })
       .catch(() => console.log('No se encontraron espectáculos, intentando continuar...'));
     
     // Extraer datos de las obras
@@ -419,7 +425,21 @@ async function obtenerTeatroAlternativa() {
     return obras;
   } catch (error) {
     console.error('Error al obtener datos de Alternativa Teatral:', error.message);
-    // Devolver datos de ejemplo en caso de error
+    
+    // Intentar nuevamente si quedan reintentos
+    if (reintentos > 0) {
+      console.log(`Reintentando scraping de Alternativa Teatral (quedan ${reintentos} intentos)...`);
+      // Cerrar el navegador si está abierto antes de reintentar
+      if (browser) {
+        await browser.close();
+        browser = null;
+      }
+      // Esperar un poco antes de reintentar
+      await delay(3000);
+      return obtenerTeatroAlternativa(reintentos - 1);
+    }
+    
+    // Si no quedan reintentos o se acabaron, devolver datos de ejemplo
     const hoy = new Date();
     const diaActual = hoy.getDay(); // 0 = domingo, 1 = lunes, etc.
     const fechaHoyStr = formatearFecha(hoy);
@@ -458,6 +478,7 @@ async function obtenerTeatroAlternativa() {
       }
     ];
   } finally {
+    // Cerrar el navegador si está abierto
     if (browser) {
       await browser.close();
     }

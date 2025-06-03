@@ -314,8 +314,8 @@ async function obtenerPeliculas(ubicacionReferencia = '') {
     // Usar directamente las tres películas específicas en lugar de obtenerlas del scraper
     const peliculasABuscar = [
       'Thunderbolts*',
-      'La carga más preciada',
-      'Until Dawn'
+      'Mazel Tov',
+      'Una película de Minecraft'
     ];
     
     console.log(`🎬 Buscando horarios para ${peliculasABuscar.length} películas fijas: ${peliculasABuscar.join(', ')}`);
