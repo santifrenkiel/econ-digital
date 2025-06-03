@@ -9,8 +9,8 @@ async function obtenerTitulosPeliculas() {
     const peliculasPrioritarias = [
       // Películas confirmadas de la segunda sección de estrenos
       'Thunderbolts*',
-      'Mensaje en una botella',
-      'Infierno en el pantano',
+      'Mazel Tov',
+      'Una película de Minecraft',
       'Misericordia',
       'Sneaks, un par con suerte',
       'El casero'
@@ -103,8 +103,8 @@ async function obtenerTitulosPeliculas() {
     // En caso de error general, devolver la lista básica
     const peliculasBasicas = [
       'Thunderbolts*',
-      'Mensaje en una botella',
-      'Infierno en el pantano',
+      'Mazel Tov',
+      'Una película de Minecraft',
       'Misericordia',
       'Sneaks, un par con suerte',
       'El casero'
